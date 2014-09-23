@@ -1,7 +1,7 @@
 name: Polslinux's Blog
 markdown: redcarpet
 pygments: true
-url: https://www.paolostivanin.com
+url: http://paolostivanin.github.io
 paginate: 8
 description:     Jekyll theme for Programmers
 intro: White Paper is a Jekyll theme most suited to be used on tech blogs that like their content to shine.
