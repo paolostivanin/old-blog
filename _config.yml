@@ -1,3 +1,4 @@
+title: Polslinux's Blog
 name: Polslinux's Blog
 markdown: redcarpet
 pygments: true
@@ -5,16 +6,16 @@ url: http://paolostivanin.github.io
 paginate: 8
 description:     Paolo Stivanin
 intro: Where there is a shell there is a way!
-#logo:             logo.png
 disqus_shortname:
-# url: http://gotchacode.com
-#Comment out url when working locally to resolve base urls correctly
-#url:
+license:
+  link: 'https://creativecommons.org/licenses/by-nc/4.0/'
+  label: 'CC-BY-NC'
 
 # Owner/author information
 owner:
   name:           Paolo Stivanin
-#  avatar:         <avatar-image-link>
+# avatar:         <avatar-image-link>
+# url:
   email:          <your-email-address>
 
   twitter: polslinux
