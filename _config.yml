@@ -5,7 +5,7 @@ url: http://paolostivanin.github.io
 intro: Where there is a shell there is a way!
 description: Personal Blog
 paginate: 8
-pygments: true
+highlighter: pygments
 disqus_shortname:
 license:
   link: 'https://creativecommons.org/licenses/by-nc/4.0/'
