@@ -14,17 +14,14 @@ disqus_shortname:
 # Owner/author information
 owner:
   name:           Paolo Stivanin
-  avatar:         <avatar-image-link>
+#  avatar:         <avatar-image-link>
   email:          <your-email-address>
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  github:
-  stackexchange:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+
+  twitter: https://twitter.com/polslinux
+  github: https://github.com/paolostivanin
+  google_plus: https://plus.google.com/u/0/+PaoloStivanin
 
 # Analytics and webmaster tools stuff goes here
-#google_analytics:
 #google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 #bing_verify:

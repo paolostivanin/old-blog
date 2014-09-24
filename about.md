@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Vinit Kumar
+title: About Paolo Stivanin
 ---
 
 Your introduction here
