@@ -17,9 +17,9 @@ owner:
 #  avatar:         <avatar-image-link>
   email:          <your-email-address>
 
-  twitter: https://twitter.com/polslinux
+  twitter: polslinux
   github: https://github.com/paolostivanin
-  google_plus: https://plus.google.com/u/0/+PaoloStivanin
+  google_plus: PaoloStivanin
 
 # Analytics and webmaster tools stuff goes here
 #google_verify:
