@@ -1,11 +1,11 @@
-title: Polslinux's Blog
-name: Polslinux's Blog
 markdown: redcarpet
-pygments: true
+title: Polslinux's Blog
+#name: Polslinux's Blog
 url: http://paolostivanin.github.io
-paginate: 8
-description:     Paolo Stivanin
 intro: Where there is a shell there is a way!
+description: Personal Blog
+paginate: 8
+pygments: true
 disqus_shortname:
 license:
   link: 'https://creativecommons.org/licenses/by-nc/4.0/'
