@@ -23,7 +23,8 @@ But there was an issue with this app, it used URLS to render the albums and spoi
 
 Here is the code to make it all work:
 
-```python Facebook.py 
+```python
+Facebook.py 
 from django.conf import settings
 from django.core.cache import cache
 import urllib2, urllib
@@ -70,7 +71,8 @@ def display_album(album_id):
 I asked user to enter the album ID and name, then rendered the album using the plugin here:
 
 
-```python cms_plugins.py 
+```python
+cms_plugins.py 
 from cms.plugin_base import CMSPluginBase
 from cms.plugin_pool import plugin_pool
 from django.utils.translation import ugettext_lazy as _
