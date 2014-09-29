@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-01-18 22:57:26+00:00
 layout: post
-slug: installare-drupal-in-localhost
 title: Installare Drupal in localhost!
-wordpress_id: 1070
 categories:
 - Generale
 - Unix

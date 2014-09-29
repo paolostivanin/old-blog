@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-05 10:38:19+00:00
 layout: post
-slug: passaggio-a-ubuntu-904-jaunty-jackalope-e-adozione-di-lilo
 title: Passaggio a Ubuntu 9.04 - Jaunty Jackalope! (e adozione di LILO)
-wordpress_id: 376
 categories:
 - Ubuntu
 - Unix

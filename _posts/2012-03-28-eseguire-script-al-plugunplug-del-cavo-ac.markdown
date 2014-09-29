@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-03-28 20:21:48+00:00
 layout: post
-slug: eseguire-script-al-plugunplug-del-cavo-ac
 title: Eseguire script al plug/unplug del cavo AC
-wordpress_id: 1840
 categories:
 - ArchLinux
 - Unix

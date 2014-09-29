@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-03-02 18:23:17+00:00
 layout: post
-slug: aggiornamenti-personali
 title: Aggiornamenti personali!
-wordpress_id: 1184
 categories:
 - Generale
 ---

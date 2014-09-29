@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-09 06:00:19+00:00
 layout: post
-slug: mandriva-linux-2009-rc1
 title: Mandriva Linux 2009 rc1!
-wordpress_id: 269
 categories:
 - Unix
 ---

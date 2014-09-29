@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-03-30 07:30:32+00:00
 layout: post
-slug: gnome-226-sui-repo-i686-di-arch
 title: Gnome 2.26 sui repo i686 di Arch!
-wordpress_id: 658
 categories:
 - ArchLinux
 - Unix

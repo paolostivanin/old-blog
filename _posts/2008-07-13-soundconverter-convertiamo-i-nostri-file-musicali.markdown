@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-13 08:30:11+00:00
 layout: post
-slug: soundconverter-convertiamo-i-nostri-file-musicali
 title: Soundconverter, convertiamo i nostri file musicali!
-wordpress_id: 59
 categories:
 - Generale
 ---

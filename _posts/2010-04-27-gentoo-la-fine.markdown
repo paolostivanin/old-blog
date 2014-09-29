@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-04-27 18:45:14+00:00
 layout: post
-slug: gentoo-la-fine
 title: Gentoo, la fine :)
-wordpress_id: 842
 categories:
 - Generale
 - Gentoo

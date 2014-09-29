@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-10-30 20:50:50+00:00
 layout: post
-slug: ubuntu-lucid-lynx-repo-aperti-si-parte
 title: Ubuntu Lucid Lynx, repo aperti, SI PARTE!
-wordpress_id: 772
 categories:
 - Ubuntu
 - Unix

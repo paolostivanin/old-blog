@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-11 11:18:00+00:00
 layout: post
-slug: road-to-ubuntu-810
 title: Road-to Ubuntu 8.10!
-wordpress_id: 150
 categories:
 - Ubuntu
 ---

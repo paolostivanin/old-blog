@@ -1,13 +1,10 @@
 ---
-author: pol@blog
 comments: true
 date: 2014-05-12 10:20:04+00:00
 layout: post
-slug: slae-assignment-6-polymorphic-shellcode
 title: 'SLAE Assignment 6: Polymorphic Shellcode'
-wordpress_id: 2413
 categories:
-- Programmazione
+- programming
 - SLAE
 tags:
 - asm-x86

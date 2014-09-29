@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-07 17:23:10+00:00
 layout: post
-slug: compilazione-kernel-manuale
 title: Compilazione kernel manuale
-wordpress_id: 42
 categories:
 - Unix
 ---

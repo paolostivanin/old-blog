@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-09-02 13:29:06+00:00
 layout: post
-slug: soluzione-libreoffice-3-6-1-non-parte-su-archlinux
 title: '[Soluzione] Libreoffice 3.6.1 non parte su Archlinux'
-wordpress_id: 1998
 categories:
 - ArchLinux
 - Unix

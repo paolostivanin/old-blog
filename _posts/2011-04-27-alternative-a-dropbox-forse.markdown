@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-04-27 22:10:03+00:00
 layout: post
-slug: alternative-a-dropbox-forse
 title: Alternative a Dropbox? Forse...
-wordpress_id: 1288
 categories:
 - Generale
 - Unix

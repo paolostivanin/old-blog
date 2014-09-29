@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-11-30 11:12:49+00:00
 layout: post
-slug: debug-nautilus-scripts
 title: Debug Nautilus Scripts
-wordpress_id: 1706
 categories:
 - ArchLinux
 - Debian &amp; Co

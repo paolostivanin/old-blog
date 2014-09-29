@@ -1,13 +1,10 @@
 ---
-author: pol@blog
 comments: true
 date: 2014-01-19 18:02:06+00:00
 layout: post
-slug: update-la-pila-in-c
 title: '[Update] La pila in C'
-wordpress_id: 2265
 categories:
-- Programmazione
+- programming
 - Unix
 tags:
 - c

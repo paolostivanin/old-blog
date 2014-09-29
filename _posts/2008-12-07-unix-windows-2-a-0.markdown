@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-12-07 18:55:47+00:00
 layout: post
-slug: unix-windows-2-a-0
 title: Unix - Windows, 2 a 0!
-wordpress_id: 479
 categories:
 - Generale
 - Unix

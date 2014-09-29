@@ -1,16 +1,13 @@
 ---
-author: pol@blog
 comments: true
 date: 2013-01-04 13:00:43+00:00
 layout: post
-slug: aggiungere-funzioni-bashrc
 title: Aggiungere funzioni al file .bashrc
-wordpress_id: 2105
 categories:
 - ArchLinux
 - Debian &amp; Co
 - Gentoo
-- Programmazione
+- programming
 - Ubuntu
 - Unix
 tags:

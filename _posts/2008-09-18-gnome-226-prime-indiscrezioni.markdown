@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-18 15:44:00+00:00
 layout: post
-slug: gnome-226-prime-indiscrezioni
 title: Gnome 2.26, prime indiscrezioni!
-wordpress_id: 290
 categories:
 - Unix
 ---

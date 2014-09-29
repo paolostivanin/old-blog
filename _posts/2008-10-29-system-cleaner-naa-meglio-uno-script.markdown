@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-10-29 13:53:38+00:00
 layout: post
-slug: system-cleaner-naa-meglio-uno-script
 title: System Cleaner? Naa! Meglio uno script!
-wordpress_id: 357
 categories:
 - Ubuntu
 - Unix

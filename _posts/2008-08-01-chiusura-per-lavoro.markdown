@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-01 16:38:14+00:00
 layout: post
-slug: chiusura-per-lavoro
 title: Chiusura per "lavoro"!
-wordpress_id: 142
 categories:
 - Generale
 ---

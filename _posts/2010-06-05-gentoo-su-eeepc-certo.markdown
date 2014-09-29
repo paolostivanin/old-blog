@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-06-05 12:59:23+00:00
 layout: post
-slug: gentoo-su-eeepc-certo
 title: Gentoo su eeepc? Certo!
-wordpress_id: 903
 categories:
 - Gentoo
 - Unix

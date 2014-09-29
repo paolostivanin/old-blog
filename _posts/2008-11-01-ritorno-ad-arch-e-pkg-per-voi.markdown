@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-01 13:10:09+00:00
 layout: post
-slug: ritorno-ad-arch-e-pkg-per-voi
 title: Ritorno ad Arch e PKG per voi!
-wordpress_id: 361
 categories:
 - ArchLinux
 - Unix

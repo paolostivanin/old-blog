@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-02-17 11:20:48+00:00
 layout: post
-slug: cmus-player-audio-molto-minimale
 title: CMus, player audio...molto minimale!
-wordpress_id: 1140
 categories:
 - ArchLinux
 - Debian &amp; Co

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-08-08 11:50:10+00:00
 layout: post
-slug: gparted-0-4-6-debizzato-per-voi
 title: Gparted 0.4.6 "debizzato" per voi!
-wordpress_id: 748
 categories:
 - Ubuntu
 - Unix

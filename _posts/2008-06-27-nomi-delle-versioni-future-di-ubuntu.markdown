@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-27 17:13:30+00:00
 layout: post
-slug: nomi-delle-versioni-future-di-ubuntu
 title: Nomi delle versioni future di Ubuntu!
-wordpress_id: 20
 categories:
 - Ubuntu
 ---

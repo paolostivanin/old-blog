@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-04-26 16:41:23+00:00
 layout: post
-slug: gentoo-punto-della-situazione
 title: Gentoo, punto della situazione!
-wordpress_id: 838
 categories:
 - Generale
 - Gentoo

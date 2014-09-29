@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-22 14:25:03+00:00
 layout: post
-slug: kernel-2627-rc4-novita-su-usb
 title: Kernel 2.6.27-rc4, novità su USB!
-wordpress_id: 166
 categories:
 - Unix
 ---

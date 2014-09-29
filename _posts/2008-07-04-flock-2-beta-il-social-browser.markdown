@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-04 18:30:30+00:00
 layout: post
-slug: flock-2-beta-il-social-browser
 title: Flock 2 beta, il social browser!
-wordpress_id: 38
 categories:
 - Generale
 ---

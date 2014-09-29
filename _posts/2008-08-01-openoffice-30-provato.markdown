@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-01 10:48:29+00:00
 layout: post
-slug: openoffice-30-provato
 title: 'OpenOffice 3.0: provato!'
-wordpress_id: 134
 categories:
 - Generale
 ---

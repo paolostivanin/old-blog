@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-12-25 22:21:58+00:00
 layout: post
-slug: vacanze-al-prossimo-anno
 title: '[Vacanze] Al prossimo anno!'
-wordpress_id: 533
 categories:
 - Generale
 ---

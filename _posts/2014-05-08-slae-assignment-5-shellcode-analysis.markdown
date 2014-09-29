@@ -1,13 +1,10 @@
 ---
-author: pol@blog
 comments: true
 date: 2014-05-08 23:40:57+00:00
 layout: post
-slug: slae-assignment-5-shellcode-analysis
 title: 'SLAE Assignment 5: Shellcode Analysis'
-wordpress_id: 2379
 categories:
-- Programmazione
+- programming
 - SLAE
 tags:
 - asm-x86

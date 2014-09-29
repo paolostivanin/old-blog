@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2013-01-17 07:55:08+00:00
 layout: post
-slug: libreitalia-it-font-e-interoperabilita
 title: '[libreitalia.it] Font e Interoperabilità'
-wordpress_id: 2138
 categories:
 - Generale
 - Unix

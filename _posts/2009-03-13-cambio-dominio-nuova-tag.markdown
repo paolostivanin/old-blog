@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-03-13 08:00:22+00:00
 layout: post
-slug: cambio-dominio-nuova-tag
 title: Cambio dominio + nuova tag!
-wordpress_id: 630
 categories:
 - Generale
 - Unix

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-11 09:47:42+00:00
 layout: post
-slug: super-notizione-gnome-3-2
 title: 'SUPER NOTIZIONE: GNOME 3!'
-wordpress_id: 52
 categories:
 - Unix
 ---

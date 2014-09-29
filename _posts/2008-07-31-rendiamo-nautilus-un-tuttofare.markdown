@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-31 11:25:01+00:00
 layout: post
-slug: rendiamo-nautilus-un-tuttofare
 title: Rendiamo Nautilus un tuttofare!
-wordpress_id: 118
 categories:
 - Unix
 ---

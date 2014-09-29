@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-10-30 17:46:18+00:00
 layout: post
-slug: creare-sequenza-di-cartelle-da-terminale
 title: Shell's cmd [2]!
-wordpress_id: 770
 categories:
 - Debian &amp; Co
 - Ubuntu

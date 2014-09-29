@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-03-04 15:15:22+00:00
 layout: post
-slug: release-schedule-ubuntu-910
 title: Release schedule Ubuntu 9.10!
-wordpress_id: 625
 categories:
 - Ubuntu
 - Unix

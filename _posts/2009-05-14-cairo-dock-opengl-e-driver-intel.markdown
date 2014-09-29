@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-05-14 18:30:47+00:00
 layout: post
-slug: cairo-dock-opengl-e-driver-intel
 title: Cairo dock, OpenGL e driver Intel!
-wordpress_id: 705
 categories:
 - ArchLinux
 - Ubuntu

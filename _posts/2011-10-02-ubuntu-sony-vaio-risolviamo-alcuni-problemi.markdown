@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-10-02 16:05:52+00:00
 layout: post
-slug: ubuntu-sony-vaio-risolviamo-alcuni-problemi
 title: 'Ubuntu + Sony vaio: risolviamo alcuni problemi!'
-wordpress_id: 1581
 categories:
 - Debian &amp; Co
 - Ubuntu

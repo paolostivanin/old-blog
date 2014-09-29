@@ -1,13 +1,10 @@
 ---
-author: pol@blog
 comments: true
 date: 2013-01-06 21:31:17+00:00
 layout: post
-slug: cpassman
 title: Primo mockup per CPassMan!
-wordpress_id: 2130
 categories:
-- Programmazione
+- programming
 - Projects
 - Unix
 tags:

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-10-27 14:34:51+00:00
 layout: post
-slug: brasero-090-compilato-e-pacchettizzato-per-voi
 title: Brasero 0.9.0 (DEB) compilato e pacchettizzato per voi!
-wordpress_id: 347
 categories:
 - Ubuntu
 - Unix

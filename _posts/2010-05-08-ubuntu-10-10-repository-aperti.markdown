@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-05-08 15:54:17+00:00
 layout: post
-slug: ubuntu-10-10-repository-aperti
 title: 'Ubuntu 10.10: REPOSITORY APERTI!'
-wordpress_id: 855
 categories:
 - Generale
 - Ubuntu

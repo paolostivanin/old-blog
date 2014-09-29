@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-04-26 13:11:44+00:00
 layout: post
-slug: repository-aperti-passare-a-ubuntu-910-karmic-koala
 title: 'REPOSITORY APERTI: passare a Ubuntu 9.10 KARMIC KOALA!'
-wordpress_id: 696
 categories:
 - Ubuntu
 - Unix

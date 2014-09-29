@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-23 18:43:18+00:00
 layout: post
-slug: zenwalk-52-distro-provata
 title: ZenWalk 5.2, distro provata!
-wordpress_id: 18
 categories:
 - Unix
 ---

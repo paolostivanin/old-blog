@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-18 21:23:40+00:00
 layout: post
-slug: chiusura-per-ferie
 title: '[CHIUSURA PER FERIE]'
-wordpress_id: 80
 categories:
 - Generale
 ---

@@ -1,13 +1,10 @@
 ---
-author: pol@blog
 comments: true
 date: 2014-04-03 14:13:09+00:00
 layout: post
-slug: slae-assignment-1-bind-tcp-shellcode
 title: 'SLAE Assignment 1: Bind TCP Shellcode'
-wordpress_id: 2284
 categories:
-- Programmazione
+- programming
 - SLAE
 tags:
 - asm-x86

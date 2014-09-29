@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-12-11 13:33:05+00:00
 layout: post
-slug: dropbox-non-parte-ritardiamolo
 title: Dropbox non parte? Ritardiamolo!
-wordpress_id: 1034
 categories:
 - ArchLinux
 - Unix

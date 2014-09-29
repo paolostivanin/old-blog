@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-02-02 19:46:10+00:00
 layout: post
-slug: road-to-ubuntu-jaunty-jackalope-904
 title: 'Road to: Ubuntu Jaunty Jackalope 9.04'
-wordpress_id: 567
 categories:
 - Ubuntu
 - Unix

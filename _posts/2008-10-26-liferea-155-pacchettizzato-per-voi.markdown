@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-10-26 15:20:58+00:00
 layout: post
-slug: liferea-155-pacchettizzato-per-voi
 title: Liferea 1.5.5 pacchettizzato per voi!
-wordpress_id: 340
 categories:
 - Ubuntu
 - Unix

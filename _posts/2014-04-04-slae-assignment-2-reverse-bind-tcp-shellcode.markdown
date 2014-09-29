@@ -1,13 +1,10 @@
 ---
-author: pol@blog
 comments: true
 date: 2014-04-04 07:03:42+00:00
 layout: post
-slug: slae-assignment-2-reverse-bind-tcp-shellcode
 title: 'SLAE Assignment 2: Reverse Bind TCP Shellcode'
-wordpress_id: 2328
 categories:
-- Programmazione
+- programming
 - SLAE
 ---
 

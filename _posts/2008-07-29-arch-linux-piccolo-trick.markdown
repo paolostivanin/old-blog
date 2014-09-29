@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-29 16:42:51+00:00
 layout: post
-slug: arch-linux-piccolo-trick
 title: Arch Linux, piccolo trick!
-wordpress_id: 109
 categories:
 - Unix
 ---

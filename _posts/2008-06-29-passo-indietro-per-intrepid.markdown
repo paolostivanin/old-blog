@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-29 11:18:15+00:00
 layout: post
-slug: passo-indietro-per-intrepid
 title: Passo indietro per Intrepid!
-wordpress_id: 26
 categories:
 - Ubuntu
 ---

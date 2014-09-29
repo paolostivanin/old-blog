@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-01-19 11:01:17+00:00
 layout: post
-slug: restyling
 title: Restyling!
-wordpress_id: 1094
 categories:
 - Generale
 ---

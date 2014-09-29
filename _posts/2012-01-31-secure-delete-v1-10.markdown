@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-01-31 20:13:09+00:00
 layout: post
-slug: secure-delete-v1-10
 title: Secure Delete v1.10 :)
-wordpress_id: 1811
 categories:
 - Projects
 - Unix

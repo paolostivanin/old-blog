@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-02-25 20:06:15+00:00
 layout: post
-slug: gnome-color-chooser-corretto-il-bug
 title: Gnome-color-chooser, corretto il bug!
-wordpress_id: 608
 categories:
 - ArchLinux
 - Unix

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-15 10:17:25+00:00
 layout: post
-slug: how-to-installare-network-manager-07
 title: '[How-to] Installare Network-Manager 0.7!'
-wordpress_id: 64
 categories:
 - Ubuntu
 ---

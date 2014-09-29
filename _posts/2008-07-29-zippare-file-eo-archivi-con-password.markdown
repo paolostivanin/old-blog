@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-29 12:10:27+00:00
 layout: post
-slug: zippare-file-eo-archivi-con-password
 title: Zippare file e/o archivi con password!
-wordpress_id: 99
 categories:
 - Generale
 ---

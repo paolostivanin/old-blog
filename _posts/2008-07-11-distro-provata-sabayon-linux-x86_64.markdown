@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-11 11:29:30+00:00
 layout: post
-slug: distro-provata-sabayon-linux-x86_64
 title: 'Distro provata: Sabayon Linux X86_64'
-wordpress_id: 53
 categories:
 - Unix
 ---

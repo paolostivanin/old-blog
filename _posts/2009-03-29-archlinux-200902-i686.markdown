@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-03-29 20:25:20+00:00
 layout: post
-slug: archlinux-200902-i686
 title: Archlinux 2009.02 i686!
-wordpress_id: 647
 categories:
 - ArchLinux
 - Unix

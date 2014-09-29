@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-08-26 12:44:12+00:00
 layout: post
-slug: estate-sta-finendo
 title: L'estate sta finendo...
-wordpress_id: 1992
 categories:
 - Generale
 ---

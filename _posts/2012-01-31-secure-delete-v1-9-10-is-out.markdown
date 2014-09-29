@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-01-31 13:44:24+00:00
 layout: post
-slug: secure-delete-v1-9-10-is-out
 title: Secure Delete v1.9.10 is out
-wordpress_id: 1803
 categories:
 - Projects
 - Unix

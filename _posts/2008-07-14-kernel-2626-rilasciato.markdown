@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-14 14:39:48+00:00
 layout: post
-slug: kernel-2626-rilasciato
 title: Kernel 2.6.26 rilasciato!
-wordpress_id: 62
 categories:
 - Unix
 ---

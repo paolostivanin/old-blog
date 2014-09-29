@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-11 14:15:17+00:00
 layout: post
-slug: brasero-081-su-arch-linux
 title: Brasero 0.8.1 su Arch Linux
-wordpress_id: 152
 categories:
 - Unix
 ---

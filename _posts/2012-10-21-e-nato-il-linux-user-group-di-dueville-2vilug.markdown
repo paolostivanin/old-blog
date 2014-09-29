@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-10-21 19:16:16+00:00
 layout: post
-slug: e-nato-il-linux-user-group-di-dueville-2vilug
 title: È nato il Linux User Group di Dueville (2viLUG)!
-wordpress_id: 2053
 categories:
 - Generale
 - Unix

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-08-23 15:38:07+00:00
 layout: post
-slug: proseguono-le-vacanze
 title: Proseguono le vacanze...
-wordpress_id: 1525
 categories:
 - Generale
 tags:

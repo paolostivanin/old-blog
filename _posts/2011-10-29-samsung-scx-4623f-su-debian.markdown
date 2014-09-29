@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-10-29 14:26:32+00:00
 layout: post
-slug: samsung-scx-4623f-su-debian
 title: Samsung SCX-4623F su Debian
-wordpress_id: 1668
 categories:
 - Debian &amp; Co
 - Ubuntu

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-08-10 16:51:04+00:00
 layout: post
-slug: repository-di-polslinux-e-nato
 title: Repository di polslinux, è nato! :)
-wordpress_id: 755
 categories:
 - Ubuntu
 - Unix

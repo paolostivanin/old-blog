@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-10-26 09:43:21+00:00
 layout: post
-slug: how-to-get-the-bluetooth-adapter-0489e027-working-on-gnulinux
 title: '[how-to] Get the bluetooth adapter 0489:E027 working on GNU/Linux'
-wordpress_id: 2056
 categories:
 - ArchLinux
 - Debian &amp; Co

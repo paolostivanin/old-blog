@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-07-23 06:17:58+00:00
 layout: post
-slug: pausa-estiva
 title: Pausa estiva :)
-wordpress_id: 1516
 categories:
 - Generale
 ---

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-12-01 13:52:21+00:00
 layout: post
-slug: nuova-minor-release-xsane-0996-pacchettizzato-per-voi
 title: '[Nuova minor-release] XSane 0.996 pacchettizzato per voi!'
-wordpress_id: 454
 categories:
 - Ubuntu
 - Unix

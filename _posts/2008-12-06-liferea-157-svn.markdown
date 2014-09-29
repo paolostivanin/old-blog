@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-12-06 13:51:10+00:00
 layout: post
-slug: liferea-157-svn
 title: Liferea 1.5.7 SVN!
-wordpress_id: 474
 categories:
 - ArchLinux
 - Ubuntu

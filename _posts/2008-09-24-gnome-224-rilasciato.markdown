@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-24 19:39:02+00:00
 layout: post
-slug: gnome-224-rilasciato
 title: GNOME 2.24 RILASCIATO!!
-wordpress_id: 299
 categories:
 - ArchLinux
 - Generale

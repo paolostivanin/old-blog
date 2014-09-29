@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-02-09 14:14:39+00:00
 layout: post
-slug: modalita-esame
 title: Modalità esame!
-wordpress_id: 1127
 categories:
 - Generale
 ---

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-02 11:17:27+00:00
 layout: post
-slug: google-chorme-un-nuovo-web-browser
 title: Google Chrome, un nuovo web-browser!
-wordpress_id: 238
 categories:
 - Generale
 - Unix

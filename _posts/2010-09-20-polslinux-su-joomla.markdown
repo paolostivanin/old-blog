@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-09-20 12:38:26+00:00
 layout: post
-slug: polslinux-su-joomla
 title: Polslinux su Wordpress!
-wordpress_id: 939
 categories:
 - Generale
 ---

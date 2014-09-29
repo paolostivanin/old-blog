@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-23 15:28:19+00:00
 layout: post
-slug: archlinux-alcune-dritte
 title: ArchLinux, alcune dritte!
-wordpress_id: 292
 categories:
 - ArchLinux
 - Unix

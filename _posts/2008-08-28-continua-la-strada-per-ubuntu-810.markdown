@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-28 16:48:37+00:00
 layout: post
-slug: continua-la-strada-per-ubuntu-810
 title: Seguendo Ubuntu 8.10!
-wordpress_id: 201
 categories:
 - Ubuntu
 ---

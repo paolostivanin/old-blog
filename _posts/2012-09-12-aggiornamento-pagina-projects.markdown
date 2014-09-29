@@ -1,14 +1,11 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-09-12 14:00:59+00:00
 layout: post
-slug: aggiornamento-pagina-projects
 title: Aggiornamento pagina Projects
-wordpress_id: 2008
 categories:
 - Generale
-- Programmazione
+- programming
 - Unix
 ---
 

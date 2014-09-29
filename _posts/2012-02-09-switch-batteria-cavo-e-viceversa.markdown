@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-02-09 10:42:03+00:00
 layout: post
-slug: switch-batteria-cavo-e-viceversa
 title: Switch batteria -> cavo e viceversa!
-wordpress_id: 1815
 categories:
 - ArchLinux
 - Debian &amp; Co

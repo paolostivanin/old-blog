@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-09-08 08:53:55+00:00
 layout: post
-slug: backup-files-con-tar
 title: Backup files con tar!
-wordpress_id: 927
 categories:
 - ArchLinux
 - Gentoo

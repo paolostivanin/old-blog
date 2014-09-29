@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-06-26 09:47:56+00:00
 layout: post
-slug: problemi-audio-su-ubuntu-ecco-la-soluzione
 title: Problemi audio su Ubuntu? Ecco la soluzione!
-wordpress_id: 737
 categories:
 - Ubuntu
 - Unix

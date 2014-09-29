@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-01-22 13:43:49+00:00
 layout: post
-slug: qnap-ts-110-recensione-e-consiglio
 title: Qnap TS-110, recensione e consiglio!
-wordpress_id: 1114
 categories:
 - Generale
 - NAS Qnap

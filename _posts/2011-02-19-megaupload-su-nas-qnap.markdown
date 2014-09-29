@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-02-19 11:36:48+00:00
 layout: post
-slug: megaupload-su-nas-qnap
 title: Megaupload su NAS Qnap!
-wordpress_id: 1159
 categories:
 - NAS Qnap
 tags:

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-06-22 18:56:00+00:00
 layout: post
-slug: gnome-3-archlinux-e-il-tasto-stamp
 title: Gnome 3, Archlinux e il tasto stamp!
-wordpress_id: 1486
 categories:
 - ArchLinux
 - Unix

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-03-09 13:49:55+00:00
 layout: post
-slug: considerazioni-ubuntu-fedora-opensuse
 title: Considerazioni Ubuntu-Fedora-Opensuse
-wordpress_id: 812
 categories:
 - Generale
 - Ubuntu

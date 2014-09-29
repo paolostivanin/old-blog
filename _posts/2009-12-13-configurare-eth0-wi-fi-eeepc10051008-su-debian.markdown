@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-12-13 11:07:53+00:00
 layout: post
-slug: configurare-eth0-wi-fi-eeepc10051008-su-debian
 title: Configurare Eth0 + Wi-fi Eeepc1005/1008 su Debian!
-wordpress_id: 791
 categories:
 - Ubuntu
 - Unix

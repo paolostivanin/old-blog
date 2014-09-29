@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-05-17 08:46:32+00:00
 layout: post
-slug: wordpress-3-2-interessanti-novita
 title: Wordpress 3.2, interessanti novità!
-wordpress_id: 1393
 categories:
 - Generale
 - Unix

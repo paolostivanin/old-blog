@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-09-24 09:29:07+00:00
 layout: post
-slug: benvenuti-al-nuovo-polslinux
 title: Benvenuti al nuovo Polslinux!
-wordpress_id: 954
 categories:
 - Generale
 ---

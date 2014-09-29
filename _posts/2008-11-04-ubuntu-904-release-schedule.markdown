@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-04 13:11:01+00:00
 layout: post
-slug: ubuntu-904-release-schedule
 title: Ubuntu 9.04 release Schedule!
-wordpress_id: 367
 categories:
 - Ubuntu
 - Unix

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-10-01 14:25:25+00:00
 layout: post
-slug: aumentare-upload-da-php-ini-in-wp
 title: Aumentare upload da php.ini in WP!
-wordpress_id: 963
 categories:
 - Generale
 - Unix

@@ -1,13 +1,10 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-07-20 12:53:12+00:00
 layout: post
-slug: errore-durante-la-compilazione-gcc-vs-clang
 title: 'Errore durante la compilazione: GCC Vs Clang'
-wordpress_id: 1959
 categories:
-- Programmazione
+- programming
 - Unix
 tags:
 - c

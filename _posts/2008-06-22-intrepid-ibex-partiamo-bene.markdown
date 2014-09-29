@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-22 16:46:37+00:00
 layout: post
-slug: intrepid-ibex-partiamo-bene
 title: Intrepid Ibex, partiamo bene!
-wordpress_id: 17
 categories:
 - Ubuntu
 ---

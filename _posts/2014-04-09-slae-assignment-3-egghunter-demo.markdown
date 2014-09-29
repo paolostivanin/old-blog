@@ -1,13 +1,10 @@
 ---
-author: pol@blog
 comments: true
 date: 2014-04-09 07:30:35+00:00
 layout: post
-slug: slae-assignment-3-egghunter-demo
 title: 'SLAE Assignment 3: EggHunter Demo'
-wordpress_id: 2332
 categories:
-- Programmazione
+- programming
 - SLAE
 tags:
 - asm-x86

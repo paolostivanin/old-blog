@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-10-13 13:12:20+00:00
 layout: post
-slug: how-to-installare-libreoffice-in-italiano
 title: '[How-to] Installare Libreoffice in italiano!'
-wordpress_id: 980
 categories:
 - Debian &amp; Co
 - Ubuntu

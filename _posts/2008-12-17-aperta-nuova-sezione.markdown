@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-12-17 13:28:39+00:00
 layout: post
-slug: aperta-nuova-sezione
 title: Aperta nuova sezione!
-wordpress_id: 513
 categories:
 - Ubuntu
 - Unix

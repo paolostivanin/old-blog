@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-07-18 07:30:43+00:00
 layout: post
-slug: iceweasel-debian-e-lo-user-agent
 title: Iceweasel, Debian e lo user agent!
-wordpress_id: 1509
 categories:
 - Debian &amp; Co
 - Ubuntu

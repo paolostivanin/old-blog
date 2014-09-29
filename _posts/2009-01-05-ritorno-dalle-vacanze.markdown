@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-01-05 18:35:57+00:00
 layout: post
-slug: ritorno-dalle-vacanze
 title: Ritorno dalle vacanze!
-wordpress_id: 536
 categories:
 - ArchLinux
 - Unix

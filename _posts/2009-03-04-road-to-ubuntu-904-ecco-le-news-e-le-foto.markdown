@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-03-04 08:45:06+00:00
 layout: post
-slug: road-to-ubuntu-904-ecco-le-news-e-le-foto
 title: 'Road to: Ubuntu 9.04, ecco le news e le foto!'
-wordpress_id: 606
 categories:
 - Ubuntu
 - Unix

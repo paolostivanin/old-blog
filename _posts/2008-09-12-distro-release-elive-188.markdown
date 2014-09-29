@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-12 10:06:44+00:00
 layout: post
-slug: distro-release-elive-188
 title: 'Distro release: ELIVE 1.8.8'
-wordpress_id: 282
 categories:
 - Unix
 ---

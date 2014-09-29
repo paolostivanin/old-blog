@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-10-04 20:05:08+00:00
 layout: post
-slug: gentoo-e-il-non-boot
 title: Gentoo e il non boot
-wordpress_id: 2027
 categories:
 - Gentoo
 - Unix

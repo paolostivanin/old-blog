@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-08-03 10:27:41+00:00
 layout: post
-slug: lo-stato-di-chromium-su-ubuntu
 title: Lo stato di Chromium su Ubuntu.
-wordpress_id: 745
 categories:
 - Ubuntu
 - Unix

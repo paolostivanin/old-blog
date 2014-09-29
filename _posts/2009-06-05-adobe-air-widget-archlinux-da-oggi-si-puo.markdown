@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-06-05 18:29:00+00:00
 layout: post
-slug: adobe-air-widget-archlinux-da-oggi-si-puo
 title: Adobe-air, Widget & Archlinux, DA OGGI SI PUÒ!
-wordpress_id: 729
 categories:
 - ArchLinux
 - Unix

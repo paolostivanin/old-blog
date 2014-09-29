@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-02 11:29:29+00:00
 layout: post
-slug: ottimizzare-e-velocizzare-ubuntu-firefox
 title: Ottimizzare e velocizzare Ubuntu & Firefox!
-wordpress_id: 30
 categories:
 - Ubuntu
 ---

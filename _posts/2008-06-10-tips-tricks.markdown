@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-10 17:42:33+00:00
 layout: post
-slug: tips-tricks
 title: Tips & Tricks
-wordpress_id: 7
 categories:
 - Ubuntu
 ---

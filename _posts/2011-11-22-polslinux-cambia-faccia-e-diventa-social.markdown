@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-11-22 18:37:05+00:00
 layout: post
-slug: polslinux-cambia-faccia-e-diventa-social
 title: Polslinux cambia faccia e diventa social :)
-wordpress_id: 1701
 categories:
 - Generale
 ---

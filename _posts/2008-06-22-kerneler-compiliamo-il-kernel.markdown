@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-22 16:29:43+00:00
 layout: post
-slug: kerneler-compiliamo-il-kernel
 title: Kerneler! Compiliamo il kernel!
-wordpress_id: 16
 categories:
 - Unix
 ---

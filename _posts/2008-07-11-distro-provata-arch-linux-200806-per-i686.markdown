@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-11 09:46:16+00:00
 layout: post
-slug: distro-provata-arch-linux-200806-per-i686
 title: 'Distro provata: Arch Linux 2008.06 per i686!'
-wordpress_id: 51
 categories:
 - Unix
 ---

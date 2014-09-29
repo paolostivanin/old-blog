@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-12-11 11:13:13+00:00
 layout: post
-slug: minitest-driver-nouveau-vs-driver-proprietari
 title: 'Minitest: driver Nouveau VS driver proprietari'
-wordpress_id: 1028
 categories:
 - ArchLinux
 - Unix

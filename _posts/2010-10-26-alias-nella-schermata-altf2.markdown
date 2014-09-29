@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-10-26 20:51:30+00:00
 layout: post
-slug: alias-nella-schermata-altf2
 title: Alias nella schermata Alt+F2!
-wordpress_id: 994
 categories:
 - ArchLinux
 - Gentoo

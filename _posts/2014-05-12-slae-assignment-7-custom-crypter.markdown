@@ -1,13 +1,10 @@
 ---
-author: pol@blog
 comments: true
 date: 2014-05-12 12:01:03+00:00
 layout: post
-slug: slae-assignment-7-custom-crypter
 title: 'SLAE Assignment 7: Custom Crypter'
-wordpress_id: 2425
 categories:
-- Programmazione
+- programming
 - SLAE
 ---
 

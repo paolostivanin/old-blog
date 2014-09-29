@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-09 09:30:10+00:00
 layout: post
-slug: firefox-31-pre-beta1
 title: Firefox 3.1 pre-beta1
-wordpress_id: 275
 categories:
 - Unix
 ---

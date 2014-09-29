@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-10 11:59:25+00:00
 layout: post
-slug: distro-provata-fedora-9-sulphur
 title: 'Distro provata: Fedora 9 Sulphur'
-wordpress_id: 48
 categories:
 - Unix
 ---

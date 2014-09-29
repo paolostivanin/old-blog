@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-10-20 22:00:49+00:00
 layout: post
-slug: manutenzione
 title: '[Aggiornato] Manutenzione...'
-wordpress_id: 1618
 categories:
 - Generale
 ---

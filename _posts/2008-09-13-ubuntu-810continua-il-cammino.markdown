@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-13 11:49:11+00:00
 layout: post
-slug: ubuntu-810continua-il-cammino
 title: Ubuntu 8.10...continua il cammino!
-wordpress_id: 286
 categories:
 - Ubuntu
 - Unix

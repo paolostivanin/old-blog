@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-13 13:00:36+00:00
 layout: post
-slug: convertire-i-file-wma-in-mp3-con-un-semplice-script
 title: Convertire i file WMA in MP3 con un semplice script
-wordpress_id: 60
 categories:
 - Generale
 ---

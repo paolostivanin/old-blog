@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-07-06 21:08:20+00:00
 layout: post
-slug: gentoo-e-laggiornamento-di-libpng
 title: Gentoo e l'aggiornamento di libpng!
-wordpress_id: 906
 categories:
 - Gentoo
 - Unix

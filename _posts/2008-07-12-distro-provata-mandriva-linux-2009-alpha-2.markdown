@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-12 08:00:30+00:00
 layout: post
-slug: distro-provata-mandriva-linux-2009-alpha-2
 title: 'Distro provata: Mandriva Linux 2009 alpha 2!'
-wordpress_id: 56
 categories:
 - Unix
 ---

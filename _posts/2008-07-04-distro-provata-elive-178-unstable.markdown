@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-04 09:00:50+00:00
 layout: post
-slug: distro-provata-elive-178-unstable
 title: 'Distro provata: ELIVE 1.7.8 (unstable)'
-wordpress_id: 37
 categories:
 - Unix
 ---

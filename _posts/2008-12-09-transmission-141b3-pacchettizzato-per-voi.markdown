@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-12-09 17:27:27+00:00
 layout: post
-slug: transmission-141b3-pacchettizzato-per-voi
 title: Transmission 1.41b3 pacchettizzato per voi!
-wordpress_id: 485
 categories:
 - Ubuntu
 - Unix

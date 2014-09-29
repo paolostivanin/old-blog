@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-12-03 20:32:19+00:00
 layout: post
-slug: aggiornare-driver-nvidia-alla-versione-18011-beta
 title: Aggiornare driver Nvidia alla versione 180.22!
-wordpress_id: 461
 categories:
 - ArchLinux
 - Ubuntu

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-05-13 10:24:55+00:00
 layout: post
-slug: gedit-external-tools-plugin
 title: GEdit External Tools Plugin
-wordpress_id: 1854
 categories:
 - ArchLinux
 - Debian &amp; Co

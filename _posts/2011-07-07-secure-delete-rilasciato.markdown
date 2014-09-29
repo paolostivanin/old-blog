@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-07-07 08:23:12+00:00
 layout: post
-slug: secure-delete-rilasciato
 title: Secure Delete rilasciato!
-wordpress_id: 1501
 categories:
 - Projects
 - Unix

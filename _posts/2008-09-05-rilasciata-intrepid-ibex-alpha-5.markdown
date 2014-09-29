@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-05 23:27:31+00:00
 layout: post
-slug: rilasciata-intrepid-ibex-alpha-5
 title: Rilasciata Intrepid Ibex alpha 5!
-wordpress_id: 255
 categories:
 - Ubuntu
 - Unix

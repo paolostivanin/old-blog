@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-27 16:13:45+00:00
 layout: post
-slug: gscrot-gnome-scan-aggiornati-per-voi
 title: Gscrot & Gnome-scan aggiornati per voi!
-wordpress_id: 188
 categories:
 - ArchLinux
 - Unix

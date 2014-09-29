@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-31 12:17:05+00:00
 layout: post
-slug: backerupper-faccimo-backup-dei-nostri-dati
 title: BackerUpper, faccimo backup dei nostri dati!
-wordpress_id: 121
 categories:
 - Unix
 ---

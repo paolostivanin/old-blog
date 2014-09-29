@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-25 14:15:40+00:00
 layout: post
-slug: distro-provata-mandriva-linux-209-beta-2
 title: 'Distro provata: Mandriva Linux 2009 beta 2!'
-wordpress_id: 173
 categories:
 - Unix
 ---

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-02-20 08:15:50+00:00
 layout: post
-slug: attenzione-facebook-si-tiene-i-tuoi-dati
 title: Facebook non si tiene più tuoi dati!
-wordpress_id: 592
 categories:
 - Generale
 - Ubuntu

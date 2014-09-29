@@ -1,12 +1,9 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-28 11:54:23+00:00
 layout: post
-slug: prossimi-post-sidux-2008-02-erberos-velocizzare-ubuntu-e-firefox-firefox-31a
 title: 'Prossimi post: Sidux 2008-02 Erberos & Velocizzare Ubuntu e Firefox & Firefox
   3.1a & Installare E17 & Flash player 10 e Java amd64!'
-wordpress_id: 22
 categories:
 - Generale
 ---

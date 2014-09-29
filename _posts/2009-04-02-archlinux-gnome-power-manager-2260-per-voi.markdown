@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-04-02 20:25:24+00:00
 layout: post
-slug: archlinux-gnome-power-manager-2260-per-voi
 title: Archlinux, gnome-power-manager-2.26.0 per voi!
-wordpress_id: 671
 categories:
 - ArchLinux
 - Unix

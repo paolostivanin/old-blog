@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-14 16:15:22+00:00
 layout: post
-slug: archlinux-e-i-filmati-wmv-per-wmp-online
 title: ArchLinux e i filmati .WMV per WMP online!
-wordpress_id: 398
 categories:
 - ArchLinux
 - Unix

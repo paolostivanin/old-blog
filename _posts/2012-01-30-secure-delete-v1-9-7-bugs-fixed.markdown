@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-01-30 16:21:07+00:00
 layout: post
-slug: secure-delete-v1-9-7-bugs-fixed
 title: 'Secure Delete v1.9.8: bugs fixed'
-wordpress_id: 1796
 categories:
 - Projects
 - Unix

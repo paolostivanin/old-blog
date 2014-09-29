@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-03 12:13:39+00:00
 layout: post
-slug: come-personalizzare-ubuntu
 title: Come personalizzare Ubuntu!
-wordpress_id: 36
 categories:
 - Ubuntu
 ---

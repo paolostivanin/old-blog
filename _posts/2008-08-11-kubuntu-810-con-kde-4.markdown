@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-11 11:05:26+00:00
 layout: post
-slug: kubuntu-810-con-kde-4
 title: Kubuntu 8.10 con KDE 4
-wordpress_id: 146
 categories:
 - Ubuntu
 ---

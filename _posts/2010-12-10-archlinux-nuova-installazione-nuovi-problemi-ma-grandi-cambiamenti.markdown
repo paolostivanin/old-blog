@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-12-10 15:30:34+00:00
 layout: post
-slug: archlinux-nuova-installazione-nuovi-problemi-ma-grandi-cambiamenti
 title: 'Archlinux: nuova installazione, nuovi problemi ma grandi cambiamenti!'
-wordpress_id: 1009
 categories:
 - ArchLinux
 - Unix

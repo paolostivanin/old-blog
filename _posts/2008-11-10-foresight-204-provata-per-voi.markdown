@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-10 15:37:45+00:00
 layout: post
-slug: foresight-204-provata-per-voi
 title: Foresight 2.0.4 provata per voi!
-wordpress_id: 381
 categories:
 - Unix
 ---

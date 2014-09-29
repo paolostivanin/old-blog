@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-01-23 14:57:05+00:00
 layout: post
-slug: diffondete-il-messaggio
 title: Diffondete il messaggio!
-wordpress_id: 1771
 categories:
 - ArchLinux
 - Debian &amp; Co

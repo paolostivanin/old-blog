@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-12-01 20:09:48+00:00
 layout: post
-slug: linux-next-il-nuovo-kernel-linux-compiliamolo
 title: Linux-next, il nuovo kernel Linux, compiliamolo!
-wordpress_id: 777
 categories:
 - ArchLinux
 - Ubuntu

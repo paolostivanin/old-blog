@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-12-24 14:11:59+00:00
 layout: post
-slug: kubuntu-904-con-kde-42-beta2
 title: Kubuntu 9.04 con KDE 4.2 beta2!
-wordpress_id: 528
 categories:
 - Ubuntu
 - Unix

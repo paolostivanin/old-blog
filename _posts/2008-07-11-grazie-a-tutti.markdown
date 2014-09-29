@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-11 21:55:15+00:00
 layout: post
-slug: grazie-a-tutti
 title: Grazie a tutti!
-wordpress_id: 58
 categories:
 - Generale
 ---

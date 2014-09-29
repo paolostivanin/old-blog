@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-04-12 22:32:22+00:00
 layout: post
-slug: unity-o-gnome-shell
 title: Unity o Gnome Shell?
-wordpress_id: 1236
 categories:
 - ArchLinux
 - Ubuntu

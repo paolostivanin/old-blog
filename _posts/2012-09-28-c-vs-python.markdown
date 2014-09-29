@@ -1,14 +1,11 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-09-28 17:47:24+00:00
 layout: post
-slug: c-vs-python
 title: C vs Python
-wordpress_id: 2015
 categories:
 - Generale
-- Programmazione
+- programming
 - Unix
 ---
 

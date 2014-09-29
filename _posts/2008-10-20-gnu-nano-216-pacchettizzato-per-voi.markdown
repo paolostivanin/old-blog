@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-10-20 08:45:56+00:00
 layout: post
-slug: gnu-nano-216-pacchettizzato-per-voi
 title: Gnu Nano 2.1.6 pacchettizzato per voi!
-wordpress_id: 320
 categories:
 - Ubuntu
 - Unix

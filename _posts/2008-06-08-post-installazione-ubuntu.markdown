@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-08 22:30:12+00:00
 layout: post
-slug: post-installazione-ubuntu
 title: Post-installazione Ubuntu 9.10!
-wordpress_id: 945
 categories:
 - Ubuntu
 - Unix

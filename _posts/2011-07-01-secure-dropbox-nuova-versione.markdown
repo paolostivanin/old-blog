@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-07-01 14:57:02+00:00
 layout: post
-slug: secure-dropbox-nuova-versione
 title: Secure Dropbox, nuova versione!
-wordpress_id: 1491
 categories:
 - Projects
 - Unix

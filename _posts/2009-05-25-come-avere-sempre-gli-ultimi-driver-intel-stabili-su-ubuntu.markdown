@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-05-25 18:46:29+00:00
 layout: post
-slug: come-avere-sempre-gli-ultimi-driver-intel-stabili-su-ubuntu
 title: Come avere SEMPRE gli ultimi driver Intel stabili su Ubuntu!
-wordpress_id: 713
 categories:
 - Ubuntu
 - Unix

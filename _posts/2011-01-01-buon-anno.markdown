@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-01-01 17:21:55+00:00
 layout: post
-slug: buon-anno
 title: Buon Anno!
-wordpress_id: 1052
 categories:
 - Generale
 ---

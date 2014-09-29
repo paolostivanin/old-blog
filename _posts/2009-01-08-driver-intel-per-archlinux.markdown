@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-01-08 09:30:03+00:00
 layout: post
-slug: driver-intel-per-archlinux
 title: Driver intel per Archlinux!
-wordpress_id: 539
 categories:
 - ArchLinux
 - Unix

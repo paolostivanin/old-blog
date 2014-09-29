@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-29 08:30:16+00:00
 layout: post
-slug: archlinux-e-gnome-2240
 title: ArchLinux e Gnome 2.24.0
-wordpress_id: 307
 categories:
 - ArchLinux
 - Unix

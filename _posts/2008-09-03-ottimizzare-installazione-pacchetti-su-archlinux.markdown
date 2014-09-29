@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-03 14:39:26+00:00
 layout: post
-slug: ottimizzare-installazione-pacchetti-su-archlinux
 title: Ottimizzare installazione pacchetti su Archlinux!
-wordpress_id: 244
 categories:
 - ArchLinux
 - Unix

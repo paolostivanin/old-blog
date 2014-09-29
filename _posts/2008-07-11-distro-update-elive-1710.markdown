@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-11 18:06:52+00:00
 layout: post
-slug: distro-update-elive-1710
 title: 'Distro-update: Elive 1.7.10'
-wordpress_id: 57
 categories:
 - Unix
 ---

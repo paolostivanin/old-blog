@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-27 19:15:53+00:00
 layout: post
-slug: exaile-03-provato
 title: Exaile 0.3 provato!
-wordpress_id: 449
 categories:
 - ArchLinux
 - Ubuntu

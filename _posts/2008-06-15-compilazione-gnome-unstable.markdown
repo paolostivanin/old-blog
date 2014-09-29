@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-15 16:16:18+00:00
 layout: post
-slug: compilazione-gnome-unstable
 title: Compilazione Gnome Unstable
-wordpress_id: 13
 categories:
 - Ubuntu
 ---

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-15 12:26:26+00:00
 layout: post
-slug: firefox-31-e-firefox-4
 title: Firefox 3.1 e Firefox 4!
-wordpress_id: 9
 categories:
 - Generale
 ---

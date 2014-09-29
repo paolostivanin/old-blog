@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-01-25 15:10:17+00:00
 layout: post
-slug: bash-pwd-manager-v2-un-assaggio
 title: Bash PWD Manager v2, un assaggio!
-wordpress_id: 1777
 categories:
 - Projects
 - Unix

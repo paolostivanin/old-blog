@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-16 13:15:51+00:00
 layout: post
-slug: compilazione-gnome-2251
 title: Compilazione Gnome 2.25.1
-wordpress_id: 403
 categories:
 - ArchLinux
 - Ubuntu

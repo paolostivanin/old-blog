@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-09 11:30:31+00:00
 layout: post
-slug: annunciata-ubuntu-904
 title: Annunciata Ubuntu 9.04!
-wordpress_id: 279
 categories:
 - Ubuntu
 - Unix

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-10-14 12:08:11+00:00
 layout: post
-slug: nuova-riorganizzazione-hard-disk
 title: Nuova riorganizzazione Hard Disk!
-wordpress_id: 315
 categories:
 - Generale
 ---

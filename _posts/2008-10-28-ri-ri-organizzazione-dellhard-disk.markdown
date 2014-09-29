@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-10-28 19:19:57+00:00
 layout: post
-slug: ri-ri-organizzazione-dellhard-disk
 title: Ri-ri-organizzazione dell'hard disk!
-wordpress_id: 355
 categories:
 - Ubuntu
 ---

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-04 17:45:20+00:00
 layout: post
-slug: roadmap-gnome-226
 title: Roadmap Gnome 2.26!
-wordpress_id: 373
 categories:
 - Unix
 ---

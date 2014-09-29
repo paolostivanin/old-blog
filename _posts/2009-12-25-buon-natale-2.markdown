@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-12-25 22:15:33+00:00
 layout: post
-slug: buon-natale-2
 title: Buon Natale!
-wordpress_id: 796
 categories:
 - Generale
 ---

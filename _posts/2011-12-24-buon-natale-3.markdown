@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-12-24 23:27:13+00:00
 layout: post
-slug: buon-natale-3
 title: Buon Natale :)
-wordpress_id: 1759
 categories:
 - Generale
 ---

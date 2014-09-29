@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-11-07 12:43:31+00:00
 layout: post
-slug: ubuntu-10-04-avra-gnome-2-30
 title: Ubuntu 10.04 avrà Gnome 2.30!
-wordpress_id: 775
 categories:
 - Ubuntu
 - Unix

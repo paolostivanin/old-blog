@@ -1,14 +1,11 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-06-12 13:07:49+00:00
 layout: post
-slug: usare-intptr_t-in-c
 title: Usare intptr_t in C
-wordpress_id: 1914
 categories:
 - Generale
-- Programmazione
+- programming
 - Unix
 tags:
 - c

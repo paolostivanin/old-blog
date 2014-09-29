@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-02-16 20:37:48+00:00
 layout: post
-slug: bash-password-manager-v2-nuova-foto
 title: Bash Password Manager v2, nuova foto!
-wordpress_id: 1832
 categories:
 - Projects
 - Unix

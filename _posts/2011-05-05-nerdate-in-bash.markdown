@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-05-05 21:00:35+00:00
 layout: post
-slug: nerdate-in-bash
 title: Nerdate in BASH!
-wordpress_id: 1329
 categories:
 - ArchLinux
 - Debian &amp; Co

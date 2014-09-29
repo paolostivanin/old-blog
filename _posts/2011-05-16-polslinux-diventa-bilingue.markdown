@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-05-16 11:56:13+00:00
 layout: post
-slug: polslinux-diventa-bilingue
 title: Polslinux diventa bilingue!
-wordpress_id: 1383
 categories:
 - Generale
 ---

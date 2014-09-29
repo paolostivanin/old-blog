@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-01 08:13:33+00:00
 layout: post
-slug: xorg-15rc6-in-testing-su-arch
 title: Xorg 1.5rc6, in testing su Arch!
-wordpress_id: 221
 categories:
 - ArchLinux
 - Unix

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-05-12 20:32:37+00:00
 layout: post
-slug: modificare-ebuild-gentoo
 title: Modificare ebuild Gentoo...
-wordpress_id: 858
 categories:
 - Gentoo
 - Unix

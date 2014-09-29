@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-10-05 17:38:39+00:00
 layout: post
-slug: da-ext2-a-ext3-senza-formattare
 title: Da ext2 a ext3 senza formattare!
-wordpress_id: 976
 categories:
 - Debian &amp; Co
 - Ubuntu

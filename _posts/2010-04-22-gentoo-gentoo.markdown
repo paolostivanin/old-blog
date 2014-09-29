@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-04-22 13:48:52+00:00
 layout: post
-slug: gentoo-gentoo
 title: Gentoo? Gentoo!
-wordpress_id: 835
 categories:
 - Generale
 - Gentoo

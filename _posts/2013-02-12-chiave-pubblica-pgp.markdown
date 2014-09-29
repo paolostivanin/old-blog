@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2013-02-12 15:44:56+00:00
 layout: post
-slug: chiave-pubblica-pgp
 title: Chiave pubblica PGP
-wordpress_id: 2181
 categories:
 - Generale
 - Unix

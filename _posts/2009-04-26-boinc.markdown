@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-04-26 12:14:28+00:00
 layout: post
-slug: boinc
 title: Boinc, aiutiamo la ricerca!
-wordpress_id: 688
 categories:
 - ArchLinux
 - Debian &amp; Co

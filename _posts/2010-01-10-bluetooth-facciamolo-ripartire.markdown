@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-01-10 21:45:22+00:00
 layout: post
-slug: bluetooth-facciamolo-ripartire
 title: Bluetooth, facciamolo ripartire!
-wordpress_id: 799
 categories:
 - ArchLinux
 - Ubuntu

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-10-28 18:52:55+00:00
 layout: post
-slug: alacarte-0117-pacchettizzato-per-voi
 title: Alacarte 0.11.7 pacchettizzato per voi!
-wordpress_id: 353
 categories:
 - Ubuntu
 - Unix

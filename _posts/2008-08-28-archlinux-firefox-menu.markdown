@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-28 10:01:38+00:00
 layout: post
-slug: archlinux-firefox-menu
 title: ArchLinux Firefox menù!
-wordpress_id: 190
 categories:
 - ArchLinux
 - Unix

@@ -1,12 +1,9 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-06 16:35:48+00:00
 layout: post
-slug: prossimi-post-comandi-utili-shell-bash-compilare-il-kernel-manualmente-fedora-9-sabayon-35-arch-linux-200806
 title: 'Prossimi post: Comandi utili shell bash, Compilare il kernel manualmente,
   Fedora 9, Sabayon 3.5, Arch Linux 2008.06!'
-wordpress_id: 40
 categories:
 - Generale
 ---

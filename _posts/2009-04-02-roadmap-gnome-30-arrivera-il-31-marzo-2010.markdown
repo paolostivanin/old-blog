@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-04-02 14:10:59+00:00
 layout: post
-slug: roadmap-gnome-30-arrivera-il-31-marzo-2010
 title: '[Roadmap] Gnome 3.0 arriverà il 31 marzo 2010!'
-wordpress_id: 666
 categories:
 - ArchLinux
 - Ubuntu

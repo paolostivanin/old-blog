@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-30 13:40:47+00:00
 layout: post
-slug: road-to-ubuntu-810-prossimi-alla-beta
 title: Road-to Ubuntu 8.10, prossimi alla beta!
-wordpress_id: 309
 categories:
 - Ubuntu
 - Unix

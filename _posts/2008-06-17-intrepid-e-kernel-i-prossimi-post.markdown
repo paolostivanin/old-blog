@@ -1,12 +1,9 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-17 12:08:51+00:00
 layout: post
-slug: intrepid-e-kernel-i-prossimi-post
 title: Intrepid, Kerneler, Nexenta 2 alpha 1, Vlos 2008.6, ZenWalk 5.2, i prossimi
   post!
-wordpress_id: 14
 categories:
 - Unix
 ---

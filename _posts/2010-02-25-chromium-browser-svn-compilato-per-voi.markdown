@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-02-25 16:53:31+00:00
 layout: post
-slug: chromium-browser-svn-compilato-per-voi
 title: Chromium-browser-svn compilato per voi!
-wordpress_id: 807
 categories:
 - ArchLinux
 ---

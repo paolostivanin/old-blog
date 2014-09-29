@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-09-08 13:40:51+00:00
 layout: post
-slug: f-spot-bluez-compilati-per-voi
 title: F-Spot & Bluez compilati per voi!
-wordpress_id: 757
 categories:
 - ArchLinux
 - Unix

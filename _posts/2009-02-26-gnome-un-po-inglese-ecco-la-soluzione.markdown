@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-02-26 08:45:08+00:00
 layout: post
-slug: gnome-un-po-inglese-ecco-la-soluzione
 title: Gnome mezzo inglese? Ecco la soluzione!
-wordpress_id: 612
 categories:
 - ArchLinux
 - Ubuntu

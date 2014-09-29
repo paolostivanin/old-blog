@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-06-03 18:21:09+00:00
 layout: post
-slug: how-to-widget-vodafone-su-linux-ora-si-puo
 title: '[How-to] Widget Vodafone su Linux, ORA SI PUÒ!'
-wordpress_id: 722
 categories:
 - ArchLinux
 - Ubuntu

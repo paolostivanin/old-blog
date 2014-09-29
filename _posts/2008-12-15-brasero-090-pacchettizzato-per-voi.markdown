@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-12-15 21:40:14+00:00
 layout: post
-slug: brasero-090-pacchettizzato-per-voi
 title: Brasero 0.9.0 pacchettizzato per voi!
-wordpress_id: 495
 categories:
 - Ubuntu
 - Unix

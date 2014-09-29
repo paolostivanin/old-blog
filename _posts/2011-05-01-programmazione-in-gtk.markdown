@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-05-01 10:21:06+00:00
 layout: post
-slug: programmazione-in-gtk
 title: Programmazione in GTK+!
-wordpress_id: 1305
 categories:
 - Unix
 tags:

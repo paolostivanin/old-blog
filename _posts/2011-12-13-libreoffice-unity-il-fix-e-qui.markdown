@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-12-13 17:24:51+00:00
 layout: post
-slug: libreoffice-unity-il-fix-e-qui
 title: 'Libreoffice + Unity: il fix è qui!'
-wordpress_id: 1742
 categories:
 - Ubuntu
 - Unix

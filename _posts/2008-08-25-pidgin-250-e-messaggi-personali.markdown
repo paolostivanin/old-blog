@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-25 17:24:38+00:00
 layout: post
-slug: pidgin-250-e-messaggi-personali
 title: Pidgin 2.5.0 e messaggi personali!
-wordpress_id: 184
 categories:
 - Unix
 ---

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-03-23 16:02:08+00:00
 layout: post
-slug: kernel-next-su-archlinux
 title: Kernel Next su Archlinux...
-wordpress_id: 816
 categories:
 - ArchLinux
 - Unix

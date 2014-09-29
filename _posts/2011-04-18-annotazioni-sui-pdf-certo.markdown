@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-04-18 18:11:39+00:00
 layout: post
-slug: annotazioni-sui-pdf-certo
 title: Annotazioni sui PDF? Certo!
-wordpress_id: 1272
 categories:
 - Debian &amp; Co
 - Ubuntu

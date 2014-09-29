@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-01-20 09:30:52+00:00
 layout: post
-slug: archlinux-x86_64
 title: Archlinux x86_64!
-wordpress_id: 556
 categories:
 - ArchLinux
 - Unix

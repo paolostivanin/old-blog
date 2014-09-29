@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-15 21:08:50+00:00
 layout: post
-slug: rieccomi-gente
 title: Rieccomi gente!
-wordpress_id: 288
 categories:
 - Generale
 ---

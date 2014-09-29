@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-04-07 17:01:30+00:00
 layout: post
-slug: epiphany-2272-webkit-news
 title: Epiphany 2.27.2, webkit & news!
-wordpress_id: 674
 categories:
 - ArchLinux
 - Unix

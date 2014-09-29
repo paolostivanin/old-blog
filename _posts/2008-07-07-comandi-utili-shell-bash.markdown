@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-07 09:45:27+00:00
 layout: post
-slug: comandi-utili-shell-bash
 title: Comandi utili Shell Bash
-wordpress_id: 41
 categories:
 - Unix
 ---

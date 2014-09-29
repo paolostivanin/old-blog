@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-03 14:37:07+00:00
 layout: post
-slug: pkg-per-arch
 title: PKG per Arch!
-wordpress_id: 365
 categories:
 - ArchLinux
 - Unix

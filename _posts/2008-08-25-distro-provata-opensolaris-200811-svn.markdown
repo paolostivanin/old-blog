@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-25 18:00:40+00:00
 layout: post
-slug: distro-provata-opensolaris-200811-svn
 title: 'Distro provata: OPENSOLARIS 2008.11 (svn)'
-wordpress_id: 177
 categories:
 - Unix
 ---

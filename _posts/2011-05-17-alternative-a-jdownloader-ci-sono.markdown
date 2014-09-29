@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-05-17 18:20:24+00:00
 layout: post
-slug: alternative-a-jdownloader-ci-sono
 title: Alternative a JDownloader? Ci sono!
-wordpress_id: 1406
 categories:
 - ArchLinux
 - Debian &amp; Co

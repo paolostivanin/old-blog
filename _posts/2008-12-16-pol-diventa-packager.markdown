@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-12-16 13:53:08+00:00
 layout: post
-slug: pol-diventa-packager
 title: Pol diventa packager!
-wordpress_id: 497
 categories:
 - Ubuntu
 - Unix

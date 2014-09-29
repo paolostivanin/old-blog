@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-10-26 15:39:54+00:00
 layout: post
-slug: ricordiamoci-anche-di-kubuntu-810
 title: Ricordiamoci anche di Kubuntu 8.10!
-wordpress_id: 344
 categories:
 - Ubuntu
 - Unix

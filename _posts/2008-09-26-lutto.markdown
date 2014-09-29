@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-26 13:03:31+00:00
 layout: post
-slug: lutto
 title: Lutto.
-wordpress_id: 304
 categories:
 - Generale
 ---

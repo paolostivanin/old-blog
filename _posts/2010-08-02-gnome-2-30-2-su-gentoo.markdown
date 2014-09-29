@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-08-02 12:50:42+00:00
 layout: post
-slug: gnome-2-30-2-su-gentoo
 title: Gnome 2.30.2 su Gentoo!
-wordpress_id: 915
 categories:
 - Gentoo
 - Unix

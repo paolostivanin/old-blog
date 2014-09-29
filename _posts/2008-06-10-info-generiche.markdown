@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-10 16:49:29+00:00
 layout: post
-slug: info-generiche
 title: Info generiche!
-wordpress_id: 6
 categories:
 - Generale
 ---

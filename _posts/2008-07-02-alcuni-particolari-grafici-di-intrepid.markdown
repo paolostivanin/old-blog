@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-02 16:00:57+00:00
 layout: post
-slug: alcuni-particolari-grafici-di-intrepid
 title: Alcuni particolari grafici di Intrepid!
-wordpress_id: 34
 categories:
 - Ubuntu
 ---

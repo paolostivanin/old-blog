@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-10-01 12:37:15+00:00
 layout: post
-slug: finalmente-e-tornatodo
 title: FINALMENTE È TORNATO!!
-wordpress_id: 766
 categories:
 - Generale
 ---

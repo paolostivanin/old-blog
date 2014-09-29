@@ -1,13 +1,10 @@
 ---
-author: pol@blog
-comments: true
-date: 2014-01-16 17:36:46+00:00
 layout: post
-slug: strutture-dati-dinamiche-in-c-la-pila
 title: 'Strutture dati dinamiche in C: la pila'
-wordpress_id: 2246
+date: 2014-01-16
+comments: true
 categories:
-- Programmazione
+- programming
 - Unix
 tags:
 - c

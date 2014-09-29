@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
-date: 2008-06-07 08:16:16+00:00
+date: 2008-06-07
 layout: post
-slug: installare-ubuntu-breve-guida
 title: Installare Ubuntu, breve guida!
-wordpress_id: 944
 categories:
 - Ubuntu
 ---

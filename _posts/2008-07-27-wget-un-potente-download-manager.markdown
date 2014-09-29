@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-27 11:00:00+00:00
 layout: post
-slug: wget-un-potente-download-manager
 title: Wget, un potente download manager!
-wordpress_id: 87
 categories:
 - Unix
 ---

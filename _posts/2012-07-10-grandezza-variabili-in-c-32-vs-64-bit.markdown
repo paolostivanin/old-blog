@@ -1,13 +1,10 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-07-10 09:01:12+00:00
 layout: post
-slug: grandezza-variabili-in-c-32-vs-64-bit
 title: Grandezza variabili in C, 32 vs 64 bit
-wordpress_id: 1934
 categories:
-- Programmazione
+- programming
 - Unix
 tags:
 - c

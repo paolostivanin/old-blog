@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-02-17 08:30:34+00:00
 layout: post
-slug: road-to-fedora-11-leonidas
 title: 'Road to: Fedora 11 Leonidas!'
-wordpress_id: 575
 categories:
 - Unix
 ---

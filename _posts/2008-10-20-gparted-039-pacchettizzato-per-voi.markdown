@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-10-20 17:50:59+00:00
 layout: post
-slug: gparted-039-pacchettizzato-per-voi
 title: Gparted 0.4.1 pacchettizzato per voi!
-wordpress_id: 333
 categories:
 - Ubuntu
 - Unix

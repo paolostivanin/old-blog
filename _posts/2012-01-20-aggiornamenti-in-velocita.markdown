@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-01-20 16:14:07+00:00
 layout: post
-slug: aggiornamenti-in-velocita
 title: Aggiornamenti in velocità...
-wordpress_id: 1767
 categories:
 - Generale
 - Unix

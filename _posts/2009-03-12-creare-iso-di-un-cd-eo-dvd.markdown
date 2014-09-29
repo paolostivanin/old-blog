@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-03-12 19:59:49+00:00
 layout: post
-slug: creare-iso-di-un-cd-eo-dvd
 title: Creare ISO di un CD e/o DVD!
-wordpress_id: 636
 categories:
 - ArchLinux
 - Ubuntu

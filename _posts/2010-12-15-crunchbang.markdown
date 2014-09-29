@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-12-15 14:05:19+00:00
 layout: post
-slug: crunchbang
 title: '#!CrunchBang'
-wordpress_id: 1026
 categories:
 - Ubuntu
 - Unix

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-12-04 10:30:15+00:00
 layout: post
-slug: archlinux-guida-per-avere-tastiera-it-e-touchpad-funzionanti
 title: ArchLinux, guida per avere tastiera IT e touchpad funzionanti!
-wordpress_id: 465
 categories:
 - ArchLinux
 - Unix

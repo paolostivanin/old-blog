@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-07-08 17:00:56+00:00
 layout: post
-slug: keepassx-2-0-alpha2
 title: KeepassX 2.0-alpha2
-wordpress_id: 1930
 categories:
 - Generale
 - Unix

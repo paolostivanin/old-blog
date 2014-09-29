@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-02-28 16:17:15+00:00
 layout: post
-slug: addio-djneophyte
 title: Addio DjNeophyte!
-wordpress_id: 809
 categories:
 - ArchLinux
 - Generale

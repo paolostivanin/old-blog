@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-02 10:08:03+00:00
 layout: post
-slug: pc-bsd-7beta
 title: PC-BSD 7beta
-wordpress_id: 231
 categories:
 - Unix
 ---

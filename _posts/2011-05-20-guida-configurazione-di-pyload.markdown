@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-05-20 12:04:09+00:00
 layout: post
-slug: guida-configurazione-di-pyload
 title: Guida configurazione di PyLoad!
-wordpress_id: 1457
 categories:
 - Debian &amp; Co
 - Ubuntu

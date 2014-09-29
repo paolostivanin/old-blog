@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-03-04 10:44:01+00:00
 layout: post
-slug: downtime-del-sito
 title: Downtime del sito!
-wordpress_id: 1197
 categories:
 - Generale
 ---

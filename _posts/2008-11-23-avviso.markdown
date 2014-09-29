@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-23 22:08:25+00:00
 layout: post
-slug: avviso
 title: Avviso
-wordpress_id: 445
 categories:
 - Generale
 ---

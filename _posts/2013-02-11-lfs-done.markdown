@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2013-02-11 18:23:32+00:00
 layout: post
-slug: lfs-done
 title: LFS? Done!
-wordpress_id: 2148
 categories:
 - LFS
 - Unix

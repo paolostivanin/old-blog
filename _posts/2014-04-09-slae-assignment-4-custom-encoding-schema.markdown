@@ -1,13 +1,10 @@
 ---
-author: pol@blog
 comments: true
 date: 2014-04-09 16:57:06+00:00
 layout: post
-slug: slae-assignment-4-custom-encoding-schema
 title: 'SLAE Assignment 4: Custom Encoding Schema'
-wordpress_id: 2361
 categories:
-- Programmazione
+- programming
 - SLAE
 tags:
 - asm-x86

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-05-18 16:00:19+00:00
 layout: post
-slug: distro-gnulinux-piccoli-difetti-grandi-incazzature
 title: Distro GNU/Linux, piccoli difetti grandi incazzature!
-wordpress_id: 1440
 categories:
 - Debian &amp; Co
 - Generale

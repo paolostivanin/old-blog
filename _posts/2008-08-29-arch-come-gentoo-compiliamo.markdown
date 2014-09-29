@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-29 09:08:22+00:00
 layout: post
-slug: arch-come-gentoo-compiliamo
 title: Arch come Gentoo, compiliamo!
-wordpress_id: 217
 categories:
 - ArchLinux
 - Unix

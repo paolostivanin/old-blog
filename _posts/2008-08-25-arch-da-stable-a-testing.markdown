@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-25 08:13:34+00:00
 layout: post
-slug: arch-da-stable-a-testing
 title: Arch, da stable a testing!
-wordpress_id: 170
 categories:
 - ArchLinux
 ---

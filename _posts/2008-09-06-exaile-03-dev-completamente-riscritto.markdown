@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-06 15:37:57+00:00
 layout: post
-slug: exaile-03-dev-completamente-riscritto
 title: Exaile 0.3-dev! Completamente riscritto!
-wordpress_id: 266
 categories:
 - Ubuntu
 - Unix

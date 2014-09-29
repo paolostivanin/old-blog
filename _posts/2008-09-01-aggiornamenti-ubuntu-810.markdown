@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-09-01 10:48:49+00:00
 layout: post
-slug: aggiornamenti-ubuntu-810
 title: Aggiornamenti Ubuntu 8.10
-wordpress_id: 225
 categories:
 - Ubuntu
 ---

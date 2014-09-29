@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-01-27 10:54:48+00:00
 layout: post
-slug: secure-delete-v1-9-5-rilasciato
 title: Secure Delete v1.9.5 rilasciato!
-wordpress_id: 1784
 categories:
 - Projects
 - Unix

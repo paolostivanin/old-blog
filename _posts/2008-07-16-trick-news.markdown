@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-16 15:43:52+00:00
 layout: post
-slug: trick-news
 title: Trick & News!
-wordpress_id: 65
 categories:
 - Unix
 ---

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-29 16:25:47+00:00
 layout: post
-slug: flash-player-10-beta-icedtea-java
 title: Flash Player 10 beta & IcedTea (java)
-wordpress_id: 27
 categories:
 - Ubuntu
 ---

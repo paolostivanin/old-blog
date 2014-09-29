@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-09-11 14:08:26+00:00
 layout: post
-slug: da-jaunty-a-karmic-veloce-e-indolore
 title: Da Jaunty a Karmic, veloce e indolore!
-wordpress_id: 762
 categories:
 - Ubuntu
 - Unix

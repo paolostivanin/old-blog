@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-12 13:58:50+00:00
 layout: post
-slug: hotmail-antilinux-come-risolvere
 title: Hotmail antiLinux, come risolvere!
-wordpress_id: 391
 categories:
 - ArchLinux
 - Generale

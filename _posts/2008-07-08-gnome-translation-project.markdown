@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-08 16:27:03+00:00
 layout: post
-slug: gnome-translation-project
 title: Gnome Translation Project!
-wordpress_id: 45
 categories:
 - Generale
 ---

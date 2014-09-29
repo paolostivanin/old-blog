@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-04-02 13:55:16+00:00
 layout: post
-slug: gnome-228-roadmap-release-di-preparazione
 title: Gnome 2.28 roadmap! (release di preparazione)
-wordpress_id: 663
 categories:
 - ArchLinux
 - Ubuntu

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-21 09:30:37+00:00
 layout: post
-slug: metacity-2253-gtk-engines-guida-alla-compilazione
 title: Rinnoviamo la grafica di Gnome da svn!
-wordpress_id: 420
 categories:
 - ArchLinux
 - Ubuntu

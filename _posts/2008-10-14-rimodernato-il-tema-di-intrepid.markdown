@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-10-14 17:57:07+00:00
 layout: post
-slug: rimodernato-il-tema-di-intrepid
 title: Rimodernato il tema di Intrepid!
-wordpress_id: 318
 categories:
 - Ubuntu
 - Unix

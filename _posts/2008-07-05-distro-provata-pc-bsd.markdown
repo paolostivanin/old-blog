@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-05 09:01:29+00:00
 layout: post
-slug: distro-provata-pc-bsd
 title: 'Distro provata: PC-BSD'
-wordpress_id: 39
 categories:
 - Unix
 ---

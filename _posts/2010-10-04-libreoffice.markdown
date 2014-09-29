@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2010-10-04 16:00:39+00:00
 layout: post
-slug: libreoffice
 title: LibreOffice sarà il futuro?
-wordpress_id: 970
 categories:
 - Generale
 - Unix

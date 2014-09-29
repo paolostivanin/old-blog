@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-11-01 20:59:22+00:00
 layout: post
-slug: keepassx-2-0-alpha3-rilasciato
 title: KeepassX 2.0-alpha3 rilasciato!
-wordpress_id: 2078
 categories:
 - Generale
 - Unix

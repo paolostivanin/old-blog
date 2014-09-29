@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-05-14 21:46:42+00:00
 layout: post
-slug: comandi-da-shell
 title: Shell's cmd [1]!
-wordpress_id: 708
 categories:
 - Debian &amp; Co
 - Ubuntu

@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-27 16:45:37+00:00
 layout: post
-slug: risoluzione-bug-intrepid
 title: Risoluzione bug Intrepid!
-wordpress_id: 94
 categories:
 - Ubuntu
 ---

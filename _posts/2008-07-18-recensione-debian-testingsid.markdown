@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-07-18 13:52:13+00:00
 layout: post
-slug: recensione-debian-testingsid
 title: '[Recensione] Debian testing/Sid'
-wordpress_id: 73
 categories:
 - Unix
 ---

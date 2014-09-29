@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-11-11 17:24:10+00:00
 layout: post
-slug: gnome-2251-rilasciato
 title: Gnome 2.25.1 RILASCIATO!
-wordpress_id: 386
 categories:
 - Ubuntu
 - Unix

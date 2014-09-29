@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-01-30 12:51:24+00:00
 layout: post
-slug: secure-delete-v1-9-6-minor-fix-nuova-collaborazione
 title: 'Secure Delete v1.9.6: minor fix + nuova collaborazione :)'
-wordpress_id: 1791
 categories:
 - Projects
 - Unix

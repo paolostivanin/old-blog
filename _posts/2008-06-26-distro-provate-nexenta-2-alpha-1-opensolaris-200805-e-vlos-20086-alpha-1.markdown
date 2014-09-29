@@ -1,12 +1,9 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-06-26 16:14:37+00:00
 layout: post
-slug: distro-provate-nexenta-2-alpha-1-opensolaris-200805-e-vlos-20086-alpha-1
 title: 'Distro provate: Nexenta 2 alpha 1, OpenSolaris 2008.05 e Vlos 2008.6 alpha
   1!'
-wordpress_id: 19
 categories:
 - Ubuntu
 ---

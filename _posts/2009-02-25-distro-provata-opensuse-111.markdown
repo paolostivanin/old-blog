@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-02-25 12:27:30+00:00
 layout: post
-slug: distro-provata-opensuse-111
 title: 'Distro provata: OPENSUSE 11.1'
-wordpress_id: 600
 categories:
 - Unix
 ---

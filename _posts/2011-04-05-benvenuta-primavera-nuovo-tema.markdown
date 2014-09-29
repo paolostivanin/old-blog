@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-04-05 18:23:45+00:00
 layout: post
-slug: benvenuta-primavera-nuovo-tema
 title: '[Benvenuta primavera] Nuovo tema!'
-wordpress_id: 1217
 categories:
 - Generale
 ---

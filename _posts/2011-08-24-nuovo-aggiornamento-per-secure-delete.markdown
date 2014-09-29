@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-08-24 10:52:20+00:00
 layout: post
-slug: nuovo-aggiornamento-per-secure-delete
 title: Nuovo aggiornamento per Secure Delete!
-wordpress_id: 1528
 categories:
 - ArchLinux
 - Debian &amp; Co

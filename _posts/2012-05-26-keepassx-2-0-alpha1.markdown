@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-05-26 10:54:20+00:00
 layout: post
-slug: keepassx-2-0-alpha1
 title: KeePassX 2.0 alpha1
-wordpress_id: 1876
 categories:
 - ArchLinux
 - Debian &amp; Co

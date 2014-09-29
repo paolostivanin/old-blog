@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2011-07-23 08:46:56+00:00
 layout: post
-slug: secure-delete-nuovi-aggiornamenti
 title: Secure Delete, nuovi aggiornamenti!
-wordpress_id: 1523
 categories:
 - Debian &amp; Co
 - Ubuntu

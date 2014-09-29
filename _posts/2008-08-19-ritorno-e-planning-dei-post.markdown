@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-19 09:38:27+00:00
 layout: post
-slug: ritorno-e-planning-dei-post
 title: Ritorno e planning dei post!
-wordpress_id: 163
 categories:
 - Generale
 ---

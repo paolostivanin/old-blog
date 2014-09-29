@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2013-05-14 20:47:30+00:00
 layout: post
-slug: fixare-il-tasto-canc-su-gentoo-zsh
 title: Fixare il tasto Canc su Gentoo + ZSH
-wordpress_id: 2219
 categories:
 - Gentoo
 - Unix

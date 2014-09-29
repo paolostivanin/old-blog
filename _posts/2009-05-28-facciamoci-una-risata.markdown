@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2009-05-28 19:09:52+00:00
 layout: post
-slug: facciamoci-una-risata
 title: Facciamoci una risata! :-)
-wordpress_id: 720
 categories:
 - Generale
 - Unix

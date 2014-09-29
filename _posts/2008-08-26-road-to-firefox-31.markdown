@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2008-08-26 08:00:34+00:00
 layout: post
-slug: road-to-firefox-31
 title: Road to Firefox 3.1!
-wordpress_id: 181
 categories:
 - Unix
 ---

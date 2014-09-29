@@ -1,11 +1,8 @@
 ---
-author: pol@blog
 comments: true
 date: 2012-10-18 09:56:15+00:00
 layout: post
-slug: dropbox-glibcxx_3-4-11-not-found
 title: 'Dropbox: GLIBCXX_3.4.11 not found'
-wordpress_id: 2041
 categories:
 - ArchLinux
 - Debian &amp; Co
