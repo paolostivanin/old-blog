@@ -1,0 +1,40 @@
+---
+author: pol@blog
+comments: true
+date: 2009-11-07 12:43:31+00:00
+layout: post
+slug: ubuntu-10-04-avra-gnome-2-30
+title: Ubuntu 10.04 avrà Gnome 2.30!
+wordpress_id: 775
+categories:
+- Ubuntu
+- Unix
+---
+
+Ubuntu 10.04, codename **_Lucid Lynx _**avrà come D.E. il nostro amato **GNOME 2.30**
+
+Tranquilli, non avrà il tanto atteso **GNOME 3 **ma **GNOME 2.30**!
+
+Si perchè in questi giorni si è _quasi_ deciso di postporre l'uscita di **Gnome 3.0 **a **settembre 2010** questo perchè alcuni elementi fondamentali del D.E. non sono ancora pronti e stabili!
+
+Che dire, ottima decisione quella del Gnome-team di aspettare 6 mesi in più ma avere un prodotto stabile e funzionante alla sua uscita :)
+
+Comunque è stato anche detto che per gli _ansiosi_ sarà disponibile una **Gnome3-preview** ad aprile 2010 ma è ancora presto per avere maggiori dettagli. Vi terrò aggiornati su questo promesso ;)
+
+Ora torniamo al titolo del topic!
+
+Oggi effettuando gli aggiornamenti sulla mia lucid-box ho notato che, oltre ad essere stato inserito il kernel 2.6.32-rc6, sono stati aggiornati dei softwares di Gnome, in particolare:
+
+
+
+	
+  * brasero è stato portato alla 2.29.1
+
+	
+  * eog è stato portato alla 2.29.1
+
+	
+  * evince è stato portato alla 2.29.1
+
+
+Questo non può far altro che capire che **Lucid Lynx** avrà **Gnome 2.30 **come D.E., il quale, torno a dire, sarà il _"solito"_ Gnome; solito nel senso che non avremo stravolgimenti e che sarà perfettamente stabile (come sempre :) ) per una LTS quale sarà **Lucid**!

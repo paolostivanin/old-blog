@@ -1,0 +1,19 @@
+---
+author: pol@blog
+comments: true
+date: 2013-02-12 15:44:56+00:00
+layout: post
+slug: chiave-pubblica-pgp
+title: Chiave pubblica PGP
+wordpress_id: 2181
+categories:
+- Generale
+- Unix
+tags:
+- pgp
+- pubkey
+- rsa
+- sicurezza
+---
+
+Se avete necessità di comunicare con me ma volete garantita la confidenzialità della comunicazione allora vi basterà usare la mia chiave pubblica PGP disponibile [QUI](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0x7FFDA558E71B7545).

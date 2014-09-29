@@ -1,0 +1,76 @@
+---
+author: pol@blog
+comments: true
+date: 2009-01-20 09:30:52+00:00
+layout: post
+slug: archlinux-x86_64
+title: Archlinux x86_64!
+wordpress_id: 556
+categories:
+- ArchLinux
+- Unix
+---
+
+Ebbene si!
+
+Dopo diversi giorni di inattività causa impegni, stasera ho deciso di prendere in mano il mio notebook, ho piallato l'HD e l'ho così suddiviso:
+
+
+
+	
+  * archlinux x86_64 [60gb]
+
+	
+  * ubuntu jaunty i386 [10gb]
+
+	
+  * libero [50gb]
+
+
+**Non **ho fatto la partizione SWAP perchè, avendo 3gb di ram, che me ne faccio?!? ;-)
+
+Ho scelto **Archlinux x86_64** perchè **FINALMENTE**, grazie ad adobe che ha cominciato a sviluppare flash per 64bit, posso usare flash su Epiphany (sto cercando di abituarmi a lui) senza tanti intoppi anche con la versione** x86_64** :D
+
+_**Per un attimo**_ durante l'installazione del D.E. ho pensato di scegliere KDE 4.2...ma poi mi son fermato, mi son dato uno schiaffo e mi son detto: _"ma che cavolo penso?!?!"_ ;-)
+
+Non me ne vogliano i KDEISTI ma...**W GNOME** :D
+
+Per quanto concerne cos'ho installato, questa è una lista sommaria:
+
+
+
+	
+  * gnome
+
+	
+  * gnome-extra
+
+	
+  * openoffice-it
+
+	
+  * jre
+
+	
+  * flashplugin
+
+	
+  * brasero
+
+	
+  * gstreamer0.10-bad/ugly/good-plugins
+
+
+Ovviamente ho fatto le opportune modifche al _makepkg.conf_ inserendo le mie _CFLAGS, CXXFLAGS_ e _CHOST_.
+
+Inoltre ho editato il file _logrotate.conf_ facendo in modo che comprima i log vecchi.
+
+Sono pienamente soddisfatto di **Arch x86_64**, è migliorata molto dai lontani tempi in cui la provai :D
+
+Ora non mi resta che ripristinare qualche vecchio file e si torna operativi al 100% :D
+
+Riguardo a Ubuntu ho scelto la i386 perchè non è previsto il flash per x64 e qualche altro pacchetto che mi serviva e quindi, onde evitare problemi, ho scelto tale versione!
+
+Più avanti farò un post più approfondito su Jaunty, tranquilli ;-)
+
+Buona settimana a tutti genteeeeeee! :-)

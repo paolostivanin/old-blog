@@ -1,0 +1,77 @@
+---
+author: pol@blog
+comments: true
+date: 2008-10-01 08:45:52+00:00
+layout: post
+slug: fedora-10-beta
+title: Fedora 10 beta!
+wordpress_id: 311
+categories:
+- Unix
+---
+
+Ieri sera, prima di andare a letto, ero li che giravo per internet...quando ho visto il release announcement di **Fedora 10 beta**!
+
+Bene mi son detto, andiamo a vederla :D
+
+Non ho fatto grandi prove, il sistema rispondeva bene benchè fosse da live!
+
+Ho notato che, nonostante abbia OpenOffice 3 nei repo, non vi sia nel live...strano! Mah!
+
+Info salienti:
+
+
+**Gnome** 2.24.0 (nella schermata c'è scritto 2.23.92 ma appena installata avrete 285 updates)
+
+
+
+
+**Kernel** 2.6.27-rc7
+
+
+
+
+**Network Manager** 0.7.0
+
+
+
+
+**OpenOffice** 3.0
+
+
+
+
+**RPM** 4.6
+
+
+
+
+**Package-kit** 0.3.2
+
+
+
+
+**Ekiga** 3.0 (cosa che Intrepid **NON** ha)
+
+
+
+Questa non è stata una prova vera e propria perchè, come potete notare, non ho scritto pressochè niente!
+
+Ero solo li a non far niente e ho voluto vedere come viene su Fedora 10!
+
+Screenshots:
+
+[![](http://www.allfreeportal.com/imghost/thumbs/620849schermata.png)](http://www.allfreeportal.com/imghost/viewer.php?id=620849schermata.png)
+
+[![](http://www.allfreeportal.com/imghost/thumbs/512792Screenshot.png)](http://www.allfreeportal.com/imghost/viewer.php?id=512792Screenshot.png)
+
+[![](http://www.allfreeportal.com/imghost/thumbs/340945Screenshot-1.png)](http://www.allfreeportal.com/imghost/viewer.php?id=340945Screenshot-1.png)
+
+[![](http://www.allfreeportal.com/imghost/thumbs/520429Screenshot-2.png)](http://www.allfreeportal.com/imghost/viewer.php?id=520429Screenshot-2.png)
+
+**Empathy:**
+
+[![](http://www.allfreeportal.com/imghost/thumbs/661628Screenshot-3.png)](http://www.allfreeportal.com/imghost/viewer.php?id=661628Screenshot-3.png)
+
+
+**Nuovo tema icone "Echo"** (da completare)

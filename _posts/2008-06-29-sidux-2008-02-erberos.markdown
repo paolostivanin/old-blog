@@ -1,0 +1,25 @@
+---
+author: pol@blog
+comments: true
+date: 2008-06-29 10:13:35+00:00
+layout: post
+slug: sidux-2008-02-erberos
+title: Sidux 2008-02 Erberos
+wordpress_id: 25
+categories:
+- Unix
+---
+
+Eccomi qua a scrivere di questa prova su strada di **Sidux Erberos XFCE edition.**
+
+Non ci sono molte cose da dire, se non che**_ Sidux è fatta per KDE_** e la versione XFCE ha la metà delle funzioni di quella KDE.
+
+Poi XFCE non mi piace perchè ha un mischiotto fra programmi Gnome e KDE...e mi da fastidio sta cosa! W GNOME!!! :D
+
+Secondo me è stata una cosa abbastanza inutile la XFCE edition perchè o si fa una distro completa o niente, non si può nemmeno fare il paragone tra le funzionalità e la completezza di quella KDE con la XFCE!
+
+Poi Debian Sid non la trovo tutto sto Sid...nel senso, ho provato Debian Sid (NON sidux) e mentre su Ubuntu c'era OpenOffice 2.4.1 su Debian ancora non c'era XD....a posto siamo..LOL
+
+Per conto mio se volete provarla usate la KDE edition, non conviene assolutamente la XFCE!
+
+Il post è stato abbastanza corto perchè non c'è niente da dire (purtroppo).

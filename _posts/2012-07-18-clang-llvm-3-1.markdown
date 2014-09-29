@@ -1,0 +1,27 @@
+---
+author: pol@blog
+comments: true
+date: 2012-07-18 12:52:15+00:00
+layout: post
+slug: clang-llvm-3-1
+title: Clang + LLVM 3.1
+wordpress_id: 1956
+categories:
+- Programmazione
+- Unix
+---
+
+Se volete compilare i vostri files scritti in C con Clang allora dovete:
+
+
+
+	
+  1. aggiornare Clang/LLVM alla versione 3.1 (consiglio personale dato che la versione 3.0, per esempio, non supporta il `%ms` di `scanf`)
+
+	
+  2. compilare i vostri files con: `clang file1.c file2.c -o output_file`
+
+
+Ho fatto dei semplici test su alcuni programmi in C e, comando `time` alla mano, i tempi di esecuzione sono pressochè identici (differiscono di pochi millisecondi a favore di GCC) :)
+
+Per le differenze tra GCC e Clang guardate i test di Phoronix e/o googlate ;)

@@ -1,0 +1,64 @@
+---
+author: pol@blog
+comments: true
+date: 2008-07-01 11:30:38+00:00
+layout: post
+slug: firefox-31-pre-a1
+title: Firefox 3.1 pre-a1
+wordpress_id: 29
+categories:
+- Generale
+---
+
+Eccoci qui a parlare di Firefox 3.1 per-alpha1!
+
+**Per chi volesse scaricarlo:**
+
+[http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/](http://ftp.mozilla.org/pub/mozilla.org/firefox/nightly/latest-trunk/)
+
+**Qualche info generica:**
+
+Prima alpha entro il prossimo mese, prima beta ad agosto! Inoltre la prossima versione di Firefox dovrebbe ulteriormente migliorare il sistema di gestione dei segnalibri e la nuova location bar che ha debuttato in Firefox 3.0. Inoltre il motore Gecko sarà l'1.9.1 che è ora sotto sviluppo!
+
+**Ma cerchiamo di capire qualche novità per questa "pseudo-release" di FF!**
+
+Allora, il motore è ancora il Gecko 1.9, perchè l'1.9.1 lo stanno sviluppando or ora!
+
+Come velocità a me sembra più reattivo della 3 e in quanto consumo ram per ora cambia di poco (circa 1-3 MB la 3.1 rispetto la 3), ma siamo appena agli inizi aspettiamo più avanti a vedere!
+
+Per notare se ci sono differenze guardiamo qui:
+
+**Firefox 3**
+
+Mozilla/5.0 (X11; U; Linux x86_64; it;_** rv:1.9**_) _**Gecko/2008062519**_ Firefox/3.0
+
+**Firefox 3.1-a1pre:**
+
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; **_rv:1.9.1a1pre_**) **_Gecko/2008070104_** Minefield/3.1a1pre
+
+Come si può vedere, abbiamo delle differenze, seppur leggere per ora, nel motore gecko che passa dalla revisione **1.9** alla revisione **1.9.1-a1pre** aggiornata all'1 luglio 2008!
+
+Altre cose meno rilevanti sono che (ovviamente) i plugin sono da reinstallare, come il flash per esempio e che la lingua disponibile è solo l'inglese (per ora)!
+
+Vi posterei qualche screen ma sto maledetto "cattura schermata" non va XD
+
+Ora l'ho sistemato, ecco gli screen tecnici:
+
+**Firefox 3:**
+
+[![](http://www.allfreeportal.com/imghost/thumbs/200371FF3.jpeg)](http://www.allfreeportal.com/imghost/viewer.php?id=200371FF3.jpeg)
+
+**Firefox 3.1-pre-a1:**
+
+[![](http://www.allfreeportal.com/imghost/thumbs/791985FF31-a1.jpeg)](http://www.allfreeportal.com/imghost/viewer.php?id=791985FF31-a1.jpeg)
+**
+Screen generale Firefox 3.1-pre-a1:**
+
+[![](http://www.allfreeportal.com/imghost/thumbs/851835FF.png)](http://www.allfreeportal.com/imghost/viewer.php?id=851835FF.png)
+
+**Screen generale Firefox 3:**
+
+[![](http://www.allfreeportal.com/imghost/thumbs/493364FF3.png)](http://www.allfreeportal.com/imghost/viewer.php?id=493364FF3.png)
+
+Come vedete cambiamenti grafici per ora non ce ne sono, magari in un prossimo futuro....
+**N.B.: le icone diverse sono dovute ad un tema-icone installato su Ubuntu!**

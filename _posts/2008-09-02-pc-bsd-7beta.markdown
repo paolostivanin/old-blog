@@ -1,0 +1,114 @@
+---
+author: pol@blog
+comments: true
+date: 2008-09-02 10:08:03+00:00
+layout: post
+slug: pc-bsd-7beta
+title: PC-BSD 7beta
+wordpress_id: 231
+categories:
+- Unix
+---
+
+[![](http://www.allfreeportal.com/imghost/thumbs/555102relax9.png)](http://www.allfreeportal.com/imghost/viewer.php?id=555102relax9.png)
+
+
+
+Ieri sera, preso dal niente da fare, ho scaricato e installato** PC-BSD 7-beta Fibonacci Edition!**
+
+Allora, partiamo dall'installazione: semplice, veloce, intuitiva. In **25 minuti** formattato e sistema installato con bootloader ovviamente!
+
+All'inizio dell'installazione si poteva scegliere se installare i seguenti componenti aggiunitivi: firefox, openoffice, opera, k3b, ports.
+
+Fatta l'installazione, riavvio e mi trovo davanti al bootloader:
+
+
+F1: PC-BSD
+
+
+
+
+F4: Linux
+
+
+
+
+Questo è il "complicatissimo" bootloader che vi trovate davanti!! XD
+
+
+
+
+Premo F1, parte PC-BSD.
+
+
+
+
+**Il DE è KDE 4.1**, graficamente molto cattivo, lo sfondo è davvero stupendo (volevo farvi qualche screen ma gli hotkey non andavano :( ). Unica pecca grafica: **i fonts erano orribili!**
+
+
+
+
+Passiamo al resto: nonostante avessi scelto italiano il sistema era mezzo in inglese, il wi-fi veniva trovato ma se cliccavo su "connetti" si disabilitava la scheda wireless (?!!?!?)...
+
+
+
+
+La collezione di ports (applicazioni) è vasta, ma su Linux (ovviamente) ce ne sono molte di più!
+
+
+
+
+Ho provato a smanettarci un po' ma dopo anni su Linux è davvero un'altro mondo BSD e la voglia di impararmi tutto non è molta!
+
+
+
+
+Comunque, avrei preferito installare Free-BSD perchè ha Gnome, ma non avevo voglia di star li a configurare tutto.
+
+
+
+
+È davvero un ottimo progetto PC-BSD, col tempo diverrà sempre più completo e funzionale e penso che BSD comincerà ad avere molti più "clienti" rispetto ad ora!
+
+
+
+
+Infine, per fare un rapido riepilogo dei pro e contro:
+
+
+
+
+
+
+	
+  * sistema reattivo;
+
+	
+  * grafica semplice ma accattivante;
+
+	
+  * installazione software comoda e veloce;
+
+	
+  * aggiornamenti del sistema facili da eseguire;
+
+	
+  * installazione sistema veloce ed intuitiva;
+
+	
+  * NON vanno gli hotkey del laptop;
+
+	
+  * wi-fi crasha la scheda;
+
+	
+  * misto inglese/italiano;
+
+
+Che dire, consiglio a tutti di provarla, magari voi che avete più tempo riuscirete a risolvere i problemi che io non ho avuto modo di esaminare a fondo!
+
+[DOWNLOAD PC-BSD 7](http://www.pcbsd.org/content/view/69/11/)
+
+Enjoy it! :D
+
+[![](http://www.allfreeportal.com/imghost/thumbs/427172pcbsd7beta1.png)](http://www.allfreeportal.com/imghost/viewer.php?id=427172pcbsd7beta1.png)
