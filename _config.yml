@@ -3,21 +3,19 @@ title: Polslinux's Blog
 #name: Polslinux's Blog
 url: http://paolostivanin.github.io
 intro: Where there is a shell there is a way!
+permalink: /:year/:month/:title/
 description: Personal Blog
 paginate: 8
 highlighter: pygments
-disqus_shortname:
+disqus_shortname: paolostivanin
 license:
   link: 'https://creativecommons.org/licenses/by-nc/4.0/'
   label: 'CC-BY-NC'
 
 # Owner/author information
 owner:
-  name:           Paolo Stivanin
-# avatar:         <avatar-image-link>
-# url:
-  email:          <your-email-address>
-
+  name: Paolo Stivanin
+  email: info@paolostivanin.com
   twitter: polslinux
   github: https://github.com/paolostivanin
   google_plus: PaoloStivanin
