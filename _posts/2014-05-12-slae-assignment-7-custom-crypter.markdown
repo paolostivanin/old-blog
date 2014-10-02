@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2014-05-12 12:01:03+00:00
+date: 2014-05-12
 layout: post
 title: 'SLAE Assignment 7: Custom Crypter'
 categories:

@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2014-05-12 10:20:04+00:00
+date: 2014-05-12
 layout: post
 title: 'SLAE Assignment 6: Polymorphic Shellcode'
 categories:
