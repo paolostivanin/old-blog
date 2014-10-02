@@ -82,11 +82,9 @@ Now i'm going to explain the execution flow of the above shellcode.
 	
   2. The byte `0x0f` (15 in decimal format) is pushed onto the stack and then is popped inside `eax`. This byte identifies the syscall `sys_chmod(const char *filename [ebx], mode_t mode [ecx])`
 
-```
-    $ grep 15 /usr/src/linux/arch/x86/syscalls/syscall_32.tbl 
-    15 i386 chmod sys_chmod
-```
-
+      `$ grep 15 /usr/src/linux/arch/x86/syscalls/syscall_32.tbl`
+      `15 i386 chmod sys_chmod`
+  
   3. `edx` is pushed onto the stack. This is needed because the file name **must be** null-terminated. A non-null terminated file name will cause the program to crash (segfault);
 
   4. From `0000000A` to `00000035` there are some dynamic created instructions (due to the use of msfpayload) which set up the stack so that the chose string is available without any other pushing;
