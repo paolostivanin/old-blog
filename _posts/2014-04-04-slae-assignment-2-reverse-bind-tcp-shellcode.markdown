@@ -161,7 +161,7 @@ Now it's time to compile the file with gcc -fno-stack-protector -z execstack ma
 
 The last point of this assignment ask to provide an easily way to configure the ip address and the port number. To accomplish this request I developed this small script:
 
-```shell    
+```sh   
 #!/bin/bash
 
 #Description:	Assignment #2 (Reverse_Shell_Bind_TCP, configure ip and port)

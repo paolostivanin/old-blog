@@ -84,7 +84,7 @@ The green rectangle translated in pseudo-assembly code become:
 	
   7. `push newfd`
 
-  8. `mov ecx,esp` ;now ecx contains the address of `(3, {sa_family, sin_port, sin_addr}, 16)`
+  8. `mov ecx,esp` now ecx contains the address of `(3, {sa_family, sin_port, sin_addr}, 16)`
 
 And below there is the complete shellcode:
 
@@ -181,7 +181,7 @@ I also used [libemu](http://libemu.carnivore.it/) and dot to produce a graph of
 
 After that I used the following script to assemble, link and get the shellcode in hex format.
 
-```shell
+```sh
 #!/bin/bash
 
 #Author:	Paolo Stivanin <https://github.com/polslinux>
@@ -244,7 +244,7 @@ To test the shellcode you just need to open a new terminal and type `nc localhos
 
 The last point of this assignment ask to provide a way to easily configure the port number. To accomplish this request I developed this small script:
 
-```shell    
+```sh    
 #!/bin/bash
 
 #Description:	Assignment #1 (Shell_Bind_TCP, configure port)
