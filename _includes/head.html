@@ -1,5 +1,11 @@
 <meta charset="utf-8">
-<title>{{ site.description }}</title>
+<title>
+    {% if page.title == "Home" %}
+      {{ site.title }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+</title>
 <link href='http://paolostivanin.github.io/feed.xml' rel='alternate' type='application/atom+xml'>
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
