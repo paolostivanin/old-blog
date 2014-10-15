@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Me
-date: 2014-09-29
+date: 2014-10-15
 comments: false
 categories: 
 ---
@@ -12,12 +12,12 @@ categories:
 
 **Age:** 24
 
-**E-Mail:** 
+**E-Mail:** info \_AT_/ paolostivanin \_DOT_/ com
 
-**University:** Università degli Studi di Milano, I'm doing a MSc in Computer Science Security.
+**University:** Università degli Studi di Milano. I'm doing a M.Sc. in Computer Security.
 
-**PC configuration:** Intel Core 2 Duo E2410, 2GB RAM DDR2, Nvidia GeForce 430
+**Main PC:** Intel Core i5-4440, 8GB RAM DDR3 1666 Mhz, Nvidia GeForce GTX650
 
-**Notebook:** Sony Vaio VPC-EH1S0E, Intel Core i5-2410m, Intel HD 3000, RAM 8 GB DDR3 
+**Notebook:** Sony Vaio, Intel Core i5-2410M, RAM 8 GB DDR3 1333 Mhz, Intel HD 3000 
 
-**OSes (updated 2014-09):** Ubuntu 14.04 x86 (PC) and Gentoo ~amd64 (notebook)
+**OSes:** Ubuntu 14.04 amd64 (PC) and Gentoo ~amd64 (notebook)
