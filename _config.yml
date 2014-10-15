@@ -3,7 +3,7 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 title: Polslinux's Blog
 #name: Polslinux's Blog
-url: http://paolostivanin.github.io
+url: http://paolostivanin.com
 intro: Where there is a shell there is a way!
 permalink: /:year/:month/:title/
 description: Personal Blog
