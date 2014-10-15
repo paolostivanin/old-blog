@@ -12,7 +12,7 @@ categories:
 
 **Age:** 24
 
-**E-Mail:** info \_AT_/ paolostivanin \_DOT_/ com
+**E-Mail:** info _AT_ paolostivanin _DOT_ com
 
 **University:** Università degli Studi di Milano. I'm doing a M.Sc. in Computer Security.
 
