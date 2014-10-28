@@ -4,30 +4,26 @@ date: 2014-01-19
 layout: post
 title: 'Data Structure in C: the Stack [part 2]'
 categories:
-- data-structure
 - programming
 tags:
 - c
 - stack
 ---
 
-Nell'articolo [precedente](http://www.paolostivanin.com/blog/?p=2246) ho scritto che il programmino che simula lo stack può essere migliorato aggiungendo due cose:
+Nell'articolo precedente ho scritto che il programma che simula lo stack può essere migliorato aggiungendo due cose:
 
   1. l'utente decide che valore inserire;
-	
-  2. pop dell'ultimo valore inserito nella pila.
+  2. pop dell'ultimo valore inserito nella pila;
 
 Supponendo che il programma della scorsa volta lo abbiate chiamato orig.c e che la patch la chiamiate linkedList.patch, il comando da dare per ottenere il sorgente finale è:
-
     
-    patch orig.c -i linkedList.patch -o final.c
-
-
-<!-- more -->
+```sh
+patch orig.c -i linkedList.patch -o final.c
+```
 
 E questa di seguito è la patch che implementa le due richieste sopra scritte.
-
     
+```diff
     --- orig.c	2014-01-19 18:22:22.790943930 +0100
     +++ mod.c	2014-01-19 18:24:03.543942255 +0100
     @@ -7,27 +7,74 @@
@@ -118,17 +114,11 @@ E questa di seguito è la patch che implementa le due richieste sopra scritte.
      void free_list(){
      	while(head){
      		tmp = head;
-
+```
 
 Per concludere ci tengo a farvi notare due cose:
-
-
-
 	
-  * l'uso di scanf è **altamente ****sconsigliato** per ragioni di sicurezza;
+  * l'uso di scanf è **altamente sconsigliato** per motivi di sicurezza;
+  * non viene fatta validazione dell'input;
 
-	
-  * non viene fatta validazione dell'input.
-
-
-Vi lascio come esercizio i due punti qui sopra in quanto, per tenere il programma il più semplice e corto possibile, ho preferito non essere troppo fiscale nello sviluppo :-)
+Vi lascio come esercizio i due punti qui sopra in quanto, per tenere il programma il più semplice possibile, ho preferito non essere troppo fiscale nello sviluppo :-)
