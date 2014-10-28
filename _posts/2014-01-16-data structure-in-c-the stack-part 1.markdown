@@ -12,8 +12,9 @@ tags:
 
 La pila (_stack in inglese_) è un esempio di [struttura dati dinamica](http://it.wikipedia.org/wiki/Struttura_dati#Strutture_dati_dinamiche) (_da qui in poi SDD_) che utilizza il metodo LIFO (Last In First Out) per l'inserimento (push) e la rimozione (pop) dei dati.
 
-[caption id="attachment_2258" align="aligncenter" width="300"][![Esempio di push e pop]({{ site.baseurl }}/images/2014/01/Stack-300x143.jpg)]({{ site.baseurl }}/images/2014/01/Stack.jpg) Esempio di push e pop (pila)[/caption]
-
+<p align="center">
+    <img align="center" src="{{ site.baseurl }}/images/2014/01/Stack.jpg" alt="Esempio di push e pop" />
+</p>
 
 Cosa sono le strutture dati (_e le SDD_) esula completamente dallo scopo di questo post ma, se vi interessa, posso sempre fare un approfondimento più avanti :-)
 
