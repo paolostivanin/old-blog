@@ -3,11 +3,8 @@ comments: true
 date: 2014-01-19
 layout: blog
 title: 'Data Structure in C: the Stack [part 2]'
-categories:
-- programming
-tags:
-- c
-- stack
+category: blog
+tags: [c, stack]
 ---
 
 Nell'articolo precedente ho scritto che il programma che simula lo stack può essere migliorato aggiungendo due cose:

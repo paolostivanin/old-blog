@@ -3,12 +3,8 @@ comments: true
 date: 2013-01-17 07:55:08+00:00
 layout: blog
 title: '[libreitalia.it] Font e Interoperabilità'
-categories:
-- Generale
-- Unix
-tags:
-- font
-- libreitalia
+category: blog
+tags: [other]
 ---
 
 Riporto un articolo molto interessante scritto da [Italo Vignoli](http://www.libreitalia.it/?p=19) per [LibreItalia](http://www.libreitalia.it/) :-)
