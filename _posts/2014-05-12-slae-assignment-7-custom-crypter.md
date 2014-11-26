@@ -4,6 +4,7 @@ date: 2014-05-12
 layout: blog
 title: 'SLAE Assignment 7: Custom Crypter'
 summary: 'This is the last assignment for the SLAE'
+image: /images/header_images/slaelogo.png
 category: blog
 tags: [asm-x86,nasm,slae]
 ---
