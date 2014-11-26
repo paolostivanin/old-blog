@@ -21,16 +21,15 @@ I chose to use C and libgcrypt for this task.
 
 Here is the source code for the encryption and decryption:
 
-
 	//Description:	Assignment #7 (PoC of Crypter using AES-256)
-	//Author: 		Paolo Stivanin <https://github.com/polslinux>
+	//Author:		Paolo Stivanin <https://github.com/polslinux>
 	//SLAE ID:		526
 
 	#include <stdio.h>
 	#include <string.h>
 	#include <gcrypt.h>
 	#include <stdint.h>
-		
+	
 	#define ENC 1
 
 	static void crypt(int, size_t, uint8_t *);
@@ -70,8 +69,8 @@ Here is the source code for the encryption and decryption:
 
 	static void
 	crypt(  int algo,
-		    size_t len,
-		    uint8_t *buf)
+			size_t len,
+			uint8_t *buf)
 	{
 		gcry_cipher_hd_t hd;
 		gcry_cipher_open(&hd, algo, GCRY_CIPHER_MODE_CTR, 0);
@@ -85,7 +84,6 @@ Here is the source code for the encryption and decryption:
 		#endif
 		gcry_cipher_close(hd);
 	}
-
 
 I chose to use AES-256 to encrypt the shellcode (origShell , it contains the shellcode execve(/bin/sh, NULL, NULL) ). You can customize the encryption data by changing the iv , ctr  and key .
 
