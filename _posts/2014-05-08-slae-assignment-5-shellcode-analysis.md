@@ -4,6 +4,7 @@ date: 2014-05-08
 layout: blog
 title: 'SLAE Assignment 5: Shellcode Analysis'
 category: blog
+image: /images/header_images/slaelogo.png
 tags: [asm-x86,nasm,slae]
 ---
 

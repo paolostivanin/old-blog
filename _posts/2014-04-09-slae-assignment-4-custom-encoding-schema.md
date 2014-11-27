@@ -4,6 +4,7 @@ date: 2014-04-09
 layout: blog
 title: 'SLAE Assignment 4: Custom Encoding Schema'
 category: blog
+image: /images/header_images/slaelogo.png
 tags: [asm-x86,nasm,slae]
 ---
 
