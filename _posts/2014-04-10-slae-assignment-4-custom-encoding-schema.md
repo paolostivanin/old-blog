@@ -1,8 +1,8 @@
 ---
 comments: true
-date: 2014-04-09
+date: 2014-04-10
 layout: blog
-title: 'SLAE Assignment 4: Custom Encoding Schema'
+title: 'SLAE Assignment 4: Custom Enc. Schema'
 summary: '4th assignment of the SLAE'
 category: blog
 image: /images/header_images/slaelogo.png
