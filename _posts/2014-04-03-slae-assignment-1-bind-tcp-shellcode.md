@@ -3,6 +3,7 @@ comments: true
 date: 2014-04-03
 layout: blog
 title: 'SLAE Assignment 1: Bind TCP Shellcode'
+summary: '1st assignment of the SLAE'
 category: blog
 image: /images/header_images/slaelogo.png
 tags: [asm-x86,nasm,slae]
