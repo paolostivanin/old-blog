@@ -11,14 +11,13 @@ tags: [asm-x86,nasm,slae]
 
 This is the sixth of the seven assignment necessary to accomplish the [SecurityTube Linux Assembly Expert](http://www.securitytube-training.com/online-courses/securitytube-linux-assembly-expert/index.html) certification. The instructions for this assignment are:
 
-	
   1. Take up 3 shellcodes from shell-storm and create polymorphic versions of them
 	
-  2. The polymorphic version _**cannot**_ be larger than 150% of existing one
+  2. The polymorphic version _cannot_ be larger than 150% of existing one
 	
   3. Bonus point for making it shorter than original
 
-The first shellcode that i chose to change is a chmod("/etc/shadow", 0777)  which original code can be found [here](http://shell-storm.org/shellcode/files/shellcode-590.php).
+The first shellcode that i chose to change is a `chmod("/etc/shadow", 0777)`  which original code can be found [here](http://shell-storm.org/shellcode/files/shellcode-590.php).
 
 The code of the polymorphic version is shown below.
 
@@ -79,11 +78,11 @@ The differences between the original version and the polymorphic version are:
 
   * instead of directly pushing `/etc/shadow`  i used three different methods:
 
-    * I moved inside edx  the value `0x655c5150` and then I added `0x12131311` to it (the result is `0x776f6461` which corresponds to _woda_)
+  * I moved inside edx  the value `0x655c5150` and then I added `0x12131311` to it (the result is `0x776f6461` which corresponds to _woda_)
 
-	* I moved inside edx  the value `0x2f636873` and then i left-rotated of 16 bits this value before pushing it onto the stack (`0x2f636873` become `0x68732f63` which correspond to _hs/c_)
+  * I moved inside edx  the value `0x2f636873` and then i left-rotated of 16 bits this value before pushing it onto the stack (`0x2f636873` become `0x68732f63` which correspond to _hs/c_)
 
-	* Instead of directly pushing the last value (`0x74652f2f` which correspond to _te//_) onto the stack I chose to use the mov  instruction to move the value using the esp  register. Please note that while the push instruction adjust the stack pointer automatically, if we use the mov  instruction we need to manual adjust the stack pointer using sub esp,4
+  * Instead of directly pushing the last value (`0x74652f2f` which correspond to _te//_) onto the stack I chose to use the mov  instruction to move the value using the esp  register. Please note that while the push instruction adjust the stack pointer automatically, if we use the mov  instruction we need to manual adjust the stack pointer using sub esp,4
 
 * * *
 
@@ -274,5 +273,6 @@ All the sources can be found in my [Github page](https://github.com/polslinux/S
 
 
 This blog post has been created for completing the requirements of the SecurityTube Linux Assembly Expert certification: [http://securitytube-training.com/online-courses/securitytube-linux-assembly-expert/](http://securitytube-training.com/online-courses/securitytube-linux-assembly-expert/)
+
 
 **Student ID: SLAE-526**
