@@ -12,7 +12,7 @@ Ecco a voi la roadmap di **Gnome 2.26**!
 
 
 
-**Le caratteristiche principali** le avevo elencate su [QUESTO POST](http://polslinux.wordpress.com/2008/09/18/gnome-226-prime-indiscrezioni/) di qualche tempo fa!
+**Le caratteristiche principali** le avevo elencate su [QUESTO POST](https://github.com/paolostivanin2008/09/18/gnome-226-prime-indiscrezioni/) di qualche tempo fa!
 
 
 

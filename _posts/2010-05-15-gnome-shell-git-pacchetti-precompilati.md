@@ -11,4 +11,4 @@ categories:
 ARTICOLO SPOSTATO IN UNA PAGINA APPOSITA:
 
 
-**[CLICCA QUI](http://polslinux.wordpress.com/gnome-shell-git-full/)**
+**[CLICCA QUI](https://github.com/paolostivaningnome-shell-git-full/)**

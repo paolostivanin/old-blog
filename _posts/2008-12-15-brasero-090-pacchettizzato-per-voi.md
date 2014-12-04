@@ -15,4 +15,4 @@ Vi rimando al post (clicca sul link) per il download e lo screen!
 Enjoy :D
 
 
-# [BRASERO-0.9.0](http://polslinux.wordpress.com/2008/10/27/brasero-090-compilato-e-pacchettizzato-per-voi/)
+# [BRASERO-0.9.0](https://github.com/paolostivanin2008/10/27/brasero-090-compilato-e-pacchettizzato-per-voi/)

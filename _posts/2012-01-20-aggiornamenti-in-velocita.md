@@ -25,6 +25,6 @@ Una breve sintesi di tutti gli aggiornamenti di eventi accaduti/che accadranno:
   * I progetti: Ftp DB Sync e Secure Dropbox sono stati abbandonati (non ritenevo necessario il loro ulteriore sviluppo)
 
 	
-  * Bash Password Manager è sotto sviluppo, la versione 2.0 porterà [MOLTE](https://github.com/polslinux/BashPWDManager/blob/master/docs/changelog) novità :D
+  * Bash Password Manager è sotto sviluppo, la versione 2.0 porterà [MOLTE](https://github.com/paolostivanin/BashPWDManager/blob/master/docs/changelog) novità :D
 
 

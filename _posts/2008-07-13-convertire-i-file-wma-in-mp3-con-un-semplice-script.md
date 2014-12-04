@@ -27,7 +27,7 @@ Beh, Nautilus ci viene in aiuto e, con dei piccoli e semplice passi, avremo uno 
   * Scarichiamo questo file testo:
 
 
-[convert-wma-to-mp3](http://polslinux.wordpress.com/2008/07/13/convertire-i-file-wma-in-mp3-con-un-semplice-script/convert-wma-to-mp3/)
+[convert-wma-to-mp3](https://github.com/paolostivanin2008/07/13/convertire-i-file-wma-in-mp3-con-un-semplice-script/convert-wma-to-mp3/)
 
 
 

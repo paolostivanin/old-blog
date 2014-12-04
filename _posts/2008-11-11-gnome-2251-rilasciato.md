@@ -255,7 +255,7 @@ Il resto o non è stato aggiornato o erano spiegazione per lo più tecniche che 
 
 
 
-Vedremo nella prossima guida come compilare Gnome, ma non con Garnome stavolta! (mi è basta [l'ultima volta](http://polslinux.wordpress.com/2008/06/15/compilazione-gnome-unstable/) **LOL **ahuahuahu :D )
+Vedremo nella prossima guida come compilare Gnome, ma non con Garnome stavolta! (mi è basta [l'ultima volta](https://github.com/paolostivanin2008/06/15/compilazione-gnome-unstable/) **LOL **ahuahuahu :D )
 
 
 

@@ -23,7 +23,7 @@ I chose to use C and libgcrypt for this task.
 Here is the source code for the encryption and decryption:
 
 	//Description:	Assignment #7 (PoC of Crypter using AES-256)
-	//Author:		Paolo Stivanin <https://github.com/polslinux>
+	//Author:		Paolo Stivanin <https://github.com/paolostivanin>
 	//SLAE ID:		526
 
 	#include <stdio.h>
@@ -98,7 +98,7 @@ gcc PoC_Crypter.c -o crypter -lgcrypt -fno-stack-protector -z execstack
 
 This is all for this assignment and also for the SLAE certification. It was very interesting and funny to dive into the art of shellcoding and reversing, I enjoyed a lot this course, thanks SecurityTube :-)
 
-All the sources can be found in my [Github page](https://github.com/polslinux/SLAE/).
+All the sources can be found in my [Github page](https://github.com/paolostivanin/SLAE/).
 
 
 This blog post has been created for completing the requirements of the SecurityTube Linux Assembly Expert certification: [http://securitytube-training.com/online-courses/securitytube-linux-assembly-expert/](http://securitytube-training.com/online-courses/securitytube-linux-assembly-expert/)

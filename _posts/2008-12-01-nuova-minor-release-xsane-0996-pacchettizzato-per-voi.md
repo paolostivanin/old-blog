@@ -45,4 +45,4 @@ Garantisco perfetto funzionamento (IMHO) su Hardy e Intrepid i386, **sulla X64 s
 
 
 
-Ne approfitto per segnalare l'aggiornamento di **GPARTED** alla versione **0.4.1**. **[CLICCA QUI](http://polslinux.wordpress.com/2008/10/20/gparted-039-pacchettizzato-per-voi/)!**
+Ne approfitto per segnalare l'aggiornamento di **GPARTED** alla versione **0.4.1**. **[CLICCA QUI](https://github.com/paolostivanin2008/10/20/gparted-039-pacchettizzato-per-voi/)!**

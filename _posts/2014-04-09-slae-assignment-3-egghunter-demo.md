@@ -36,7 +36,7 @@ This is the complete shellcode:
 
 	;Description:	Assignment #3 (EggHunter, 34 bytes)
 	;Shellcode:		\xd9\xee\x9b\xd9\x74\x24\xf4\x58\x40\x31\xdb\xb1\x02\x81\x3c\x18\xaa\xbb\xcc\xdd\x75\xf2\x83\xc3\x04\xfe\xc9\x75\xf0\x8d\x40\x08\xff\xe0
-	;Author: 		Paolo Stivanin <https://github.com/polslinux>
+	;Author: 		Paolo Stivanin <https://github.com/paolostivanin>
 	;SLAE ID:		526
 
 	global _start
@@ -73,7 +73,7 @@ The following is the graph of the egghunter shellcode flow:
 This is the C source file:
 
 	/* Description:	EggHunter(execve(/bin/sh))
-	* Author:	Paolo Stivanin <https://github.com/polslinux>
+	* Author:	Paolo Stivanin <https://github.com/paolostivanin>
 	* SLAE ID:	526
 	*/
 
@@ -100,7 +100,7 @@ and the following is the result of the above snippet:
 
 [![assign3]({{ site.baseurl }}/images/2014/04/assign3-1024x552.png)]({{ site.baseurl }}/images/2014/04/assign3.png)
 
-All the sources can be found in my [Github page](https://github.com/polslinux/SLAE/).
+All the sources can be found in my [Github page](https://github.com/paolostivanin/SLAE/).
 
 
 This blog post has been created for completing the requirements of the SecurityTube Linux Assembly Expert certification: [http://securitytube-training.com/online-courses/securitytube-linux-assembly-expert/](http://securitytube-training.com/online-courses/securitytube-linux-assembly-expert/)

@@ -10,7 +10,7 @@ tags:
 - bash-pwd-manager
 ---
 
-Come si può notare dal [changelog su Github](https://github.com/polslinux/BashPWDManager/blob/master/docs/changelog), la versione 2.0 di_** Bash PWD Manager**_ porterà un bel po' di novità.
+Come si può notare dal [changelog su Github](https://github.com/paolostivanin/BashPWDManager/blob/master/docs/changelog), la versione 2.0 di_** Bash PWD Manager**_ porterà un bel po' di novità.
 
 Si va da una maggiore sicurezza ad una grafica completamente rivista e rinnovata rispetto la versione 1.X :)
 

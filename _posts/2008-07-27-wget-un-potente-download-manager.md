@@ -43,11 +43,11 @@ wget -O nome_file
 
 **Scaricare l'index del sito:**
 
-wget http://polslinux.wordpress.com/
+wget https://github.com/paolostivanin
 
 ** Scaricare l'index completo con immagini:**
 
-wget -r http://polslinux.wordpress.com/
+wget -r https://github.com/paolostivanin
 
 ** Le altre opzioni importanti del comando sono:**
 
@@ -55,23 +55,23 @@ wget -r http://polslinux.wordpress.com/
 
 **Per salvare i dati nella directorty "MIA" specificata dal comando -p:**
 
-wget -p ~/MIA http://polslinux.wordpress.com/
+wget -p ~/MIA https://github.com/paolostivanin
 
 **Scaricare solo alcuni file:**
 
 -A (seguito dalle estensioni dei file separate da virgole) scarica solo i file di estensione specificata dopo -A.
 
-wget -r -A gif,jpg http://polslinux.wordpress.com/
+wget -r -A gif,jpg https://github.com/paolostivanin
 scarica dal sito specificato solo i file di estensione gif e jpg.
 
 **Escludere alcuni file:**
 
 -R (seguito dalle estensioni dei file separate da virgole) non scarica i file di estensione specificata dopo -R. Volendo dopo -R si può specificare il nome di una directory racchiusa tra due *.
 
-wget -r -R gif,jpg http://polslinux.wordpress.com/
+wget -r -R gif,jpg https://github.com/paolostivanin
 scarica l’index ed i relativi link escludendo i file di estensione gif e jpg.
 
-wget -r -R “*foto*” http://polslinux.wordpress.com/
+wget -r -R “*foto*” https://github.com/paolostivanin
 scarica l’index ed i relativi link escludendo la directory “foto”.
 
 **Altri comandi:**
@@ -92,7 +92,7 @@ scarica l’index ed i relativi link escludendo la directory “foto”.
 
 -nd non crea directory.
 
-wget -r -l 1 -Q5m -D http://polslinux.wordpress.com/
+wget -r -l 1 -Q5m -D https://github.com/paolostivanin
 Scarica solo 5 Mb di file dall’indirizzo specificato.
 
 Ecco, spero che questa piccola ma (ri-spero) esauriente guida vi sia d'aiuto e ricordate, WGET è un bellissimo, comodissimo e potentissimo strumento, adatto ad ogni necessità!

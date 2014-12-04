@@ -13,7 +13,7 @@ tags:
 
 Proseguono (seppur lenti) gli sviluppi su Bash PWD Manager v2.
 
-Nel ramo [experimental](https://github.com/polslinux/BashPWDManager/tags) è appena arrivata la nuova interfaccia relativa alla scelta delle azioni ;)
+Nel ramo [experimental](https://github.com/paolostivanin/BashPWDManager/tags) è appena arrivata la nuova interfaccia relativa alla scelta delle azioni ;)
 
 [caption id="attachment_1833" align="aligncenter" width="241" caption="Startup GUI Bash PWD Manager"][![]({{ site.baseurl }}/images/2012/02/schermata81.png)]({{ site.baseurl }}/images/2012/02/schermata81.png)[/caption]
 

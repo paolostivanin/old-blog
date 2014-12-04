@@ -27,7 +27,7 @@ Durante l'installazione ho notato subito alcune _"chicche" _che sono state aggiu
   * Se la password è sotto gli 8 caratteri ti avverte che è meglio se la cambi;
 
 	
-  * [Possibilità di cifrare la nostra home](http://polslinux.wordpress.com/2009/02/02/road-to-ubuntu-jaunty-jackalope-904/)
+  * [Possibilità di cifrare la nostra home](https://github.com/paolostivanin2009/02/02/road-to-ubuntu-jaunty-jackalope-904/)
 
 
 Dopo queste aggiunte, passiamo al sistema vero e proprio!

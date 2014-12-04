@@ -11,7 +11,7 @@ categories:
 Come avrete notato (e se non lo avete notato ve lo faccio notare io _LOL_) ho aperto una nuova sezione che si chiama
 
 
-# [RICHIESTA PACCHETTI](http://polslinux.wordpress.com/richiesta-pacchetti/)
+# [RICHIESTA PACCHETTI](https://github.com/paolostivaninrichiesta-pacchetti/)
 
 
 
