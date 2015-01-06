@@ -13,7 +13,7 @@ tags: [arduino,arduide,patch]
 
 The current [git](https://gitorious.org/arduide) version (11/01/2014) doesn't correctly recognize the 1.0.6 SDK.
 
-If you need to execute Arduide against the 1.0.6 SDK, you need to patch the sources using [this patch](attachments/arduide-add-sdk106.patch).
+If you need to execute Arduide against the 1.0.6 SDK, you need to patch the sources using [this patch]({{ site.baseurl }}/attachments/arduide-add-sdk106.patch).
 
 The following is the code of the abovementioned patch:
 
