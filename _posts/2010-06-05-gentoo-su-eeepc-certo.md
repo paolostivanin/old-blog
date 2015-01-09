@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-06-05 12:59:23+00:00
-layout: blog
+layout: post
 title: Gentoo su eeepc? Certo!
 categories:
 - Gentoo

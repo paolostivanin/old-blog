@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-10-28 18:52:55+00:00
-layout: blog
+layout: post
 title: Alacarte 0.11.7 pacchettizzato per voi!
 categories:
 - Ubuntu

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-04-13 12:22:07+00:00
-layout: blog
+layout: post
 title: Pensieri sparsi...
 categories:
 - Generale

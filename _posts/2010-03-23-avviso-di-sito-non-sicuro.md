@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-03-23 16:04:10+00:00
-layout: blog
+layout: post
 title: Avviso di sito non sicuro.
 categories:
 - ArchLinux

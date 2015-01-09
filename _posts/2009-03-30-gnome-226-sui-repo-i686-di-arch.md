@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-03-30 07:30:32+00:00
-layout: blog
+layout: post
 title: Gnome 2.26 sui repo i686 di Arch!
 categories:
 - ArchLinux

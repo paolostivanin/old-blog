@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-04-13 08:42:01+00:00
-layout: blog
+layout: post
 title: Google Currents + Facebook
 categories:
 - Generale

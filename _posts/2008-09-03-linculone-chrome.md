@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-03 18:27:41+00:00
-layout: blog
+layout: post
 title: L'INCULONE CHROME!
 categories:
 - Generale

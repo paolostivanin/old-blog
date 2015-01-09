@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-05-08 15:54:17+00:00
-layout: blog
+layout: post
 title: 'Ubuntu 10.10: REPOSITORY APERTI!'
 categories:
 - Generale

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-02-26 08:45:08+00:00
-layout: blog
+layout: post
 title: Gnome mezzo inglese? Ecco la soluzione!
 categories:
 - ArchLinux

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-10-29 14:26:32+00:00
-layout: blog
+layout: post
 title: Samsung SCX-4623F su Debian
 categories:
 - Debian &amp; Co

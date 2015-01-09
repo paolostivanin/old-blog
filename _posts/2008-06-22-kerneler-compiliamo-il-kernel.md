@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-22 16:29:43+00:00
-layout: blog
+layout: post
 title: Kerneler! Compiliamo il kernel!
 categories:
 - Unix

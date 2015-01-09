@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-11-10 15:37:45+00:00
-layout: blog
+layout: post
 title: Foresight 2.0.4 provata per voi!
 categories:
 - Unix

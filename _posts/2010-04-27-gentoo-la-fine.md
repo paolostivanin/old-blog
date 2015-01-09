@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-04-27 18:45:14+00:00
-layout: blog
+layout: post
 title: Gentoo, la fine :)
 categories:
 - Generale

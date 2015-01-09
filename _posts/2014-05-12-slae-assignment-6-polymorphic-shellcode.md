@@ -1,11 +1,9 @@
 ---
 comments: true
 date: 2014-05-12
-layout: blog
+layout: post
 title: 'SLAE Assignment 6: Polymorphic Shellcode'
 summary: '6th assignment of the SLAE'
-category: blog
-image: /images/header_images/slaelogo.png
 tags: [asm-x86,nasm,slae]
 ---
 

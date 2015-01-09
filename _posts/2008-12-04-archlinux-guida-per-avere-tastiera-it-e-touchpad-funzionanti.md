@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-12-04 10:30:15+00:00
-layout: blog
+layout: post
 title: ArchLinux, guida per avere tastiera IT e touchpad funzionanti!
 categories:
 - ArchLinux

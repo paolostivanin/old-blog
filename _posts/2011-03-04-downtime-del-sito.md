@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-03-04 10:44:01+00:00
-layout: blog
+layout: post
 title: Downtime del sito!
 categories:
 - Generale

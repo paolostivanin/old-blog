@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-12-16 13:53:08+00:00
-layout: blog
+layout: post
 title: Pol diventa packager!
 categories:
 - Ubuntu

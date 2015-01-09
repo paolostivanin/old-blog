@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-03-04 15:15:22+00:00
-layout: blog
+layout: post
 title: Release schedule Ubuntu 9.10!
 categories:
 - Ubuntu

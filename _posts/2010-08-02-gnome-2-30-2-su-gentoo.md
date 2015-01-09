@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-08-02 12:50:42+00:00
-layout: blog
+layout: post
 title: Gnome 2.30.2 su Gentoo!
 categories:
 - Gentoo

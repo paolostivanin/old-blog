@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-04-27 22:10:03+00:00
-layout: blog
+layout: post
 title: Alternative a Dropbox? Forse...
 categories:
 - Generale

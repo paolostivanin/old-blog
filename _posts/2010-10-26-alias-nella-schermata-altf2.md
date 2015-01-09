@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-10-26 20:51:30+00:00
-layout: blog
+layout: post
 title: Alias nella schermata Alt+F2!
 categories:
 - ArchLinux

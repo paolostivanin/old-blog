@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-16 15:43:52+00:00
-layout: blog
+layout: post
 title: Trick & News!
 categories:
 - Unix

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-01 10:48:49+00:00
-layout: blog
+layout: post
 title: Aggiornamenti Ubuntu 8.10
 categories:
 - Ubuntu

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-10-13 13:12:20+00:00
-layout: blog
+layout: post
 title: '[How-to] Installare Libreoffice in italiano!'
 categories:
 - Debian &amp; Co

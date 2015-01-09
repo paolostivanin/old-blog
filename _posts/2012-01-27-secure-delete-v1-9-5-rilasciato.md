@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-01-27 10:54:48+00:00
-layout: blog
+layout: post
 title: Secure Delete v1.9.5 rilasciato!
 categories:
 - Projects

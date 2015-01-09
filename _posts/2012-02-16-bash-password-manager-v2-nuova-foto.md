@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-02-16 20:37:48+00:00
-layout: blog
+layout: post
 title: Bash Password Manager v2, nuova foto!
 categories:
 - Projects

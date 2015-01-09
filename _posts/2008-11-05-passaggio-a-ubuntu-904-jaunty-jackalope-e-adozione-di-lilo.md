@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-11-05 10:38:19+00:00
-layout: blog
+layout: post
 title: Passaggio a Ubuntu 9.04 - Jaunty Jackalope! (e adozione di LILO)
 categories:
 - Ubuntu

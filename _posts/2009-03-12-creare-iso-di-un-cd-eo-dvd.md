@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-03-12 19:59:49+00:00
-layout: blog
+layout: post
 title: Creare ISO di un CD e/o DVD!
 categories:
 - ArchLinux

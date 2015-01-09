@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-28 13:03:48+00:00
-layout: blog
+layout: post
 title: Rilasciato Pacman 3.2.1-1
 categories:
 - ArchLinux

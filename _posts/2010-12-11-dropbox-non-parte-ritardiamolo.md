@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-12-11 13:33:05+00:00
-layout: blog
+layout: post
 title: Dropbox non parte? Ritardiamolo!
 categories:
 - ArchLinux

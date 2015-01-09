@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-10-15 09:30:07+00:00
-layout: blog
+layout: post
 title: Aggiornamenti dei progetti!
 categories:
 - Generale

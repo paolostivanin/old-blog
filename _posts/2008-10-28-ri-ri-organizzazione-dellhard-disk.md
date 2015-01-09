@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-10-28 19:19:57+00:00
-layout: blog
+layout: post
 title: Ri-ri-organizzazione dell'hard disk!
 categories:
 - Ubuntu

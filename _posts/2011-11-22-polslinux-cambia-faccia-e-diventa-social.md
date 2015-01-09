@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-11-22 18:37:05+00:00
-layout: blog
+layout: post
 title: Polslinux cambia faccia e diventa social :)
 categories:
 - Generale

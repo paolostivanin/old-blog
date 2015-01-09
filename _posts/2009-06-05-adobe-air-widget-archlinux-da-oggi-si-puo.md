@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-06-05 18:29:00+00:00
-layout: blog
+layout: post
 title: Adobe-air, Widget & Archlinux, DA OGGI SI PUÒ!
 categories:
 - ArchLinux

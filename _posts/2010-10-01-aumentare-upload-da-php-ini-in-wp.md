@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-10-01 14:25:25+00:00
-layout: blog
+layout: post
 title: Aumentare upload da php.ini in WP!
 categories:
 - Generale

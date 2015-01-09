@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-11-01 20:59:22+00:00
-layout: blog
+layout: post
 title: KeepassX 2.0-alpha3 rilasciato!
 categories:
 - Generale

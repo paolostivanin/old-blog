@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-11 11:18:00+00:00
-layout: blog
+layout: post
 title: Road-to Ubuntu 8.10!
 categories:
 - Ubuntu

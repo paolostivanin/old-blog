@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-12-25 22:15:33+00:00
-layout: blog
+layout: post
 title: Buon Natale!
 categories:
 - Generale

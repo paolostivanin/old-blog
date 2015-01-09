@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-09-08 13:40:51+00:00
-layout: blog
+layout: post
 title: F-Spot & Bluez compilati per voi!
 categories:
 - ArchLinux

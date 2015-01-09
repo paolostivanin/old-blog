@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-03-09 13:49:55+00:00
-layout: blog
+layout: post
 title: Considerazioni Ubuntu-Fedora-Opensuse
 categories:
 - Generale

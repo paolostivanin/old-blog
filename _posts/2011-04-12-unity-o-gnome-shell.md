@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-04-12 22:32:22+00:00
-layout: blog
+layout: post
 title: Unity o Gnome Shell?
 categories:
 - ArchLinux

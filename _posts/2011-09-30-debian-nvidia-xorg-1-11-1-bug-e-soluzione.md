@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-09-30 21:58:48+00:00
-layout: blog
+layout: post
 title: 'Debian + Nvidia + Xorg 1.11.1: bug e soluzione.'
 categories:
 - Debian &amp; Co

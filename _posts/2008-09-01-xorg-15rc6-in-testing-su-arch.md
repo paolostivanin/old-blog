@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-01 08:13:33+00:00
-layout: blog
+layout: post
 title: Xorg 1.5rc6, in testing su Arch!
 categories:
 - ArchLinux

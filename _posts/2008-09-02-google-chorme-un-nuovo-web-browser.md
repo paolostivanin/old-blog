@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-02 11:17:27+00:00
-layout: blog
+layout: post
 title: Google Chrome, un nuovo web-browser!
 categories:
 - Generale

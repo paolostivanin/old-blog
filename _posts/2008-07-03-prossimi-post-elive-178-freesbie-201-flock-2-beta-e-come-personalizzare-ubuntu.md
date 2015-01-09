@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-03 10:00:47+00:00
-layout: blog
+layout: post
 title: 'Prossimi post: Elive 1.7.8, Freesbie 2.0.1, PC-BSD 1.5.1, Flock 2 beta e Come
   personalizzare Ubuntu!'
 categories:

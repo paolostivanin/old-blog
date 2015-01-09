@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-10-29 13:53:38+00:00
-layout: blog
+layout: post
 title: System Cleaner? Naa! Meglio uno script!
 categories:
 - Ubuntu

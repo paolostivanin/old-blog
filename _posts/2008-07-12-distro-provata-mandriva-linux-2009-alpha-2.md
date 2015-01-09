@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-12 08:00:30+00:00
-layout: blog
+layout: post
 title: 'Distro provata: Mandriva Linux 2009 alpha 2!'
 categories:
 - Unix

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-05-01 10:21:06+00:00
-layout: blog
+layout: post
 title: Programmazione in GTK+!
 categories:
 - Unix

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-07
-layout: blog
+layout: post
 title: Installare Ubuntu, breve guida!
 categories:
 - Ubuntu

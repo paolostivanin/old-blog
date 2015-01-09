@@ -1,11 +1,9 @@
 ---
 comments: true
 date: 2014-04-04
-layout: blog
+layout: post
 title: 'SLAE Assignment 2: Reverse Bind TCP Shellcode'
 summary: '2nd assignment of the SLAE'
-category: blog
-image: /images/header_images/slaelogo.png
 tags: [asm-x86,nasm,slae]
 ---
 

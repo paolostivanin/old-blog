@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-02-17 11:20:48+00:00
-layout: blog
+layout: post
 title: CMus, player audio...molto minimale!
 categories:
 - ArchLinux

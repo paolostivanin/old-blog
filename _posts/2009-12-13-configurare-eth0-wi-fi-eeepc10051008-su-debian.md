@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-12-13 11:07:53+00:00
-layout: blog
+layout: post
 title: Configurare Eth0 + Wi-fi Eeepc1005/1008 su Debian!
 categories:
 - Ubuntu

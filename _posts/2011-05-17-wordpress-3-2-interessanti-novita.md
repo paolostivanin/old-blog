@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-05-17 08:46:32+00:00
-layout: blog
+layout: post
 title: Wordpress 3.2, interessanti novità!
 categories:
 - Generale

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-15 16:16:18+00:00
-layout: blog
+layout: post
 title: Compilazione Gnome Unstable
 categories:
 - Ubuntu

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-13 11:49:11+00:00
-layout: blog
+layout: post
 title: Ubuntu 8.10...continua il cammino!
 categories:
 - Ubuntu

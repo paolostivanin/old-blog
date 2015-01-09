@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-13 13:00:36+00:00
-layout: blog
+layout: post
 title: Convertire i file WMA in MP3 con un semplice script
 categories:
 - Generale

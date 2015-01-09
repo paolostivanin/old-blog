@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-29 16:25:47+00:00
-layout: blog
+layout: post
 title: Flash Player 10 beta & IcedTea (java)
 categories:
 - Ubuntu

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-08 16:27:03+00:00
-layout: blog
+layout: post
 title: Gnome Translation Project!
 categories:
 - Generale

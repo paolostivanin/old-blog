@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-10-27 14:34:51+00:00
-layout: blog
+layout: post
 title: Brasero 0.9.0 (DEB) compilato e pacchettizzato per voi!
 categories:
 - Ubuntu

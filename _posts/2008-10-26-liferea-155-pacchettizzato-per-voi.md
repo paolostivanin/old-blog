@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-10-26 15:20:58+00:00
-layout: blog
+layout: post
 title: Liferea 1.5.5 pacchettizzato per voi!
 categories:
 - Ubuntu

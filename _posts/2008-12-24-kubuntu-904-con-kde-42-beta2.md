@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-12-24 14:11:59+00:00
-layout: blog
+layout: post
 title: Kubuntu 9.04 con KDE 4.2 beta2!
 categories:
 - Ubuntu

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-07-10 09:01:12+00:00
-layout: blog
+layout: post
 title: Grandezza variabili in C, 32 vs 64 bit
 categories:
 - programming

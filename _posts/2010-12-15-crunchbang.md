@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-12-15 14:05:19+00:00
-layout: blog
+layout: post
 title: '#!CrunchBang'
 categories:
 - Ubuntu

@@ -1,11 +1,9 @@
 ---
 comments: true
 date: 2014-04-10
-layout: blog
-category: blog
+layout: post
 title: 'SLAE Assignment 4: Custom Enc. Schema'
 summary: '4th assignment of the SLAE'
-image: /images/header_images/slaelogo.png
 tags: [asm-x86,nasm,slae]
 ---
 

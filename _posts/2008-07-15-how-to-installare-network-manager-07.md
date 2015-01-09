@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-15 10:17:25+00:00
-layout: blog
+layout: post
 title: '[How-to] Installare Network-Manager 0.7!'
 categories:
 - Ubuntu

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-19 09:38:27+00:00
-layout: blog
+layout: post
 title: Ritorno e planning dei post!
 categories:
 - Generale

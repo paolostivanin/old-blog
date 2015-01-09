@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-02-28 16:17:15+00:00
-layout: blog
+layout: post
 title: Addio DjNeophyte!
 categories:
 - ArchLinux

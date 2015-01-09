@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-10-20 08:45:56+00:00
-layout: blog
+layout: post
 title: Gnu Nano 2.1.6 pacchettizzato per voi!
 categories:
 - Ubuntu

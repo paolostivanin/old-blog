@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-29 12:10:27+00:00
-layout: blog
+layout: post
 title: Zippare file e/o archivi con password!
 categories:
 - Generale

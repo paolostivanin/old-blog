@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-05-29 10:34:35+00:00
-layout: blog
+layout: post
 title: Secure Dropbx è stato rilasciato :)
 categories:
 - Debian &amp; Co

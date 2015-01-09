@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-22 16:46:37+00:00
-layout: blog
+layout: post
 title: Intrepid Ibex, partiamo bene!
 categories:
 - Ubuntu

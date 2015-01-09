@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-12-03 20:32:19+00:00
-layout: blog
+layout: post
 title: Aggiornare driver Nvidia alla versione 180.22!
 categories:
 - ArchLinux

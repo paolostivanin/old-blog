@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-12-17 13:28:39+00:00
-layout: blog
+layout: post
 title: Aperta nuova sezione!
 categories:
 - Ubuntu

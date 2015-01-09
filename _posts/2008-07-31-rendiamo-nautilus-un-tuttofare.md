@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-31 11:25:01+00:00
-layout: blog
+layout: post
 title: Rendiamo Nautilus un tuttofare!
 categories:
 - Unix

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-29 11:18:15+00:00
-layout: blog
+layout: post
 title: Passo indietro per Intrepid!
 categories:
 - Ubuntu

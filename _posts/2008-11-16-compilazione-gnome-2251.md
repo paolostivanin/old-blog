@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-11-16 13:15:51+00:00
-layout: blog
+layout: post
 title: Compilazione Gnome 2.25.1
 categories:
 - ArchLinux

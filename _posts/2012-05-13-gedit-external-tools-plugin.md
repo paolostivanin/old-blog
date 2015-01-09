@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-05-13 10:24:55+00:00
-layout: blog
+layout: post
 title: GEdit External Tools Plugin
 categories:
 - ArchLinux

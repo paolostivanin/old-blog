@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-09-23 19:16:30+00:00
-layout: blog
+layout: post
 title: Nuova sezione, nuovo mini sito!
 categories:
 - Unix

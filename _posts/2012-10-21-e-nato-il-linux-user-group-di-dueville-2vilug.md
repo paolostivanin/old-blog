@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-10-21 19:16:16+00:00
-layout: blog
+layout: post
 title: È nato il Linux User Group di Dueville (2viLUG)!
 categories:
 - Generale

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-10-05 17:38:39+00:00
-layout: blog
+layout: post
 title: Da ext2 a ext3 senza formattare!
 categories:
 - Debian &amp; Co

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-26 08:29:51+00:00
-layout: blog
+layout: post
 title: 'Intrepid Ibex Alpha 3: alcune news!'
 categories:
 - Ubuntu

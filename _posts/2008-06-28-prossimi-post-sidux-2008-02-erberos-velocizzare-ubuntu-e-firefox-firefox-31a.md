@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-28 11:54:23+00:00
-layout: blog
+layout: post
 title: 'Prossimi post: Sidux 2008-02 Erberos & Velocizzare Ubuntu e Firefox & Firefox
   3.1a & Installare E17 & Flash player 10 e Java amd64!'
 categories:

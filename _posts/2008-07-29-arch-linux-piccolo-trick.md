@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-29 16:42:51+00:00
-layout: blog
+layout: post
 title: Arch Linux, piccolo trick!
 categories:
 - Unix

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-06 15:37:57+00:00
-layout: blog
+layout: post
 title: Exaile 0.3-dev! Completamente riscritto!
 categories:
 - Ubuntu

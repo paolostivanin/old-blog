@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-12-01 20:09:48+00:00
-layout: blog
+layout: post
 title: Linux-next, il nuovo kernel Linux, compiliamolo!
 categories:
 - ArchLinux

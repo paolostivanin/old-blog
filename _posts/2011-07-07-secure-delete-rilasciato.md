@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-07-07 08:23:12+00:00
-layout: blog
+layout: post
 title: Secure Delete rilasciato!
 categories:
 - Projects

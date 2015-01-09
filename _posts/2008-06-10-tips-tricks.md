@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-10 17:42:33+00:00
-layout: blog
+layout: post
 title: Tips & Tricks
 categories:
 - Ubuntu

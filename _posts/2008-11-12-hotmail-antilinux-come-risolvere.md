@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-11-12 13:58:50+00:00
-layout: blog
+layout: post
 title: Hotmail antiLinux, come risolvere!
 categories:
 - ArchLinux

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-12-13 17:24:51+00:00
-layout: blog
+layout: post
 title: 'Libreoffice + Unity: il fix è qui!'
 categories:
 - Ubuntu

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-10-14 12:08:11+00:00
-layout: blog
+layout: post
 title: Nuova riorganizzazione Hard Disk!
 categories:
 - Generale

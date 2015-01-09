@@ -1,11 +1,9 @@
 ---
 comments: true
 date: 2015-01-06
-layout: blog
-category: blog
+layout: post
 title: 'Arduide and SDK v1.0.6'
 summary: 'This patch allows Arduide to correctly recognize the Arduino SDK v1.0.6'
-image: /images/header_images/ardu.jpg
 tags: [arduino,arduide,patch]
 ---
 

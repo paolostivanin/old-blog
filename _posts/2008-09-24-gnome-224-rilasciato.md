@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-24 19:39:02+00:00
-layout: blog
+layout: post
 title: GNOME 2.24 RILASCIATO!!
 categories:
 - ArchLinux

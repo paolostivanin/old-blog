@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-23 15:28:19+00:00
-layout: blog
+layout: post
 title: ArchLinux, alcune dritte!
 categories:
 - ArchLinux

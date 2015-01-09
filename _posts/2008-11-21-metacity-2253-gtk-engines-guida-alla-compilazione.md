@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-11-21 09:30:37+00:00
-layout: blog
+layout: post
 title: Rinnoviamo la grafica di Gnome da svn!
 categories:
 - ArchLinux

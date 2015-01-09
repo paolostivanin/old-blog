@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-22 14:25:03+00:00
-layout: blog
+layout: post
 title: Kernel 2.6.27-rc4, novità su USB!
 categories:
 - Unix

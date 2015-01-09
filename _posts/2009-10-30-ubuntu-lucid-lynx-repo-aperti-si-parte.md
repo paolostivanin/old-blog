@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-10-30 20:50:50+00:00
-layout: blog
+layout: post
 title: Ubuntu Lucid Lynx, repo aperti, SI PARTE!
 categories:
 - Ubuntu

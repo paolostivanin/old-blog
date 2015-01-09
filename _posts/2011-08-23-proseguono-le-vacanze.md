@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-08-23 15:38:07+00:00
-layout: blog
+layout: post
 title: Proseguono le vacanze...
 categories:
 - Generale

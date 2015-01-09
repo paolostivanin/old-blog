@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-29 09:08:22+00:00
-layout: blog
+layout: post
 title: Arch come Gentoo, compiliamo!
 categories:
 - ArchLinux

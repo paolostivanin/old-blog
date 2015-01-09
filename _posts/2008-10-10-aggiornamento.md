@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-10-10 21:25:25+00:00
-layout: blog
+layout: post
 title: Aggiornamento!
 categories:
 - Generale

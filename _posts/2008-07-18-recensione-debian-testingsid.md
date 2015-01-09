@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-18 13:52:13+00:00
-layout: blog
+layout: post
 title: '[Recensione] Debian testing/Sid'
 categories:
 - Unix

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-07-23 08:46:56+00:00
-layout: blog
+layout: post
 title: Secure Delete, nuovi aggiornamenti!
 categories:
 - Debian &amp; Co

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-12-24 23:55:54+00:00
-layout: blog
+layout: post
 title: BUON NATALE!!!
 categories:
 - Generale

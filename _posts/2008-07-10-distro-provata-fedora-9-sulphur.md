@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-10 11:59:25+00:00
-layout: blog
+layout: post
 title: 'Distro provata: Fedora 9 Sulphur'
 categories:
 - Unix

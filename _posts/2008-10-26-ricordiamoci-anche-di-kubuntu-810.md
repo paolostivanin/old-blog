@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-10-26 15:39:54+00:00
-layout: blog
+layout: post
 title: Ricordiamoci anche di Kubuntu 8.10!
 categories:
 - Ubuntu

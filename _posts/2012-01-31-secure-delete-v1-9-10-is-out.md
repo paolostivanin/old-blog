@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-01-31 13:44:24+00:00
-layout: blog
+layout: post
 title: Secure Delete v1.9.10 is out
 categories:
 - Projects

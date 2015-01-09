@@ -1,9 +1,8 @@
 ---
 comments: true
 date: 2013-02-12 15:44:56+00:00
-layout: blog
+layout: post
 title: Chiave pubblica PGP
-category: blog
 tags: [pgp, pubkey]
 ---
 

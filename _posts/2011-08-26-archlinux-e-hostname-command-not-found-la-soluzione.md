@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-08-26 11:45:44+00:00
-layout: blog
+layout: post
 title: Archlinux e hostname command not found, la soluzione!
 categories:
 - ArchLinux

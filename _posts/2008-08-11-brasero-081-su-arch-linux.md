@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-11 14:15:17+00:00
-layout: blog
+layout: post
 title: Brasero 0.8.1 su Arch Linux
 categories:
 - Unix

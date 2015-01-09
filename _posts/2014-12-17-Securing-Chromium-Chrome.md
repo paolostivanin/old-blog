@@ -1,11 +1,9 @@
 ---
 comments: true
 date: 2014-12-17
-layout: blog
-category: blog
+layout: post
 title: 'Securing Chromium/Chrome'
 summary: 'Disable SSLv3 and blacklist RC4 from Chromium/Chrome'
-image: /images/header_images/chro.jpg
 tags: [browser,linux,chromium,chrome]
 ---
 

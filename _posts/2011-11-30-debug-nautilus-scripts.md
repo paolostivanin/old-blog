@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-11-30 11:12:49+00:00
-layout: blog
+layout: post
 title: Debug Nautilus Scripts
 categories:
 - ArchLinux

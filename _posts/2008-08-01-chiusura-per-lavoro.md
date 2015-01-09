@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-01 16:38:14+00:00
-layout: blog
+layout: post
 title: Chiusura per "lavoro"!
 categories:
 - Generale

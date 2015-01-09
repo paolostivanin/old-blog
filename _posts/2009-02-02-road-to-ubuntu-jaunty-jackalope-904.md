@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-02-02 19:46:10+00:00
-layout: blog
+layout: post
 title: 'Road to: Ubuntu Jaunty Jackalope 9.04'
 categories:
 - Ubuntu

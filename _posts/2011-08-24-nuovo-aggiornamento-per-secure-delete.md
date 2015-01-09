@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-08-24 10:52:20+00:00
-layout: blog
+layout: post
 title: Nuovo aggiornamento per Secure Delete!
 categories:
 - ArchLinux

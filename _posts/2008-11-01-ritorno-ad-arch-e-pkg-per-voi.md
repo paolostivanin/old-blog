@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-11-01 13:10:09+00:00
-layout: blog
+layout: post
 title: Ritorno ad Arch e PKG per voi!
 categories:
 - ArchLinux

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-09-20 12:38:26+00:00
-layout: blog
+layout: post
 title: Polslinux su Wordpress!
 categories:
 - Generale

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-07-20 12:53:12+00:00
-layout: blog
+layout: post
 title: 'Errore durante la compilazione: GCC Vs Clang'
 categories:
 - programming

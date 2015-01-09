@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-04-26 16:41:23+00:00
-layout: blog
+layout: post
 title: Gentoo, punto della situazione!
 categories:
 - Generale

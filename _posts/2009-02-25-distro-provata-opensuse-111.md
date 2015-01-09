@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-02-25 12:27:30+00:00
-layout: blog
+layout: post
 title: 'Distro provata: OPENSUSE 11.1'
 categories:
 - Unix

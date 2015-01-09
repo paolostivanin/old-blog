@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-10-26 09:43:21+00:00
-layout: blog
+layout: post
 title: '[how-to] Get the bluetooth adapter 0489:E027 working on GNU/Linux'
 categories:
 - ArchLinux

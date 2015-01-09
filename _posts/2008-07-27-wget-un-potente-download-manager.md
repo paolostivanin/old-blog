@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-27 11:00:00+00:00
-layout: blog
+layout: post
 title: Wget, un potente download manager!
 categories:
 - Unix

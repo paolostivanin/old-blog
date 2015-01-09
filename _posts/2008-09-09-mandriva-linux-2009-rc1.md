@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-09 06:00:19+00:00
-layout: blog
+layout: post
 title: Mandriva Linux 2009 rc1!
 categories:
 - Unix

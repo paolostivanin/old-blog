@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-01-18 22:57:26+00:00
-layout: blog
+layout: post
 title: Installare Drupal in localhost!
 categories:
 - Generale

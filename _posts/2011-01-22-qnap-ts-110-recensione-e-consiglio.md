@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-01-22 13:43:49+00:00
-layout: blog
+layout: post
 title: Qnap TS-110, recensione e consiglio!
 categories:
 - Generale

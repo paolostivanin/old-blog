@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-02-09 14:14:39+00:00
-layout: blog
+layout: post
 title: Modalità esame!
 categories:
 - Generale

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-11-04 17:45:20+00:00
-layout: blog
+layout: post
 title: Roadmap Gnome 2.26!
 categories:
 - Unix

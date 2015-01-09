@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-03-16 09:38:12+00:00
-layout: blog
+layout: post
 title: '[Dominio cambiato] Prova feed!'
 categories:
 - Unix

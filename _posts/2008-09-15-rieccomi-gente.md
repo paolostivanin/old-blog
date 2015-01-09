@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-15 21:08:50+00:00
-layout: blog
+layout: post
 title: Rieccomi gente!
 categories:
 - Generale

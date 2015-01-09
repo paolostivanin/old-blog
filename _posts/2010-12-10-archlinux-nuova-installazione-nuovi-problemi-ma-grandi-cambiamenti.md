@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-12-10 15:30:34+00:00
-layout: blog
+layout: post
 title: 'Archlinux: nuova installazione, nuovi problemi ma grandi cambiamenti!'
 categories:
 - ArchLinux

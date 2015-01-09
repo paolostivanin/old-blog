@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-09-08 08:53:55+00:00
-layout: blog
+layout: post
 title: Backup files con tar!
 categories:
 - ArchLinux

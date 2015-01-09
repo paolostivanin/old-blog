@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-14 14:39:48+00:00
-layout: blog
+layout: post
 title: Kernel 2.6.26 rilasciato!
 categories:
 - Unix

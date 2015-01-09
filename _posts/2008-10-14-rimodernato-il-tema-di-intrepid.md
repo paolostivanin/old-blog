@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-10-14 17:57:07+00:00
-layout: blog
+layout: post
 title: Rimodernato il tema di Intrepid!
 categories:
 - Ubuntu

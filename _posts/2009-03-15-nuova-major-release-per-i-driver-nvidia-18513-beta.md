@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-03-15 13:18:35+00:00
-layout: blog
+layout: post
 title: 'Nuova major release per i driver Nvidia: 185.13 beta!'
 categories:
 - ArchLinux

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-04 09:00:50+00:00
-layout: blog
+layout: post
 title: 'Distro provata: ELIVE 1.7.8 (unstable)'
 categories:
 - Unix

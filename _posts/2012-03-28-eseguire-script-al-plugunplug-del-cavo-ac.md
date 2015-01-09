@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-03-28 20:21:48+00:00
-layout: blog
+layout: post
 title: Eseguire script al plug/unplug del cavo AC
 categories:
 - ArchLinux

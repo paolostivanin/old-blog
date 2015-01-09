@@ -1,11 +1,9 @@
 ---
 comments: true
 date: 2014-12-02
-layout: blog
-category: blog
+layout: post
 title: 'VPN Unlimited on Arch Linux'
 summary: 'How to install and use VPN Unlimited on Arch Linux'
-image: /images/header_images/mul_logo.png
 tags: [archlinux]
 ---
 

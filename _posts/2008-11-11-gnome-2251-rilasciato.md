@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-11-11 17:24:10+00:00
-layout: blog
+layout: post
 title: Gnome 2.25.1 RILASCIATO!
 categories:
 - Ubuntu

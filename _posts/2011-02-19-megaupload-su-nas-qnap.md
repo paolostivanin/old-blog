@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-02-19 11:36:48+00:00
-layout: blog
+layout: post
 title: Megaupload su NAS Qnap!
 categories:
 - NAS Qnap

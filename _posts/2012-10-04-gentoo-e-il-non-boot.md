@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-10-04 20:05:08+00:00
-layout: blog
+layout: post
 title: Gentoo e il non boot
 categories:
 - Gentoo

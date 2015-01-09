@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-10 16:49:29+00:00
-layout: blog
+layout: post
 title: Info generiche!
 categories:
 - Generale

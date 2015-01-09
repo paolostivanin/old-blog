@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-04-26 13:11:44+00:00
-layout: blog
+layout: post
 title: 'REPOSITORY APERTI: passare a Ubuntu 9.10 KARMIC KOALA!'
 categories:
 - Ubuntu

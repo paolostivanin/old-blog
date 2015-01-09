@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-31 12:17:05+00:00
-layout: blog
+layout: post
 title: BackerUpper, faccimo backup dei nostri dati!
 categories:
 - Unix

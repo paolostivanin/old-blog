@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-05-20 12:04:09+00:00
-layout: blog
+layout: post
 title: Guida configurazione di PyLoad!
 categories:
 - Debian &amp; Co

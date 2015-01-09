@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-10-18 09:56:15+00:00
-layout: blog
+layout: post
 title: 'Dropbox: GLIBCXX_3.4.11 not found'
 categories:
 - ArchLinux

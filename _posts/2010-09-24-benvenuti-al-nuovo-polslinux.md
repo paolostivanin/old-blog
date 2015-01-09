@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-09-24 09:29:07+00:00
-layout: blog
+layout: post
 title: Benvenuti al nuovo Polslinux!
 categories:
 - Generale

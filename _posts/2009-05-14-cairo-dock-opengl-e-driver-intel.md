@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-05-14 18:30:47+00:00
-layout: blog
+layout: post
 title: Cairo dock, OpenGL e driver Intel!
 categories:
 - ArchLinux

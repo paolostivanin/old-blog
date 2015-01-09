@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-11-04 13:11:01+00:00
-layout: blog
+layout: post
 title: Ubuntu 9.04 release Schedule!
 categories:
 - Ubuntu

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-04-07 17:01:30+00:00
-layout: blog
+layout: post
 title: Epiphany 2.27.2, webkit & news!
 categories:
 - ArchLinux

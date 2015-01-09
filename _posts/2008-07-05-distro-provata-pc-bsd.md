@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-05 09:01:29+00:00
-layout: blog
+layout: post
 title: 'Distro provata: PC-BSD'
 categories:
 - Unix

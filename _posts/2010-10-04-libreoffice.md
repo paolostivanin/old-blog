@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-10-04 16:00:39+00:00
-layout: blog
+layout: post
 title: LibreOffice sarà il futuro?
 categories:
 - Generale

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-05-18 16:00:19+00:00
-layout: blog
+layout: post
 title: Distro GNU/Linux, piccoli difetti grandi incazzature!
 categories:
 - Debian &amp; Co

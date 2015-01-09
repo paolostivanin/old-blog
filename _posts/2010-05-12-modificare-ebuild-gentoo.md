@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-05-12 20:32:37+00:00
-layout: blog
+layout: post
 title: Modificare ebuild Gentoo...
 categories:
 - Gentoo

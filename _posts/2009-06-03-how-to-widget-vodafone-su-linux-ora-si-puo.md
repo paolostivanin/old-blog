@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-06-03 18:21:09+00:00
-layout: blog
+layout: post
 title: '[How-to] Widget Vodafone su Linux, ORA SI PUÒ!'
 categories:
 - ArchLinux

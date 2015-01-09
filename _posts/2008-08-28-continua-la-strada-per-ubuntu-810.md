@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-28 16:48:37+00:00
-layout: blog
+layout: post
 title: Seguendo Ubuntu 8.10!
 categories:
 - Ubuntu

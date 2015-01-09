@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-08-10 16:51:04+00:00
-layout: blog
+layout: post
 title: Repository di polslinux, è nato! :)
 categories:
 - Ubuntu

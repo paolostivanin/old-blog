@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-06-22 18:56:00+00:00
-layout: blog
+layout: post
 title: Gnome 3, Archlinux e il tasto stamp!
 categories:
 - ArchLinux

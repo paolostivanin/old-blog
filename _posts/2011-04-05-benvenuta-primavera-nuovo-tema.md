@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-04-05 18:23:45+00:00
-layout: blog
+layout: post
 title: '[Benvenuta primavera] Nuovo tema!'
 categories:
 - Generale

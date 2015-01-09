@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-11 11:29:30+00:00
-layout: blog
+layout: post
 title: 'Distro provata: Sabayon Linux X86_64'
 categories:
 - Unix

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-04 18:30:30+00:00
-layout: blog
+layout: post
 title: Flock 2 beta, il social browser!
 categories:
 - Generale

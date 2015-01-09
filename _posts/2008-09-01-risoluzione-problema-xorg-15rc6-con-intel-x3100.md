@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-01 17:45:28+00:00
-layout: blog
+layout: post
 title: Risoluzione problema Xorg 1.5rc6 con Intel X3100
 categories:
 - ArchLinux

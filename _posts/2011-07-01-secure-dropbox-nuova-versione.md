@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-07-01 14:57:02+00:00
-layout: blog
+layout: post
 title: Secure Dropbox, nuova versione!
 categories:
 - Projects

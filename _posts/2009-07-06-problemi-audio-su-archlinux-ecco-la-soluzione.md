@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-07-06 14:28:34+00:00
-layout: blog
+layout: post
 title: Problemi audio su Archlinux? Ecco la soluzione!
 categories:
 - ArchLinux

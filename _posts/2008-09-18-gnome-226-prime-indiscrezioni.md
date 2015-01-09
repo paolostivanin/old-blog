@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-18 15:44:00+00:00
-layout: blog
+layout: post
 title: Gnome 2.26, prime indiscrezioni!
 categories:
 - Unix

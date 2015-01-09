@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-05-15 15:04:17+00:00
-layout: blog
+layout: post
 title: Gnome-shell-git...pacchetti precompilati!
 categories:
 - ArchLinux

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-02-25 16:53:31+00:00
-layout: blog
+layout: post
 title: Chromium-browser-svn compilato per voi!
 categories:
 - ArchLinux

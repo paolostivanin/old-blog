@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-13 08:30:11+00:00
-layout: blog
+layout: post
 title: Soundconverter, convertiamo i nostri file musicali!
 categories:
 - Generale

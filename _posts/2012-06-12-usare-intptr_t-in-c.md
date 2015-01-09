@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-06-12 13:07:49+00:00
-layout: blog
+layout: post
 title: Usare intptr_t in C
 categories:
 - Generale

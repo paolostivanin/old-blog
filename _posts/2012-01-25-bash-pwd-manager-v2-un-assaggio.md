@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-01-25 15:10:17+00:00
-layout: blog
+layout: post
 title: Bash PWD Manager v2, un assaggio!
 categories:
 - Projects

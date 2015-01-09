@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-11-03 14:37:07+00:00
-layout: blog
+layout: post
 title: PKG per Arch!
 categories:
 - ArchLinux

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-04-18 18:11:39+00:00
-layout: blog
+layout: post
 title: Annotazioni sui PDF? Certo!
 categories:
 - Debian &amp; Co

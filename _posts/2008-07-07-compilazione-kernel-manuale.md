@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-07 17:23:10+00:00
-layout: blog
+layout: post
 title: Compilazione kernel manuale
 categories:
 - Unix

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-07-06 21:08:20+00:00
-layout: blog
+layout: post
 title: Gentoo e l'aggiornamento di libpng!
 categories:
 - Gentoo

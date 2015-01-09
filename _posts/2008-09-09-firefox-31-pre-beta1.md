@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-09 09:30:10+00:00
-layout: blog
+layout: post
 title: Firefox 3.1 pre-beta1
 categories:
 - Unix

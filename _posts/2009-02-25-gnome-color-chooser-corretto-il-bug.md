@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-02-25 20:06:15+00:00
-layout: blog
+layout: post
 title: Gnome-color-chooser, corretto il bug!
 categories:
 - ArchLinux

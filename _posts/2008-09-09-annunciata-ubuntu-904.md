@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-09 11:30:31+00:00
-layout: blog
+layout: post
 title: Annunciata Ubuntu 9.04!
 categories:
 - Ubuntu

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-01-23 14:57:05+00:00
-layout: blog
+layout: post
 title: Diffondete il messaggio!
 categories:
 - ArchLinux

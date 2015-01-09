@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-23 18:43:18+00:00
-layout: blog
+layout: post
 title: ZenWalk 5.2, distro provata!
 categories:
 - Unix

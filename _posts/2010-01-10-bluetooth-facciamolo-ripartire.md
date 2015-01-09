@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-01-10 21:45:22+00:00
-layout: blog
+layout: post
 title: Bluetooth, facciamolo ripartire!
 categories:
 - ArchLinux

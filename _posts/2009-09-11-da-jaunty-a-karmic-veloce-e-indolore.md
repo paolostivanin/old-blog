@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-09-11 14:08:26+00:00
-layout: blog
+layout: post
 title: Da Jaunty a Karmic, veloce e indolore!
 categories:
 - Ubuntu

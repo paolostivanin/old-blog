@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-10-02 16:05:52+00:00
-layout: blog
+layout: post
 title: 'Ubuntu + Sony vaio: risolviamo alcuni problemi!'
 categories:
 - Debian &amp; Co

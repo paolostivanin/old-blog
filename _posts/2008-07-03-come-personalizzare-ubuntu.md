@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-03 12:13:39+00:00
-layout: blog
+layout: post
 title: Come personalizzare Ubuntu!
 categories:
 - Ubuntu

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-30 13:40:47+00:00
-layout: blog
+layout: post
 title: Road-to Ubuntu 8.10, prossimi alla beta!
 categories:
 - Ubuntu

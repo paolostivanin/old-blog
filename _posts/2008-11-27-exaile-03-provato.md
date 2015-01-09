@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-11-27 19:15:53+00:00
-layout: blog
+layout: post
 title: Exaile 0.3 provato!
 categories:
 - ArchLinux

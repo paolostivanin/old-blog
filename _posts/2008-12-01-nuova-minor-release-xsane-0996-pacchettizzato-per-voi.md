@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-12-01 13:52:21+00:00
-layout: blog
+layout: post
 title: '[Nuova minor-release] XSane 0.996 pacchettizzato per voi!'
 categories:
 - Ubuntu

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-10-20 22:00:49+00:00
-layout: blog
+layout: post
 title: '[Aggiornato] Manutenzione...'
 categories:
 - Generale

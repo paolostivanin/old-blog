@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-12-25 22:21:58+00:00
-layout: blog
+layout: post
 title: '[Vacanze] Al prossimo anno!'
 categories:
 - Generale

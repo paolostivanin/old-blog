@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-31 08:28:44+00:00
-layout: blog
+layout: post
 title: Firefox 3.1 alpha 1!
 categories:
 - Generale

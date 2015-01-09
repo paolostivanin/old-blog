@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-08 22:30:12+00:00
-layout: blog
+layout: post
 title: Post-installazione Ubuntu 9.10!
 categories:
 - Ubuntu

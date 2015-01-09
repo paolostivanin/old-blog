@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-11 09:47:42+00:00
-layout: blog
+layout: post
 title: 'SUPER NOTIZIONE: GNOME 3!'
 categories:
 - Unix

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-29 08:30:16+00:00
-layout: blog
+layout: post
 title: ArchLinux e Gnome 2.24.0
 categories:
 - ArchLinux

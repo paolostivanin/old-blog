@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-03-13 08:00:22+00:00
-layout: blog
+layout: post
 title: Cambio dominio + nuova tag!
 categories:
 - Generale

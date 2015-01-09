@@ -1,9 +1,8 @@
 ---
 comments: true
 date: 2014-01-19
-layout: blog
+layout: post
 title: 'Data Structure in C: the Stack [part 2]'
-category: blog
 tags: [c, stack]
 ---
 

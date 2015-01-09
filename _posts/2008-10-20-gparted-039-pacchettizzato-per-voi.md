@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-10-20 17:50:59+00:00
-layout: blog
+layout: post
 title: Gparted 0.4.1 pacchettizzato per voi!
 categories:
 - Ubuntu

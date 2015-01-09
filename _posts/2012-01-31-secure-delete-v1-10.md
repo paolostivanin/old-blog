@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-01-31 20:13:09+00:00
-layout: blog
+layout: post
 title: Secure Delete v1.10 :)
 categories:
 - Projects

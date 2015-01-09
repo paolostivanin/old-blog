@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-06 16:35:48+00:00
-layout: blog
+layout: post
 title: 'Prossimi post: Comandi utili shell bash, Compilare il kernel manualmente,
   Fedora 9, Sabayon 3.5, Arch Linux 2008.06!'
 categories:

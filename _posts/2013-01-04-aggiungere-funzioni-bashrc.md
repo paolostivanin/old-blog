@@ -1,9 +1,8 @@
 ---
 comments: true
 date: 2013-01-04 13:00:43+00:00
-layout: blog
+layout: post
 title: Aggiungere funzioni al file .bashrc
-category: blog
 tags: [shell, bash]
 ---
 

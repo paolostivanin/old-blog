@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-15 12:26:26+00:00
-layout: blog
+layout: post
 title: Firefox 3.1 e Firefox 4!
 categories:
 - Generale

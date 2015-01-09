@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-12-24 23:27:13+00:00
-layout: blog
+layout: post
 title: Buon Natale :)
 categories:
 - Generale

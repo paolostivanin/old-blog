@@ -1,9 +1,8 @@
 ---
 comments: true
 date: 2013-01-17 07:55:08+00:00
-layout: blog
+layout: post
 title: '[libreitalia.it] Font e Interoperabilità'
-category: blog
 tags: [other]
 ---
 

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-03-22 10:28:31+00:00
-layout: blog
+layout: post
 title: Gnome 2.26.0 rilasciato!
 categories:
 - ArchLinux

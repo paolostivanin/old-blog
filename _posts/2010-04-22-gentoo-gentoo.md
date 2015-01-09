@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-04-22 13:48:52+00:00
-layout: blog
+layout: post
 title: Gentoo? Gentoo!
 categories:
 - Generale

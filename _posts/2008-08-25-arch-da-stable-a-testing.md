@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-25 08:13:34+00:00
-layout: blog
+layout: post
 title: Arch, da stable a testing!
 categories:
 - ArchLinux

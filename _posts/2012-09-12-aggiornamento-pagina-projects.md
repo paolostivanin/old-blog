@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-09-12 14:00:59+00:00
-layout: blog
+layout: post
 title: Aggiornamento pagina Projects
 categories:
 - Generale

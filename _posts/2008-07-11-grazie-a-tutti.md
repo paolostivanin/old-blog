@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-11 21:55:15+00:00
-layout: blog
+layout: post
 title: Grazie a tutti!
 categories:
 - Generale

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-11 11:05:26+00:00
-layout: blog
+layout: post
 title: Kubuntu 8.10 con KDE 4
 categories:
 - Ubuntu

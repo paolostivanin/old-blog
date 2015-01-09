@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-05-26 10:54:20+00:00
-layout: blog
+layout: post
 title: KeePassX 2.0 alpha1
 categories:
 - ArchLinux

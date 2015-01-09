@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-05-28 19:09:52+00:00
-layout: blog
+layout: post
 title: Facciamoci una risata! :-)
 categories:
 - Generale

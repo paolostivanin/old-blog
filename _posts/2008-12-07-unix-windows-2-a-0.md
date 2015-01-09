@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-12-07 18:55:47+00:00
-layout: blog
+layout: post
 title: Unix - Windows, 2 a 0!
 categories:
 - Generale

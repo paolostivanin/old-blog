@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-01-20 16:14:07+00:00
-layout: blog
+layout: post
 title: Aggiornamenti in velocità...
 categories:
 - Generale

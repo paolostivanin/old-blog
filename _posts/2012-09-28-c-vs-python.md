@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-09-28 17:47:24+00:00
-layout: blog
+layout: post
 title: C vs Python
 categories:
 - Generale

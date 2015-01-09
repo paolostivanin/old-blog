@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-26 16:14:37+00:00
-layout: blog
+layout: post
 title: 'Distro provate: Nexenta 2 alpha 1, OpenSolaris 2008.05 e Vlos 2008.6 alpha
   1!'
 categories:

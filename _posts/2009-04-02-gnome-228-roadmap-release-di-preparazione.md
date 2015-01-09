@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-04-02 13:55:16+00:00
-layout: blog
+layout: post
 title: Gnome 2.28 roadmap! (release di preparazione)
 categories:
 - ArchLinux

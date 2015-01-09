@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-25 18:00:40+00:00
-layout: blog
+layout: post
 title: 'Distro provata: OPENSOLARIS 2008.11 (svn)'
 categories:
 - Unix

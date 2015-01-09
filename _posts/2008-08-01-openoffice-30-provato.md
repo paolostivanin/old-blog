@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-01 10:48:29+00:00
-layout: blog
+layout: post
 title: 'OpenOffice 3.0: provato!'
 categories:
 - Generale

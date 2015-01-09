@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-02-20 08:15:50+00:00
-layout: blog
+layout: post
 title: Facebook non si tiene più tuoi dati!
 categories:
 - Generale

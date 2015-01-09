@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-04-02 20:25:24+00:00
-layout: blog
+layout: post
 title: Archlinux, gnome-power-manager-2.26.0 per voi!
 categories:
 - ArchLinux

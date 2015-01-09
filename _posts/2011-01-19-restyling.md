@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-01-19 11:01:17+00:00
-layout: blog
+layout: post
 title: Restyling!
 categories:
 - Generale

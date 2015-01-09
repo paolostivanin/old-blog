@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-02-18 14:08:12+00:00
-layout: blog
+layout: post
 title: Bluetooth e tasti FN su Eeepc 1005/1008HA...finalmente!
 categories:
 - ArchLinux

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-12-09 17:27:27+00:00
-layout: blog
+layout: post
 title: Transmission 1.41b3 pacchettizzato per voi!
 categories:
 - Ubuntu

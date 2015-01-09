@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-08-26 12:44:12+00:00
-layout: blog
+layout: post
 title: L'estate sta finendo...
 categories:
 - Generale

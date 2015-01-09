@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-07-11 09:46:16+00:00
-layout: blog
+layout: post
 title: 'Distro provata: Arch Linux 2008.06 per i686!'
 categories:
 - Unix

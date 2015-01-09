@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-03-02 18:23:17+00:00
-layout: blog
+layout: post
 title: Aggiornamenti personali!
 categories:
 - Generale

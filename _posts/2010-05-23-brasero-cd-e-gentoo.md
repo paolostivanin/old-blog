@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-05-23 13:03:05+00:00
-layout: blog
+layout: post
 title: Brasero, cd e Gentoo!
 categories:
 - Gentoo

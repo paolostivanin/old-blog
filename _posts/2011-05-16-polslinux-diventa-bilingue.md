@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-05-16 11:56:13+00:00
-layout: blog
+layout: post
 title: Polslinux diventa bilingue!
 categories:
 - Generale

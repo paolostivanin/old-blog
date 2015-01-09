@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-05-17 18:20:24+00:00
-layout: blog
+layout: post
 title: Alternative a JDownloader? Ci sono!
 categories:
 - ArchLinux

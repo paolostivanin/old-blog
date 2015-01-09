@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2010-05-28 18:00:05+00:00
-layout: blog
+layout: post
 title: Mantenere sincronizzate due cartelle con Rsync!
 categories:
 - ArchLinux

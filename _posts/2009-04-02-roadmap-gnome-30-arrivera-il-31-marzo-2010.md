@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-04-02 14:10:59+00:00
-layout: blog
+layout: post
 title: '[Roadmap] Gnome 3.0 arriverà il 31 marzo 2010!'
 categories:
 - ArchLinux

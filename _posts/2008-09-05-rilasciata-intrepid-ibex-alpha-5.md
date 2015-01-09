@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-05 23:27:31+00:00
-layout: blog
+layout: post
 title: Rilasciata Intrepid Ibex alpha 5!
 categories:
 - Ubuntu

@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-12-15 21:40:14+00:00
-layout: blog
+layout: post
 title: Brasero 0.9.0 pacchettizzato per voi!
 categories:
 - Ubuntu

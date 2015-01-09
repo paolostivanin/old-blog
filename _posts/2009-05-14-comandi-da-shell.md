@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-05-14 21:46:42+00:00
-layout: blog
+layout: post
 title: Shell's cmd [1]!
 categories:
 - Debian &amp; Co

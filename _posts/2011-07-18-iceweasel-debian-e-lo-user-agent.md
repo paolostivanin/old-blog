@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2011-07-18 07:30:43+00:00
-layout: blog
+layout: post
 title: Iceweasel, Debian e lo user agent!
 categories:
 - Debian &amp; Co

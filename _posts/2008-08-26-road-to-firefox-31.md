@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-26 08:00:34+00:00
-layout: blog
+layout: post
 title: Road to Firefox 3.1!
 categories:
 - Unix

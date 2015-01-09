@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-25 17:24:38+00:00
-layout: blog
+layout: post
 title: Pidgin 2.5.0 e messaggi personali!
 categories:
 - Unix

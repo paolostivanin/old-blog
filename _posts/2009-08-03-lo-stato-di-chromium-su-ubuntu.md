@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-08-03 10:27:41+00:00
-layout: blog
+layout: post
 title: Lo stato di Chromium su Ubuntu.
 categories:
 - Ubuntu

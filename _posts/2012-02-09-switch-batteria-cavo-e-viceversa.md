@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2012-02-09 10:42:03+00:00
-layout: blog
+layout: post
 title: Switch batteria -> cavo e viceversa!
 categories:
 - ArchLinux

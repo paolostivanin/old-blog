@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-28 10:01:38+00:00
-layout: blog
+layout: post
 title: ArchLinux Firefox menù!
 categories:
 - ArchLinux

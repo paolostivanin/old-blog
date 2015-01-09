@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-08-27 16:13:45+00:00
-layout: blog
+layout: post
 title: Gscrot & Gnome-scan aggiornati per voi!
 categories:
 - ArchLinux

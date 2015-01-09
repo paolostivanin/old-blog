@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-09-12 10:06:44+00:00
-layout: blog
+layout: post
 title: 'Distro release: ELIVE 1.8.8'
 categories:
 - Unix
