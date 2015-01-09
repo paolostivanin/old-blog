@@ -3,7 +3,6 @@ layout: post
 title: 'Data Structure in C: the Stack [part 1]'
 date: 2014-01-16
 comments: true
-tags: [c, stack]
 ---
 
 La pila (_stack in inglese_) è un esempio di [struttura dati dinamica](http://it.wikipedia.org/wiki/Struttura_dati#Strutture_dati_dinamiche) (_da qui in poi SDD_) che utilizza il metodo LIFO (Last In First Out) per l'inserimento (push) e la rimozione (pop) dei dati.

@@ -3,8 +3,7 @@ comments: true
 date: 2014-05-08
 layout: post
 title: 'SLAE Assignment 5: Shellcode Analysis'
-summary: '5th assignment of the SLAE'
-tags: [asm-x86,nasm,slae]
+subtitle: '5th assignment of the SLAE'
 ---
 
 This is the fifth of the seven assignment necessary to accomplish the [SecurityTube Linux Assembly Expert](http://www.securitytube-training.com/online-courses/securitytube-linux-assembly-expert/index.html) certification. The instructions for this assignment are:

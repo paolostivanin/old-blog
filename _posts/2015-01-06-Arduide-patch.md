@@ -3,8 +3,7 @@ comments: true
 date: 2015-01-06
 layout: post
 title: 'Arduide and SDK v1.0.6'
-summary: 'This patch allows Arduide to correctly recognize the Arduino SDK v1.0.6'
-tags: [arduino,arduide,patch]
+subtitle: 'This patch allows Arduide to correctly recognize the Arduino SDK v1.0.6'
 ---
 
 [Arduide](http://mupuf.org/project/arduide.html) is a Qt-based IDE for the open-source Arduino electronics prototyping platform.

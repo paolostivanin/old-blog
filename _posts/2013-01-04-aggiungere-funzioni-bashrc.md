@@ -3,7 +3,6 @@ comments: true
 date: 2013-01-04 13:00:43+00:00
 layout: post
 title: Aggiungere funzioni al file .bashrc
-tags: [shell, bash]
 ---
 
 Per compilare i programmi che necessitano delle librerie GTK+ versione 3 e maggiori è necessario passare a GCC il parametro `pkg-config --cflags --libs gtk+-3.0` che si occupa di trovare ed elencare le librerie necessarie.

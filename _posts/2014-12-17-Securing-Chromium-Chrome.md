@@ -3,8 +3,7 @@ comments: true
 date: 2014-12-17
 layout: post
 title: 'Securing Chromium/Chrome'
-summary: 'Disable SSLv3 and blacklist RC4 from Chromium/Chrome'
-tags: [browser,linux,chromium,chrome]
+subtitle: 'Disable SSLv3 and blacklist RC4 from Chromium/Chrome'
 ---
 
 Both Chromium and Chrome *(up to version 39.0.2171.95)* have two security issues.

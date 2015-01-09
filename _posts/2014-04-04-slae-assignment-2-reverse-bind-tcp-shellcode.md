@@ -3,8 +3,7 @@ comments: true
 date: 2014-04-04
 layout: post
 title: 'SLAE Assignment 2: Reverse Bind TCP Shellcode'
-summary: '2nd assignment of the SLAE'
-tags: [asm-x86,nasm,slae]
+subtitle: '2nd assignment of the SLAE'
 ---
 
 This is the second of the seven assignment necessary to accomplish the [SecurityTube Linux Assembly Expert](http://www.securitytube-training.com/online-courses/securitytube-linux-assembly-expert/index.html) certification. The instructions for this assignment are:

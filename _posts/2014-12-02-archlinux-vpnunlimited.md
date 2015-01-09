@@ -3,8 +3,7 @@ comments: true
 date: 2014-12-02
 layout: post
 title: 'VPN Unlimited on Arch Linux'
-summary: 'How to install and use VPN Unlimited on Arch Linux'
-tags: [archlinux]
+subtitle: 'How to install and use VPN Unlimited on Arch Linux'
 ---
 
 I bought for just 19 bucks 3 years of the [VPN Unlimited](https://www.vpnunlimitedapp.com/) service.

@@ -3,8 +3,7 @@ comments: true
 date: 2014-05-12
 layout: post
 title: 'SLAE Assignment 7: Custom Crypter'
-summary: 'This is the last assignment for the SLAE'
-tags: [asm-x86,nasm,slae]
+subtitle: 'This is the last assignment for the SLAE'
 ---
 
 This is the last assignment necessary to accomplish the [SecurityTube Linux Assembly Expert](http://www.securitytube-training.com/online-courses/securitytube-linux-assembly-expert/index.html) certification. The instructions for this assignment are:
