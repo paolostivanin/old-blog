@@ -20,7 +20,7 @@ I was studying when, at 11:57am, I received an e-mail from a CERN recruiter. I o
 
 **OH MY GOD.**
 
-I've been accepted for the Technical Student Committee held by the CERN. It will last for 12 months, starting on February 2015 (maybe the 9th).
+I've been accepted for the Technical Student Committee held by the CERN. It will last for 12 months, starting on the 1st of March, 2015.
 
 **And what will I do at CERN?**<br>
 In short, I will be in team who is responsible for providing CPU resources to the experiments, specifically for the Tier-0 (see [here](http://home.web.cern.ch/about/computing/grid-system-tiers) and [here](http://home.web.cern.ch/about/computing) for more informations about the different levels of Tier). These resources are now running on their OpenStack driven internal cloud infrastructure. Moreover, I know that I will use [Puppet](http://puppetlabs.com/) and [Foreman](http://puppetlabs.com/) but, for now, I don't know much more.
