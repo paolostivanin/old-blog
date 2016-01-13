@@ -1,18 +1,113 @@
-# Site settings
-title: Polslinux's Blog
-header-img: img/home-bg.jpg
-description: "(Beta) Where there is a shell there is a way!"
+url: "https://paolostivanin.com"
 baseurl: ""
-author: "Paolo Stivanin"
-url: "http://paolostivanin.com"
-linkedin_pubname : "paolo-stivanin/74/664/b75/"
-twitter_username: polslinux
-github_username:  paolostivanin
-facebook_username:  paolo.stivanin
+title: Polslinux's Blog
+description: (Beta) Where there is a shell there is a way!
+avatar: "/img/avatar-icon.png"
 
-# Build settings
+navbar-links:
+  Home: ""
+  About Me: "aboutme"
+  Author's home: "https://paolostivanin.com"
+
+# --- Footer options --- #
+author:
+  name: Paolo
+  email: "info@paolostivanin.com"
+  facebook: paolo.stivanin
+  github: paolostivanin
+  twitter: polslinux
+  linkedin: pub/paolo-stivanin/74/664/b75/
+
+# Select which links to show in the footer
+footer-links-active:
+  rss: true
+  facebook: true
+  email: true
+  twitter: true
+  github: true
+  linkedin: true
+  stackoverflow: false
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "paolostivanin.com"
+
+# --- Misc --- #
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus: "paolostivanin"
+
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
+
+# Output options (more information on Jekyll's site)
+timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true  # add comments to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "default"
+
+# Exclude these files from production site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+# prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
