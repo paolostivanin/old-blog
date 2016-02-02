@@ -6,7 +6,7 @@ avatar: "/img/avatar-icon.png"
 
 navbar-links:
   Home: ""
-  About Me: "aboutme"
+  Contact Me: "aboutme"
 
 # --- Footer options --- #
 author:
