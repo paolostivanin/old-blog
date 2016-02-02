@@ -42,8 +42,9 @@ disqus: "paolostivanin"
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Rome"
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
+gems: [jekyll-paginate]
 paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
