@@ -6,12 +6,11 @@ avatar: "/img/avatar-icon.png"
 
 navbar-links:
   Home: ""
-  About Me: "aboutme"
+  Contact Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
-  Contact Me: "aboutme"
 
 # --- Footer options --- #
 author:
