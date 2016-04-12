@@ -2,8 +2,8 @@
 comments: true
 date: 2016-04-12
 layout: post
-title: 'Update Skylake GuC v6.1 on Ubuntu'
-subtitle: 'How to update Ubuntu to the latest Skylake GuC'
+title: 'Update Skylake GuC on Ubuntu'
+subtitle: 'How to update Ubuntu to the latest Skylake GuC firmware'
 ---
 
 As many of you already know, Skylake and other Intel CPUs now require [graphics firmware blobs](http://www.phoronix.com/scan.php?page=news_item&px=intel-skl-bxt-firmware-blobs){:target="_blank"} to properly run.<br>
