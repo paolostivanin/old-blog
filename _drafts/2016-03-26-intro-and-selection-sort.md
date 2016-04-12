@@ -1,14 +1,13 @@
 ---
 comments: true
-date: 2016-03-26
+date: 2016-04-06
 layout: post
 title: '[ADS] Brute Force approach and Selection Sort'
-subtitle: 'In this blog post it will be explained what the brute force approach is, which algorithms and data structures use it and, lastly, the algorithm called Selection Sort will be explained'
+subtitle: 'Brute Force approach and Selection Sort algorithm explained'
 ---
 
 It has been a long time since my last article but (finally!) I have found some time to write again. Some days ago I thought: "I'd like to brush up my algorithms and data structures knowledge so why not to write a post about every argument I will review"? And here I am, writing the first of a (very) long series of articles about this interesting and (super) important topic. What am I going to cover during the next weeks/months is written below. Of course, I will update the following schedule before finishing the last argument ;-)
 
-#TODO complete me with data structures
 * Brute Force:
     * Introduction + Selection Sort
     * Bubble Sort
@@ -26,13 +25,13 @@ It has been a long time since my last article but (finally!) I have found some t
 
 * [...]
 
-The blog post will be structured as following:
+The blog posts will be structured as following:
 
  - What is algorithm/data structure X?
  - How does algorithm/data structure X works?
  - Example code in C, Python, Go and (maybe) Rust.
  
-OK, enough words. Let's start with a brief introduction of what "brute force approach" means and then let's move on what the selection sort is and how it works.
+OK, enough words. Let's start with a brief introduction of what "brute force approach" means and then let's have a look on what the selection sort is and how it works.
 
 Introduction
 ============
