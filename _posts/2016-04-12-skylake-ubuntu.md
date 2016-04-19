@@ -8,7 +8,7 @@ subtitle: 'How to update Ubuntu to the latest Skylake GuC firmware'
 
 As many of you already know, Skylake and other Intel CPUs now require [graphics firmware blobs](http://www.phoronix.com/scan.php?page=news_item&px=intel-skl-bxt-firmware-blobs){:target="_blank"} to properly run.<br>
 Recently, a new major version of the GuC firmware for Skylake [came out](https://01.org/linuxgraphics/downloads/skylake-guc-6.1){:target="_blank"}. This firmware has already been included in the latest linux-firmware [git repository](http://git.kernel.org/cgit/linux/kernel/git/firmware/linux-firmware.git/commit/?id=0a0c97667d0e80c56de8fd999d17bf2b553aab8f){:target="_blank"} but, of course, not all the distros are updating this package on a regular basis.<br>Ubuntu is one of these distros, so I had to manually update both the linux-firmware and the kernel packages on my own. This was easy to achieve though :-)
-<br>Currently, I am using Ubuntu GNOME 16.04 but it _should_ work also on the other flavors.
+<br>I was using Ubuntu GNOME 16.04 but it _should_ work also on the other flavors.
 <br>**EDIT**: I am now using Arch Linux and it works fine also on it. The procedure is slightly different though (no need to create deb packages).
 
 - Download the latest Skylake GuC from [here](https://01.org/linuxgraphics/downloads/skylake-guc-6.1){:target="_blank"};
