@@ -37,7 +37,7 @@ After the new linux-firmware package has been installed, verify that the new fir
 		else if (IS_SKYLAKE(dev)) {
 			fw_path = I915_SKL_GUC_UCODE;
 			guc_fw->guc_fw_major_wanted = 6;
-			guc_fw->guc_fw_minor_wanted = 0;
+			guc_fw->guc_fw_minor_wanted = 1;
 		}
 		{% endhighlight %}
 - Edit the files `debian/changelog` and `debian.master/changelog` and increase the version number from `4.4.0-18.34` to `4.4.0-18.35`;
