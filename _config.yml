@@ -7,6 +7,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   Contact Me: "aboutme"
+nav-search: "search"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
@@ -48,7 +49,9 @@ timezone: "Europe/Rome"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-gems: [jekyll-paginate]
+gems:
+    - jekyll-paginate
+    - jekyll-seo-tag
 paginate: 5
 
 kramdown:
