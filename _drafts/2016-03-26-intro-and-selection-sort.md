@@ -2,41 +2,30 @@
 comments: true
 date: 2016-04-06
 layout: post
+tags: [ads, selection-sort, brute-force]
 title: '[ADS] Brute Force approach and Selection Sort'
 subtitle: 'Brute Force approach and Selection Sort algorithm explained'
 ---
 
-It has been a long time since my last article but (finally!) I have found some time to write again. Some days ago I thought: "I'd like to brush up my algorithms and data structures knowledge so why not to write a post about every argument I will review"? And here I am, writing the first of a (very) long series of articles about this interesting and (super) important topic. What am I going to cover during the next weeks/months is written below. Of course, I will update the following schedule before finishing the last argument ;-)
-
-* Brute Force:
-    * Introduction + Selection Sort
-    * Bubble Sort
-
-* Divide and Conquer:
-    * Introduction + Merge Sort
-    * Quick Sort
-
-* Decrease and Conquer:
-    * Introduction + Binary Search
-    * Insertion Sort
-    * DFS
-    * BFS
-    * Direct Acyclic Graph
-
-* [...]
-
-The blog posts will be structured as following:
+It has been a long time since my last article but (finally!) I have found some time to write again. Some days ago I thought: "I'd like to brush up my algorithms and data structures knowledge so why not to write a post about every argument I will review"? And here I am, writing the first of a (very) long series of articles about this interesting and (super) important topic.\\
+Time permitting, I will try to cover all the algorithms and data structures currently known. The blog post structure will be:
 
  - What is algorithm/data structure X?
  - How does algorithm/data structure X works?
- - Example code in C, Python, Go and (maybe) Rust.
+ - Example code in C, Python and Go.
  
-OK, enough words. Let's start with a brief introduction of what "brute force approach" means and then let's have a look on what the selection sort is and how it works.
+Ok, enough chit-chat. Let's start with something more interesting :-)
+
 
 Introduction
 ============
-With the brute force approach (or exhaustive search) we go through all possible solutions extensively.\\
-#TODO complete me
+A brute-force algorithm solves a problem in the most simple, direct or obvious way. As a result, such an algorithm can end up doing far more work to solve a given problem than a more clever or sophisticated algorithm might do. On the other hand, a brute-force algorithm is often easier to implement than a more sophisticated one and, because of this simplicity, sometimes it can be more efficient. Using this approach, the algorithm will go through all possible solutions extensively, one after the other, until the it finds one that is acceptable or until a pre-set maximum number of attempts is reached.\\
+Algorithms that use the aformentioned approach are:
+ - Selection Sort
+ - Bubble Sort
+ - Sequential Search
+ - Brute-Force String Matching
+
 
 Selection Sort
 ==============
@@ -59,3 +48,15 @@ Iteration 3: 2 12 (18) 32 (29)
 Iteration 4: 2 12 18 (29) (32)
                       ^-----^
 {% endhighlight %}
+
+Complexity
+-----------
+
+||           Time            || Space |
+|| :------------------------:|| :-----: |
+|  Best  | Average  |  Worst | Worst |
+| :------: | :--------: | :------: | :-----: |
+| `O(n^2)` |  `O(n^2)`  | `O(n^2)` |  `O(1)` |
+
+
+

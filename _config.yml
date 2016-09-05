@@ -47,7 +47,10 @@ disqus: "paolostivanin"
 # Output options (more information on Jekyll's site)
 timezone: "Europe/Rome"
 markdown: kramdown
-highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
 permalink: /blog/:title/
 gems:
     - jekyll-paginate
@@ -67,7 +70,7 @@ defaults:
     values:
       layout: "post"
       comments: true  # add comments to all blog posts
-      show-share: true # add sharing buttons to all blog posts
+      social-share: true # add sharing buttons to all blog posts
   -
     scope:
       path: "" # all files
@@ -75,13 +78,13 @@ defaults:
       layout: "page"
       show-avatar: true
 
+# Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
+link-tags: false
+
 # Exclude these files from production site
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
-  - Vagrantfile
 
 # Beautiful Jekyll / Dean Attali      
