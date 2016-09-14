@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Paolo Stivanin"
 resume_title:                   "Associate Developer"
 resume_contact_email:           "info@paolostivanin.com"
