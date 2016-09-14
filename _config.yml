@@ -31,6 +31,9 @@ footer-links-active:
   github: true
   linkedin: true
   stackoverflow: false
+  google-plus: false
+  snapchat: false
+  spotify: false
 
 share-links-active:
   twitter: true
