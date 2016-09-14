@@ -1,99 +1,49 @@
-url: "https://paolostivanin.com"
-baseurl: ""
-title: Polslinux's Blog
-description: (Beta) Where there is a shell there is a way!
-avatar: "/img/avatar-icon.png"
+# Site settings
+title: "My Resume"
+description: "Paolo Stivanin Resume."
 
-navbar-links:
-  Home: ""
-  Contact Me: "aboutme"
-nav-search: "search"
-#  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#    - Learn markdown: "http://www.markdowntutorial.com/"
-#    - GitHub Pages: "https://pages.github.com/"
-
-# --- Footer options --- #
-author:
-  name: Paolo
-  email: "info@paolostivanin.com"
-  facebook: paolo.stivanin
-  github: paolostivanin
-  twitter: polslinux
-  linkedin: paolo-stivanin-b7566474
-
-# Select which links to show in the footer
-footer-links-active:
-  rss: true
-  facebook: true
-  email: true
-  twitter: true
-  github: true
-  linkedin: true
-  stackoverflow: false
-  google-plus: false
-  snapchat: false
-  spotify: false
-
-share-links-active:
-  twitter: true
-  facebook: true
-  google: false                           
-  linkedin: true
-
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "paolostivanin.com"
-
-# --- Misc --- #
-
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "paolostivanin"
-
-# Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
-
-# Output options (more information on Jekyll's site)
-timezone: "Europe/Rome"
+# Build settings
 markdown: kramdown
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
-permalink: /blog/:title/
-gems:
-    - jekyll-paginate
-    - jekyll-seo-tag
-paginate: 5
-paginate_path: "/page:num/"
+sass:
+  sass_dir: _sass
+  style: compressed
 
-kramdown:
-    input: GFM
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Paolo Stivanin"
+resume_title:                   "Associate Developer"
+resume_contact_email:           "info@paolostivanin.com"
 
-# Default YAML values (more information on Jekyll's site)
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # all files
-    values:
-      layout: "page"
-      show-avatar: true
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "no"
 
-# Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
-link-tags: false
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           true
+resume_section_associations:    true
 
-# Exclude these files from production site
-exclude:
-  - LICENSE
-  - README.md
-  - CNAME
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/paolostivanin"
+  resume_twitter_url:           "http://twitter.com/polslinux"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  #resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/paolo-stivanin-b7566474"
+  #resume_instagram_url:         "insert your Instagram URL here"
+  resume_website_url:           "https://paolostivanin.com/blog"
 
-# Beautiful Jekyll / Dean Attali      
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
