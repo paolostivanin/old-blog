@@ -1,6 +1,6 @@
 # Site settings
-title: "My Resume"
-description: "Paolo Stivanin Resume."
+title: "Paolo Stivanin"
+description: "Resume"
 
 # Build settings
 markdown: kramdown
@@ -12,7 +12,8 @@ sass:
 resume_avatar:                  "false"
 resume_name:                    "Paolo Stivanin"
 resume_title:                   "Associate Developer"
-resume_contact_email:           "info@paolostivanin.com"
+resume_contact_email:
+        "info@paolostivanin.com"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
