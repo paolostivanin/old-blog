@@ -3,7 +3,6 @@ comments: true
 date: 2011-08-26 11:45:44+00:00
 layout: post
 title: Archlinux e hostname command not found, la soluzione!
-tags: [archlinux]
 ---
 
 Per chi come me ha il repository testing abilitato avrà notato che il comando `hostname` è automagicamente sparito_ (errore nell'esecuzione di startx alla linea 127)_!

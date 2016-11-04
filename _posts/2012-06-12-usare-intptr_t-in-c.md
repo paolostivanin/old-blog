@@ -3,7 +3,6 @@ comments: true
 date: 2012-06-12 13:07:49+00:00
 layout: post
 title: Usare intptr_t in C
-tags: [c, puntatori]
 ---
 
 Bisogna stare attenti quando si eseguono i cast in C perchè, a seconda dell'architettura a 32 o 64 bit, avremo un puntatore grande 4 o 8 bytes. Questo rappresenta un problema di portabilità nelle architetture a 64 bit e ora andremo a vedere il motivo.
