@@ -3,19 +3,6 @@ comments: true
 date: 2012-10-26 09:43:21+00:00
 layout: post
 title: '[how-to] Get the bluetooth adapter 0489:E027 working on GNU/Linux'
-categories:
-- ArchLinux
-- Debian &amp; Co
-- Gentoo
-- Ubuntu
-- Unix
-tags:
-- ath3k
-- atheros
-- bluetooth
-- foxconn
-- linux
-- ubuntu
 ---
 
 Dear readers,

@@ -3,11 +3,6 @@ comments: true
 date: 2012-11-01 20:59:22+00:00
 layout: post
 title: KeepassX 2.0-alpha3 rilasciato!
-categories:
-- Generale
-- Unix
-tags:
-- keepassx
 ---
 
 [Terza alpha release](http://www.keepassx.org/news/2012/10/367) per il noto gestore di password, di seguito il changelog:

@@ -3,14 +3,6 @@ comments: true
 date: 2010-10-05 17:38:39+00:00
 layout: post
 title: Da ext2 a ext3 senza formattare!
-categories:
-- Debian &amp; Co
-- Ubuntu
-- Unix
-tags:
-- ext2
-- ext3
-- formattare
 ---
 
 Circa 5 anni fa ho comprato un hard disk esterno da 250Gb che uso principalmente per **archiviazione** e **basta** (quindi quasi sempre spento).

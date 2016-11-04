@@ -3,16 +3,6 @@ comments: true
 date: 2011-04-27 22:10:03+00:00
 layout: post
 title: Alternative a Dropbox? Forse...
-categories:
-- Generale
-- Unix
-tags:
-- cloud
-- dropbox
-- sparkleshare
-- spideroak
-- sugarsync
-- wuala
 ---
 
 Leggendo in giro varie opinioni su Dropbox ho notato che molti mettono in discussione la sicurezza di questo servizio.

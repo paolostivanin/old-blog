@@ -3,13 +3,6 @@ comments: true
 date: 2012-07-20 12:53:12+00:00
 layout: post
 title: 'Errore durante la compilazione: GCC Vs Clang'
-categories:
-- programming
-- Unix
-tags:
-- c
-- clang
-- linux
 ---
 
 Una cosa molto importante per un programmatore è che il compilatore fornisca un output dettagliato e chiaro in caso di errore in modo da poter facilmente capire il perchè è successo e come risolvere il problema.

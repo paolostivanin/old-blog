@@ -3,12 +3,6 @@ comments: true
 date: 2012-02-16 20:37:48+00:00
 layout: post
 title: Bash Password Manager v2, nuova foto!
-categories:
-- Projects
-- Unix
-tags:
-- bash
-- bash-pwd-manager
 ---
 
 Proseguono (seppur lenti) gli sviluppi su Bash PWD Manager v2.

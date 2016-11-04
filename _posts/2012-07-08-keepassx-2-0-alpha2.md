@@ -3,12 +3,6 @@ comments: true
 date: 2012-07-08 17:00:56+00:00
 layout: post
 title: KeepassX 2.0-alpha2
-categories:
-- Generale
-- Unix
-tags:
-- keepassx
-- linux
 ---
 
 Ho appena finito di compilare da git Keepassx 2.0 ho controllato l'about e ho notato che la release è stata taggata come "alpha 2".

@@ -3,14 +3,6 @@ comments: true
 date: 2011-10-29 14:26:32+00:00
 layout: post
 title: Samsung SCX-4623F su Debian
-categories:
-- Debian &amp; Co
-- Ubuntu
-- Unix
-tags:
-- cups
-- samsung
-- stampante
 ---
 
 A causa della rottura della vecchia stampante oggi son dovuto andare a prenderne un'altra.

@@ -3,13 +3,6 @@ comments: true
 date: 2011-01-22 13:43:49+00:00
 layout: post
 title: Qnap TS-110, recensione e consiglio!
-categories:
-- Generale
-- NAS Qnap
-tags:
-- nas
-- qnap
-- ts-110
 ---
 
 Ecco arrivato il mio nuovo acquisto! :)

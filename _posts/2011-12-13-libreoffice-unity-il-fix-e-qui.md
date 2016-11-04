@@ -3,14 +3,6 @@ comments: true
 date: 2011-12-13 17:24:51+00:00
 layout: post
 title: 'Libreoffice + Unity: il fix è qui!'
-categories:
-- Ubuntu
-- Unix
-tags:
-- libreoffice
-- ubuntu
-- ubuntu office
-- unity
 ---
 
 Capita anche a voi che Libreoffice (writer, calc, ecc) non compaia in Unity quando è aperto? Si?

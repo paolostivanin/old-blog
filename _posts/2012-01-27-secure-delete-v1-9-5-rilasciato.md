@@ -3,11 +3,6 @@ comments: true
 date: 2012-01-27 10:54:48+00:00
 layout: post
 title: Secure Delete v1.9.5 rilasciato!
-categories:
-- Projects
-- Unix
-tags:
-- secure-delete
 ---
 
 Rilasciata la versione 1.9.5 di questo utile script che permette la cancellazione sicura dei vostri files e delle vostre directory.

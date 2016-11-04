@@ -3,13 +3,6 @@ comments: true
 date: 2011-07-18 07:30:43+00:00
 layout: post
 title: Iceweasel, Debian e lo user agent!
-categories:
-- Debian &amp; Co
-- Ubuntu
-- Unix
-tags:
-- debian
-- iceweasel
 ---
 
 L'altro giorno ho stampato i biglietti della Ryanair dopo aver fatto il check-in online e mi sono accorto che tali biglietti non stavano in 1 pagina ma bensì in 2 (veniva troncata la parte finale).

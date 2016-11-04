@@ -3,13 +3,6 @@ comments: true
 date: 2010-10-13 13:12:20+00:00
 layout: post
 title: '[How-to] Installare Libreoffice in italiano!'
-categories:
-- Debian &amp; Co
-- Ubuntu
-- Unix
-tags:
-- libreoffice
-- ubuntu office
 ---
 
 È da poco uscita la **beta 2 di Libreoffice** e, [tra le altre cose](http://cgit.freedesktop.org/libreoffice/build/tree/NEWS), porta anche la localizzazione in italiano!

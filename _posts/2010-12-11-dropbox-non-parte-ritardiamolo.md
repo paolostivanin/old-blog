@@ -3,13 +3,6 @@ comments: true
 date: 2010-12-11 13:33:05+00:00
 layout: post
 title: Dropbox non parte? Ritardiamolo!
-categories:
-- ArchLinux
-- Unix
-tags:
-- archlinux
-- dropbox
-- script
 ---
 
 Ho installato [Dropbox-experimental](https://aur.archlinux.org/packages.php?ID=29432) ma presenta un problemino: se Wicd non fa presto a connettersi Dropbox _"muore" _e non riparte più.

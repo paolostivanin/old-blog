@@ -3,15 +3,7 @@ comments: true
 date: 2010-12-11 11:13:13+00:00
 layout: post
 title: 'Minitest: driver Nouveau VS driver proprietari'
-categories:
-- ArchLinux
-- Unix
-tags:
-- archlinux
-- driver
-- glxgears
-- nouveau
-- nvidia
+tags: [archlinux, driver, nvidia]
 ---
 
 Certo Glxgears non sarà un test ed elaborato e preciso ma almeno un'indicazione di massima la fornisce.

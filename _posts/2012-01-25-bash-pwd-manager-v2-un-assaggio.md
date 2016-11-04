@@ -3,11 +3,6 @@ comments: true
 date: 2012-01-25 15:10:17+00:00
 layout: post
 title: Bash PWD Manager v2, un assaggio!
-categories:
-- Projects
-- Unix
-tags:
-- bash-pwd-manager
 ---
 
 Come si può notare dal [changelog su Github](https://github.com/paolostivanin/BashPWDManager/blob/master/docs/changelog), la versione 2.0 di_** Bash PWD Manager**_ porterà un bel po' di novità.

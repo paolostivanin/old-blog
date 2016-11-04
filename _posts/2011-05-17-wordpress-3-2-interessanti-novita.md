@@ -3,11 +3,6 @@ comments: true
 date: 2011-05-17 08:46:32+00:00
 layout: post
 title: Wordpress 3.2, interessanti novità!
-categories:
-- Generale
-- Unix
-tags:
-- wordpress
 ---
 
 Qualche giorno fa è uscita la [prima beta di wordpress 3.2](http://wordpress.org/news/2011/05/wordpress-3-2-beta-1/).

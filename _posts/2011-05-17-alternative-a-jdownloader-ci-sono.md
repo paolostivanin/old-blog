@@ -3,18 +3,6 @@ comments: true
 date: 2011-05-17 18:20:24+00:00
 layout: post
 title: Alternative a JDownloader? Ci sono!
-categories:
-- ArchLinux
-- Debian &amp; Co
-- Generale
-- Gentoo
-- Ubuntu
-- Unix
-tags:
-- jdownloader
-- plowshare
-- pyload
-- tucan
 ---
 
 Qualche giorno fa un lettore mi ha chiesto se conosco delle serie alternative a JDownloader e io gli ho risposto di si, perchè ci sono e sono **veramente** valide, tanto che mi hanno fatto dare un bel_ "purge"_ _al pachiderma Javico._

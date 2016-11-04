@@ -3,18 +3,6 @@ comments: true
 date: 2012-05-26 10:54:20+00:00
 layout: post
 title: KeePassX 2.0 alpha1
-categories:
-- ArchLinux
-- Debian &amp; Co
-- Ubuntu
-- Unix
-tags:
-- archlinux
-- debian
-- keepassx
-- linux
-- password-manager
-- ubuntu
 ---
 
 Dopo diverso tempo _(2 anni)_ che [KeePassX](http://www.keepassx.org) non veniva più aggiornato finalmente i dev hanno "preso l'iniziativa" e hanno quindi deciso di [sviluppare una nuova versione](https://gitorious.org/keepassx) (2.0, attualmente in _alpha1_) che sia compatibile con i database di KeePass (.kdbx, _ndr_) e che abbia una nuova veste grafica.

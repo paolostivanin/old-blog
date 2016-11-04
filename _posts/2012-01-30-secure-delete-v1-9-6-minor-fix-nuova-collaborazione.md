@@ -3,11 +3,6 @@ comments: true
 date: 2012-01-30 12:51:24+00:00
 layout: post
 title: 'Secure Delete v1.9.6: minor fix + nuova collaborazione :)'
-categories:
-- Projects
-- Unix
-tags:
-- secure-delete
 ---
 
 Con la versione 1.9.6 Secure Delete porta un'ottima notizia:

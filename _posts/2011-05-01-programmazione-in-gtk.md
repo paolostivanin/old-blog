@@ -3,13 +3,6 @@ comments: true
 date: 2011-05-01 10:21:06+00:00
 layout: post
 title: Programmazione in GTK+!
-categories:
-- Unix
-tags:
-- bash
-- glade
-- gtk+
-- programmazione
 ---
 
 In questi giorni mi sto dedicando allo scripting in BASH e per dotare i miei script di interfaccia uso Zenity, una comoda (comodissima) alternativa alla creazione di una GUI da zero tramite [GTK+](http://www.gtk.org/)!

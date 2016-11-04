@@ -3,17 +3,6 @@ comments: true
 date: 2012-10-18 09:56:15+00:00
 layout: post
 title: 'Dropbox: GLIBCXX_3.4.11 not found'
-categories:
-- ArchLinux
-- Debian &amp; Co
-- Gentoo
-- Ubuntu
-- Unix
-tags:
-- archlinux
-- dropbox
-- linux
-- ubuntu
 ---
 
 Avviando Dropbox da terminale mi sono accorto che ottenevo questo avviso:

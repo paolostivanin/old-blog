@@ -3,16 +3,6 @@ comments: true
 date: 2011-04-12 22:32:22+00:00
 layout: post
 title: Unity o Gnome Shell?
-categories:
-- ArchLinux
-- Ubuntu
-- Unix
-tags:
-- archlinux
-- gnome-shell
-- linux
-- ubuntu
-- unity
 ---
 
 Ho colto l'occasione dell'uscita di [Gnome 3](http://www.gnome3.org) (finalmente ;) ) per installare Archlinux con il mio DE preferito!

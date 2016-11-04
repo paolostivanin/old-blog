@@ -3,13 +3,6 @@ comments: true
 date: 2011-02-19 11:36:48+00:00
 layout: post
 title: Megaupload su NAS Qnap!
-categories:
-- NAS Qnap
-tags:
-- megaupload
-- nas
-- pyload
-- qnap
 ---
 
 Per chi utilizza i NAS Qnap saprà che l'unico sito hosting ad oggi disponibile tramite download station è Rapidshare.

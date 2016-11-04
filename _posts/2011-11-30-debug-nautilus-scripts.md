@@ -3,15 +3,6 @@ comments: true
 date: 2011-11-30 11:12:49+00:00
 layout: post
 title: Debug Nautilus Scripts
-categories:
-- ArchLinux
-- Debian &amp; Co
-- Ubuntu
-- Unix
-tags:
-- bash
-- nautilus
-- script
 ---
 
 Se avete un _nautilus-script_ e avete bisogno di effettuarne il debug ma non sapete come fare, questa semplice soluzione vi sarà (molto) d'aiuto :)

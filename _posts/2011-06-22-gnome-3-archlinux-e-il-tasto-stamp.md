@@ -3,13 +3,6 @@ comments: true
 date: 2011-06-22 18:56:00+00:00
 layout: post
 title: Gnome 3, Archlinux e il tasto stamp!
-categories:
-- ArchLinux
-- Unix
-tags:
-- archlinux
-- gnome-shell
-- gnome3
 ---
 
 Ho appena (re)installato Archlinux perchè volevo tornare a (ri)provare Gnome 3.0.

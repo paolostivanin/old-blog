@@ -3,14 +3,6 @@ comments: true
 date: 2012-10-04 20:05:08+00:00
 layout: post
 title: Gentoo e il non boot
-categories:
-- Gentoo
-- Unix
-tags:
-- /dev/console
-- /dev/null
-- boot
-- gentoo
 ---
 
 Dopo aver effettuato il chroot, preparato il sistema base, compilato il kernel, riavviato il PC e selezionato Gentoo dal menù di GRUB, ottengo uno strano messaggio relativo al device file `/dev/console` e il boot si blocca...

@@ -3,14 +3,7 @@ comments: true
 date: 2010-12-10 15:30:34+00:00
 layout: post
 title: 'Archlinux: nuova installazione, nuovi problemi ma grandi cambiamenti!'
-categories:
-- ArchLinux
-- Unix
-tags:
-- arch
-- archlinux
-- linux
-- slim
+tags: [ archlinux, slim ]
 ---
 
 Oggi ho approfittato del mio tempo libero per dare una bella pulita all'hard disk del fisso di casa...

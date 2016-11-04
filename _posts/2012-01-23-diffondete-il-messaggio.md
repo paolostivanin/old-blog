@@ -3,16 +3,6 @@ comments: true
 date: 2012-01-23 14:57:05+00:00
 layout: post
 title: Diffondete il messaggio!
-categories:
-- ArchLinux
-- Debian &amp; Co
-- Generale
-- Gentoo
-- Ubuntu
-- Unix
-tags:
-- anonymous
-- sopa
 ---
 
 Sappiamo tutti che:

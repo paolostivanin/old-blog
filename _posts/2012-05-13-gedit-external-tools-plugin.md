@@ -3,20 +3,6 @@ comments: true
 date: 2012-05-13 10:24:55+00:00
 layout: post
 title: GEdit External Tools Plugin
-categories:
-- ArchLinux
-- Debian &amp; Co
-- Gentoo
-- Ubuntu
-- Unix
-tags:
-- archlinux
-- bash
-- debian
-- gedit
-- programmazione
-- script
-- ubuntu
 ---
 
 Qualche giorno fa, mentre stavo sviluppando un progettino in C/GTK+3, ho avuto la necessità di voler compilare "al volo" il codice e, dato che uso GEdit, ho abilitato e configurato un plugin veramente interessante e potente che mi ha permesso di associare alcune scorciatoie a dei comandi prestabiliti da me :)

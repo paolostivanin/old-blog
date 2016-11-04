@@ -3,11 +3,6 @@ comments: true
 date: 2012-01-31 20:13:09+00:00
 layout: post
 title: Secure Delete v1.10 :)
-categories:
-- Projects
-- Unix
-tags:
-- secure-delete
 ---
 
 Secure Delete v1.10 porta le seguenti migliorie:

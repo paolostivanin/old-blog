@@ -3,17 +3,6 @@ comments: true
 date: 2011-02-17 11:20:48+00:00
 layout: post
 title: CMus, player audio...molto minimale!
-categories:
-- ArchLinux
-- Debian &amp; Co
-- Gentoo
-- Ubuntu
-- Unix
-tags:
-- audio
-- cmus
-- player
-- terminale
 ---
 
 Qualche giorno fa stavo girovagando fra le _"decine"_ di pacchetti di Synaptic quando ho visto un pacchetto che mi ha incuriosito: [CMUS](http://cmus.sourceforge.net/)

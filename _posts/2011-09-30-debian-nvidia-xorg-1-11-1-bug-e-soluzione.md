@@ -3,12 +3,6 @@ comments: true
 date: 2011-09-30 21:58:48+00:00
 layout: post
 title: 'Debian + Nvidia + Xorg 1.11.1: bug e soluzione.'
-categories:
-- Debian &amp; Co
-- Unix
-tags:
-- debian
-- nvidia
 ---
 
 Oggi dopo 2 settimane di assenza ho controllato gli aggiornamenti disponibili per la mia Debian testing e ne trovati **237**!

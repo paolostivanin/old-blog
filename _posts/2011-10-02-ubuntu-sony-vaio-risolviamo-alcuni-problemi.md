@@ -3,19 +3,6 @@ comments: true
 date: 2011-10-02 16:05:52+00:00
 layout: post
 title: 'Ubuntu + Sony vaio: risolviamo alcuni problemi!'
-categories:
-- Debian &amp; Co
-- Ubuntu
-- Unix
-tags:
-- bluetooth
-- debian
-- linux
-- numlock
-- touchpad
-- ubuntu
-- unity
-- vaio
 ---
 
 Ho da poco acquistato un nuovo notebook ([Sony Vaio](http://www.polslinux.it/info/)) in sostituzione dell'ormai vecchio e lento Eeepc.

@@ -3,14 +3,6 @@ comments: true
 date: 2011-05-05 21:00:35+00:00
 layout: post
 title: Nerdate in BASH!
-categories:
-- ArchLinux
-- Debian &amp; Co
-- Ubuntu
-- Unix
-tags:
-- bash
-- programmazione
 ---
 
 Il modo migliore per ricordarsi quando sono gli esami?

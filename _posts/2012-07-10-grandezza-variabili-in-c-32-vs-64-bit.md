@@ -3,13 +3,6 @@ comments: true
 date: 2012-07-10 09:01:12+00:00
 layout: post
 title: Grandezza variabili in C, 32 vs 64 bit
-categories:
-- programming
-- Unix
-tags:
-- c
-- programmazione
-- unix
 ---
 
 Se si compila un programma su un'architettura a 32 bit e su una a 64 bit si avrà come risultato una variazione nella grandezza dei tipi delle variabili e quindi - se non si sta attenti - si può andare incontro ad un possibile segfault, ad un "comportamento indesiderato" oppure ad un buffer overflow.
